@@ -1,0 +1,2 @@
+## Beschreibung
+Die **Kognitive Verhaltenstherapie** wurde von [[Ellis]] eingeführt. Sie versucht Leute zu behandeln, indem irrationale Kognitionen im Sinne des [[ABC-Modell|ABC-Modells]] durch rationale ersetzt werden.

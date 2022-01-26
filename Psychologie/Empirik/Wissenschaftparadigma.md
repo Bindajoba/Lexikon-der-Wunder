@@ -1,0 +1,2 @@
+## Definition
+EIn **Wissenschaftsparadigma** ist ein in sich kohärentes, von vielen Wissenschaftlern geteiltes Bündel aus theoretischen Leitsätzen, Fragestellungen un Methoden, das längere historische Perioden in der Entwicklung einer Wissenschaft überdauert. (Asendorpf)

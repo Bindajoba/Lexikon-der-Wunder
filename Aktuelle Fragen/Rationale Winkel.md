@@ -1,0 +1,2 @@
+# Fragestellung
+Wenn man komplexe Zahlen in der Schreibweise $re^{2\pi i \cdot t}$ aber für $r$ und $t$ nur rationale Zahlen verwenden kann, was erhält man für eine Menge und welche Eigneschaften hat sie?
