@@ -1,6 +1,10 @@
 ## Beschreibung
 Ein Programm ist eine Folge (Sequenz) von Befehlen. Ein Programm in Ausführung heißt [[Prozess]].
 
+# Definition
+## Softwaretechnik
+Ein Programm ist eine in einer [[Programmiersprache]] verfasste Verarbeitungsvorschrift, die auf einem Computer unter Nutzung und Festlegung von Datenformaten ausgeführt werden kann 
+
 ## Funktionsweise
 Wird ein Programm ausgeführt, erhält es einen zusammenhängenden Speicherbereich. (vermutlich im [[Hauptspeicher]])
 Dieser wird [[Trace]] des Prozesses genannt und ist zunächst so lang wie die Anzahl der Befehle des Programms in [[Maschinencode]].
@@ -23,4 +27,4 @@ Benutzerprogramme sind alle anderen Programme
 
 
 
-#Betriebssysteme
+#Betriebssysteme #Softwaretechnik 

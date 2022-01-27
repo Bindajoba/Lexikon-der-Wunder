@@ -41,6 +41,10 @@ Die Aufgabe könnte man mit einer Tabelle mit Natürlichen Häufigkeiten lösen.
 ## Randomized Repsonse Methods
 ![[Bedingte Wahrscheinlichkeit Randomized Response Maethods.png]]
 
+## Notwendigkeit von Mathematischer Analyse
+![[Bedingte Wahrscheinlichkeit Weiißer Chip.png]]
+
+
 #Mathe-Didaktik-III 
 
 

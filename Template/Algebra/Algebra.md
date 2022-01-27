@@ -5,7 +5,7 @@ $\newcommand{\R}{\mathbb R}$
 $\newcommand{\C}{\mathbb C}$
 $\newcommand{\F}{\mathbb F}$
 $\newcommand{\Z}{\mathbb Z}$
-
+$\newcommand{\a}{\alpha}$
 
 # Beschreibung
 

@@ -7,8 +7,6 @@ $\newcommand{\F}{\mathbb F}$
 $\newcommand{\Z}{\mathbb Z}$
 
 
-![[blatt12.pdf]]
-
 
 # Aufgabe 1
 ## a)
@@ -66,10 +64,26 @@ $\sqrt{\frac{1 + \sqrt{5}}{2}}$ ist eine reelle Zahl. Damit ist $\Q(\sqrt{\frac{
 $f$ kann somit nicht in Linearfaktoren zerfallen.
 
 ## b)
+$\Q(\alpha, i)$ mit exemplarischer Nullstelle $\alpha = \sqrt{\frac{1 + \sqrt{5}}{2}}$  von $f$ ist normal, wenn $f$ über $\Q(\alpha, i)$ in Linearfaktoren zerfällt.
+Jede Nullstelle von $f$ liegt dann in $\Q(\alpha, i)$ erzeugbar.
 
+Beobachtung: $\sqrt{\frac{1 + \sqrt{5}}{2}} \cdot \sqrt{\frac{ \sqrt{5}-1}{2}}= \frac{1}{\sqrt{2}}\sqrt{\sqrt{5}-1}\cdot\frac{1}{\sqrt{2}}\sqrt{\sqrt{5}+1} = 1$.
+D.h. $\frac{1}{\alpha} = \frac{1}{\sqrt{\frac{1 + \sqrt{5}}{2}}} =\sqrt{\frac{ \sqrt{5}-1}{2}} \iff \frac{i}{\alpha} = \frac{i}{\sqrt{\frac{1 + \sqrt{5}}{2}}} =i\sqrt{\frac{ \sqrt{5}-1}{2}} = \sqrt{\frac{1 - \sqrt{5}}{2}}$ womit die Nullstelle $\sqrt{\frac{1 - \sqrt{5}}{2}}$ von $f$ als Quotient von $i, \alpha \in \Q(\alpha, i)$ in $\Q(\alpha, i)$ liegt.
+Damit liegen auch die anderen Nullstellen $-\sqrt{\frac{1 + \sqrt{5}}{2}}, -\sqrt{\frac{1 - \sqrt{5}}{2}}$ in $\Q(\alpha, i)$.
 
+Wählt man für $\alpha$ eine andere Nullstelle, dann kann man das Verfahren analog anwenden.
 
+## c)
+Jede endliche Erweiterung $L|K$ vom Grad $n$ ist algebraisch. 
+Desweiteren gibt es eine endliche Basis $\{\alpha_1,..., \alpha_n\} \subseteq L$ des $K$-Vektorraums $L$.
+Bilde das Minimalpolynom $\mu_{\alpha_i, K}$ von $\alpha_i \in L$. Bezeichne die $m_i$-Nullstellen von $\mu_{\alpha_1, K}$ mit $\alpha_{i, j}$, wobei $j \in \{1, ..., m_i\}$ 
+Das Polynom $\mu_{\alpha_1, K}...\mu_{\alpha_n, K}$, dass durch das Produkt aller Minimalpolynome entsteht hat die endlich vielen Nullstellen $\{\alpha_{1, 1}, ... \alpha_{1, m_1}, \alpha_{2, 1}, ..., \alpha_{n, m_n}\}$. Dessen Zerfällungskörper $Z = K(\alpha_{1, 1}, ... \alpha_{1, m_i}, \alpha_{2, 1}, ..., \alpha_{n, m_n})$ erhält man durch Adjunktion dieser Nullstellen.
+$Z|K$ ist eine endliche, normale Erweiterung.
 
+# Aufgabe 3
+![[blatt12.pdf]]
+
+$\implies:$ Jede algebraische Erweiterung von $K$ ist separabel. $\implies$ $\varphi: K \to K, a \mapsto a^p$ ist surjektiv
 #Algebra 
 
 
