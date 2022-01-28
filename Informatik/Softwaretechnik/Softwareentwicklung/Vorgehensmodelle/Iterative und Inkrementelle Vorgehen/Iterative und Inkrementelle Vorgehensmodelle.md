@@ -27,7 +27,7 @@ Review der vorherigen Schritte und Planung der nächsten Iteration
 
 # Anforderungen
 Durch diese Vorgensmodelle entstehen einige Anforderungen:
-- Architekturen sollten [[Modularisierug|modular]] sein
+- Architekturen sollten [[Modularisierung|modular]] sein
 - Die realisierenden Systemteile müssen kontinuierlich integrierbar sein
 - Die Systemteile sind mit [[Unit Test]] zu versehen.
 

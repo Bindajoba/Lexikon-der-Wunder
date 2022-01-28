@@ -1,7 +1,7 @@
 TARGET DECK: Universität::Informatik::SWT
 
 # Beschreibung
-Bei der Modularisierung wird ein System in viele, möchlichst unabhängige Systeme getrennt, die untereinander eine sehr geringe Kopplung haben.
+Bei der Modularisierung wird ein System in viele, möchlichst unabhängige Systeme ([[Modul]]) getrennt, die untereinander eine sehr geringe Kopplung haben.
 
 # Bewertung
 ## Vorteile
