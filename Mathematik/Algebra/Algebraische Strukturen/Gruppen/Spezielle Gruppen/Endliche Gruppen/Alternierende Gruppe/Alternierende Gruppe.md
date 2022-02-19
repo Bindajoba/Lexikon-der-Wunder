@@ -11,7 +11,6 @@ Nimmt man eine [[Symmetrische Gruppe]] $S_n$ und quadriert jedes Element darin, 
 Die Menge aller $3$-Zykel auf $\{1, ..., n\}$ bildet ein [[Erzeugendensystem]] von $A_n$
 
 ## Eigenschaften
-
 ### Ordnung
 Die [[Ordnung]] einer Alternierenden Gruppe $A_n$ ist genau halb so groß wie die Ordnung einer [[Symmetrische Gruppe|Symmetrishcen Gruppe]]. 
 

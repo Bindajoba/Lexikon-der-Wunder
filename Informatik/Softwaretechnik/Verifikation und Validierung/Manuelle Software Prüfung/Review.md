@@ -1,8 +1,15 @@
+TARGET DECK: Universität::Informatik::SWT
+
 ## Beschreibung
 Ein Review ist eine Form der [[Manuelle Software Prüfung]].
 
 Es ist schlicht gesagt, eine formalisierte Variante des [[Walkthrough]].
 Die Prüfung wird anhand von Checklisten durchgeführt.
+
+Q: Was ist ein Review?
+A: Eine formalisierte Version des Walkthrough. Mit Checklisten wird der Code durchgegangen und geprüft.
+<!--ID: 1644996890163-->
+
 
 ## Vorteile
 - **Vollständigkeit**

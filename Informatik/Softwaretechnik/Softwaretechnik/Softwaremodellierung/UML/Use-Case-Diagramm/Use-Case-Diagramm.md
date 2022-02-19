@@ -20,13 +20,33 @@ A: Mit Verhaltensdiagrammen lassen sich Anwendungsfälle in kleine Schritte auft
 
 
 # Syntax
-Akteure werden durch Strichmännchen gekennzeichnet.
-Use-Cases/Anwendungsfälle werden durch Kreise gekennzeichnet.
-Assoziationen sind Linien zwischen Akteuren und Use-Cases
-Generalisierungen werden durch Vererbungspfeile symbolisiert (wie im [[Klassendiagramm]])
-Use-Case Abhängigkeiten (extends, includes) verstehe ich nicht.
+## Grundlagen
+- Akteure werden durch Strichmännchen gekennzeichnet.
+- Use-Cases/Anwendungsfälle werden durch Kreise gekennzeichnet.
+- Assoziationen sind Linien zwischen Akteuren und Use-Cases
+- User Generalisierungen werden durch Vererbungspfeile symbolisiert (wie im [[Klassendiagramm]])
 ![[Use-Case-Diagram Beispiel.png]]
 
+## Multiplizität
+Mit Multiplizität kann man angeben, wie viele Akteure an einem Anwendungsfall beteiligt sind.
+![[Use-Case-Diagramm Multiplizität.png]]
+*z.B.: Zwei Leute sind beim Zahlen einer Mite beteiligt.*
+
+## Use-Case-Generalisierung
+Use Cases können auch Vererbungsstrukturen haben. Ein Spielzug kann mehrere speziellere Formen annehmen.: Entweder man zahlt eine Miete oder kauft eine Straße.
+
+![[Use-Case-Diagramm Generalisierung.png]]
+
+## Use-Case-Abhängigkeiten (extends)
+Use-Cases können um andere Use-Cases erweitert werden. Dies wird durch eine extends-Beziehung ausgedrückt. Dabei wird ein gestrichelter Pfeil verwendet.
+
+![[Use-Case-Digramme.png]]
+*Wenn man eine Straße kauft, kann man die Aktion durch das Aufnahmen einer Hypothek erweitern.*
+
+## Use-Case-Abhängigkeiten (include)
+Ruft ein Use-Case einen anderen immer auf, dan wird das durch eine include-Beziehung gekennzeichnet.
+![[Use-Case-Diagramm includes.png]]
+*Ein Spielzug beihnaltet immer ein Würfeln.*
 
 
 [^1]: https://en.wikipedia.org/wiki/Use_case_diagram

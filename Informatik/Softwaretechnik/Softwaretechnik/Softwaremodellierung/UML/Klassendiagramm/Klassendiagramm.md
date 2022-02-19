@@ -87,16 +87,6 @@ Assoziationen zwischen Klassen können je nach Anforderung Uni- oder Bidiraktion
 
 Sind keine Pfeile vorhanden, dann ist die Richtung nicht festgelegt.
 
-## Komposition
-Komposition Modelliert eine "besitzt"/"besteht aus"-Beziehung. Es wird durch eine schwarze Raute dargestellt. Die Objekte sind miteinander verknüpft und sollten die gleiche Lebensdauer haben (gleichzeitig entstehen und gelöscht werden)
-Daher empfielt es sich die Objektreferenz im Konstruktur der Oberklasse zu erzeugen.
-![[Klassendiagramm Komposition.png]]
-
-## Aggregation
-Aggregation ist eine Verallgemeinerung der Komposition. Ein Objekt kann ein oder mehrere Aggregate besitzen, von denen es ein Teilobjekt ist.
-Der Unterschied zur Komposition ist, dass ein Objekt Teil mehrere Aggegate sein kann. Bei der Komposition hingegen kann das Objekt nur Teil einer Sache sein.
-![[Klassendiagramm Aggregat.png]]
-
 ## Multiplizität
 Wie viele Objekte in einer Beziehung stehen, wird durch eine Zahl über den Enden der Assoziation dargestellt. (vgl. [[Multiplizität]])
 ![[Klassendiagramm Multiplizität.png]]
@@ -108,6 +98,19 @@ Ein Spieler hat aber in jedem Spiel einen unterschiedlichen Kontostand, untersch
 Daher wird der Verknüpfung selbst eine Klasse zugeordnet. Diese Klasse kann selbst in Beziehung zu anderen Klassen stehen.
 
 ![[Klassendiagramm Assoziationsklasse.png]]
+
+
+## Komposition
+Komposition Modelliert eine "besitzt"/"besteht aus"-Beziehung. Es wird durch eine schwarze Raute dargestellt. Die Objekte sind miteinander verknüpft und sollten die gleiche Lebensdauer haben (gleichzeitig entstehen und gelöscht werden).
+Daher empfielt es sich die Objektreferenz im Konstruktur der Oberklasse zu erzeugen.
+![[Klassendiagramm Komposition.png]]
+
+## Aggregation
+Aggregation ist eine Verallgemeinerung der Komposition. Ein Objekt kann ein oder mehrere Aggregate besitzen, von denen es ein Teilobjekt ist.
+Der Unterschied zur Komposition ist, dass ein Objekt nicht Teil eines Aggegats sein muss. (Eektrizitätswerk hat keine Farbe). Bei der Komposition hingegen kann das Objekt nur Teil einer Sache sein.
+![[Klassendiagramm Aggregat.png]]
+
+
 
 ## Ternäre Operationen
 Sind in einer Assoziation mehr als zwei Objekte beteiligt, dann kann man diese durch eine Raute verbinden. Das hat aber in Objektorientierten Programmen schwer umzusetzen und sollte daher nur zur Modellierung von Datenbeständen verwendet werden. 

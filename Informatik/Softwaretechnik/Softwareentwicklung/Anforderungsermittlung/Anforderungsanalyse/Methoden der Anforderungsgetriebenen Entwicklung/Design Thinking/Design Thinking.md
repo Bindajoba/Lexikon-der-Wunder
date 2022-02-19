@@ -13,7 +13,7 @@ A: Diesign Thinking ist eine Technik zur Generierung von Anforderungen
 
 
 Q: Worauf fokussiert sich Design Thinking?
-A: Auf das Entwickeln von Nutzernachen-Features
+A: Auf das Entwickeln von Nutzernahen-Features
 <!--ID: 1641730454431-->
 
 

@@ -11,7 +11,8 @@ $$P_B(A) = \frac{P(A \cap B)}{P(B)}$$
 
 
 # Fehler
-## Vertauschen der Bedingten Wahrsch. und Bedingung
+## Vernachlässigung von Basisraten
+(Oder Vertauschen der Bedingten Wahrsch. und Bedingung)
 9 von 10 Leuten der tödlich verunglückten Autofahrern trugen einen Sicherheitsgurt. 
 Sicherheitsgurte sind lebensgefährlich!!!
 
@@ -43,6 +44,16 @@ Die Aufgabe könnte man mit einer Tabelle mit Natürlichen Häufigkeiten lösen.
 
 ## Notwendigkeit von Mathematischer Analyse
 ![[Bedingte Wahrscheinlichkeit Weiißer Chip.png]]
+
+# Übungen
+## Klausur 2020 Aufgabe 11
+![[Klausur 2020 Aufgabe 11.png]]
+Martin Schulz hat Basisraten vernachlässigt. Statt die Wahrscheinlichkeit anzugeben, dass eine Person mit der Bedingung zwischen 25 und 35 Jahre einen befristeten Arbeitsvertrag hat, hat er die Wahrscheinlichkeit angegeben, dass jemand mit einem befristeten Arbeitsvertrag zwischen 25 und 35 Jahren alt ist.
+
+Sei $B:$ Befristeter Arbeitsvertrag, $A:$ Zwischen 25 und 35 Jahren als.
+Dann gilt $P_B(A) = 40\%$ aber $P_A(B) = 18\%$
+
+
 
 
 #Mathe-Didaktik-III 

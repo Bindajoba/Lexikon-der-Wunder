@@ -9,7 +9,7 @@ Jeder Prozess sollte einen gerechten Anteil an Prozessorzeit bekommen
 - **Policy Enforcement**
 Das gewählte Verfahren wird ohne Ausnahmen stets durchgesetzt
 - **Balance**
-Alle Teile des Systems sind gleichmäßig ausgelastet
+Alle Teile des Systems sind gleichmäßig ausgelastet. *Zum Beispiel soll ein Drucker nicht für eine Zeit zu 100% und dann zu 0% ausgelastet sein*
 - **Datensicherheit**
 Es können keine Daten oder Prozesse verloren gehen
 - **Skalierbarkeit**
@@ -25,6 +25,20 @@ A: - Fairness
 - Skalierbarkeit
 - Effizienz
 <!--ID: 1642897215817-->
+
+Q: Was bedeutet die Anforderung Policy Enforcement von Schedulingalgorithmen?
+A: Das gewählte Verfahren wird immer durchgesetzt.
+<!--ID: 1643668652765-->
+
+
+Q: Was bedeutet die Anforderung Balance von Schedulingalgorithmen?
+A: Alle Teile des Systems werden gleichmäßig ausgelastet.
+<!--ID: 1643668652871-->
+
+
+Q: Was bedeutet die Anforderung Datensicherheit von Schedulingalgorithmen?
+A: Es können keine Daten oder Prozesse verlorengehen.
+<!--ID: 1643668652995-->
 
 
 
@@ -49,20 +63,16 @@ Desweiteren gibt es noch mehr Aspekte, unter denen man Algorithmen vergleichen k
 - Vorhersagbarkeit
 
 # Algorithmen
-- FIFO
-- SPN
-- SRPT
-- RR
-- PS
+- FIFO (First In First Out)
+- SPN (Shortest Process Next)
+- SRPT (Shortest Remaining Process Time)
+- RR (Round-Robin)
+- PS (Priority Scheduling)
+- MLFQ (Multilevel Feedback Queueing)
 
 
-## Priorisierter FIFO
-![[Schedulingalgorithmus.png]]
-Die Prozesse werden in Warteschlangen gespeichert. Prozesse aus höheren [[Priorität|Prioritäten]] werden zuerst ausgeführt
-
-Ein solcher Prozess hat aber das Problem, dass Prozesse mit niedriger Priorität verhungern könnten, falls ständig Prozesse mit höheren Prioritäten ausgeführt werden.
-
-## First-Come-First-Served (FIFO)
+## Nicht-preemptives Scheduling
+### First-Come-First-Served (FIFO)
 First-Come-First-Served ist ein [[Scheduler|Nicht-Preemptiver-Scheduling-Algorithmus]]. Ein rechenbereiter Prozess stellt sich in den Ready-Queue einfach hinten an und bei frei werdendem Prozessor kann der jeweils älteste Prozess in den Zustand "running" überführt werden.
 
 **Vorteile**
@@ -71,20 +81,21 @@ First-Come-First-Served ist ein [[Scheduler|Nicht-Preemptiver-Scheduling-Algorit
 
 **Problem**: Wird ein langer Prozess vor einem kurzen Prozess ausgeführt, muss der kurze lange warten.
 
-## Shortest Process Next (SPN) / Shortest Job First
+### Shortest Process Next (SPN) / Shortest Job First
 Der kürzester Prozess wird als erstes ausgeführt.
 So kann das Problem von FIFO behoben werden. Dadurch wird im Allgemeinen die Geschwindigkeit größer.
 
 **Problem**: Wird erst mit einem großen Prozess begonnen und der kleine Prozess kommt verspätet nach, so muss der kleine Prozess trotzdem warten, bis der große fertig ist.
 Das verschlechtert die Antwortzeit.
 
-## Shortest Remaining Processing Time (SRPT)
+## Preemptives Scheduling
+### Shortest Remaining Processing Time (SRPT)
 Dieser Algorithmus löst das obere Problem, indem Prozesse unterbrochen werden dürfen um kleineren Prozessen den Vortritt zu lassen.
 Es handelt sich also um ein **Preemptive-Scheduling-Algorithmus**.
 
 **Problem**: Man kann nicht immer wissen, wie lange die Prozesse brauchen
 
-## Round-Robin (RR)
+### Round-Robin (RR)
 Round-Robin nutzt uhrenbasierte Unterbrechungen. In periodischen Intervallen $Q$ (für Zeitquantum) werden Prozesse in ihrer Abarbeitung unterbrochen.
 
 Die Prozesse werden der Reihe nach für eine kurze Zeitspanne bearbeitet. Kommt man beim letzten Programm an, fängt man wieder am Anfang an.
@@ -92,11 +103,18 @@ Die Prozesse werden der Reihe nach für eine kurze Zeitspanne bearbeitet. Kommt 
 $Q$ sollte nicht zu klein und nicht zu groß sein. Ist $Q$ zu klein, ist das Dispatching zu aufwändig.
 Ist $Q$ zu groß, wird Round Robin zu FIFO
 
+**
+
+
+**Bewertung**
 Round Robis ist besser als FIFO aber schlechter als SRPT.
-Round Robin ist prkatisch implementierbar und fair.
+Round Robin ist praktisch implementierbar und fair.
 
 ## Priority Scheduling (PS)
-Jeder Prozess erhält ein Priorität. Die Abarbeitung bearbeitet Prozesse mit der Höchsten Priorität als allererstes
+Jeder Prozess erhält ein Priorität. Die Abarbeitung bearbeitet Prozesse mit der Höchsten Priorität als allererstes. Prioritäten können mit anderen Algorithmen kombiniert werden.
+Prozesse gleicher Priorität werden gruppiert. Innerhalt einer Gruppe kann dann ein anderer Algorithmus verwendet werden.
+![[Schedulingalgorithmus.png]]
+Ein solcher Prozess hat aber das Problem, dass Prozesse mit niedriger Priorität verhungern könnten, falls ständig Prozesse mit höheren Prioritäten ausgeführt werden.
 
 **Probleme**:
 - Nicht fair

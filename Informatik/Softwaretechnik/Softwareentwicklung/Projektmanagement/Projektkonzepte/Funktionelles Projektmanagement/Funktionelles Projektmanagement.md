@@ -59,6 +59,9 @@ Arbeitspakete werden als Balken dargestellt, die Zeit wird auf der x-Achse aufge
 - Netzplantechnik
 Kein Plan
 
+Q: Was ist ein kritischer Pfad? ([[Funktionelles Projektmanagement]])
+A: Eine Folge von Arbeitspaketen, die unbedingt hintereinander ausgeführt werden müssen und bei denen die Verlängerung eines Arbeitspakets die Arbeitszeit des gesamten Projekts verlängern.
+<!--ID: 1645260973828-->
 
 
 ## Projektüberwachung

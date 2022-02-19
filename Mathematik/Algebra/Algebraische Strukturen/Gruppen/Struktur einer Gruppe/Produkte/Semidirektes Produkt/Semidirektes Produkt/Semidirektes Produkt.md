@@ -23,7 +23,7 @@ Seien $U, N$ Gruppen und $\phi: U \to Aut(N)$ ein Homomorphismus. Wir definieren
 $$(n_1, u_1) * (n_2, u_2) = (n_1\phi(u_1)(n_2), u_1u_2) \text{ für } (n_1, u_1), (n_2, u_2) \in U\times N$$
 Dann ist $(N \times U, *)$ eine Gruppe. Man nennt sie das äußere Produkt von N und U und bezeichnen sie mit $N \rtimes_\phi U$
 
-*Es gibt noch ein inneres Semidirektes Produkt aber dass ist vom Resultat gliech dem äußeren.*
+*Es gibt noch ein inneres Semidirektes Produkt aber dass ist vom Resultat gleich dem äußeren.*
 
 
 #Carter 

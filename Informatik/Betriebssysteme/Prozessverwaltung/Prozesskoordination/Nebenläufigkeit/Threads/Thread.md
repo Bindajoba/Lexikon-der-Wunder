@@ -23,5 +23,11 @@ einnehmen.
 - [[User-Level-Thread]]
 - [[Kernel-Level-Thread]]
 
+Q: In welche zwei Implementierungsarten lassen sich Threads klassifizieren?
+A: - User-Level-Thread
+- Kernel-Level-Thread
+<!--ID: 1644309601783-->
+
+
 
 #Betriebssysteme 

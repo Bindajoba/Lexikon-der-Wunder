@@ -5,11 +5,13 @@ Hier soll eine Übersicht gegeben werden, wie alle Strukturen der Zahlentheorie 
 
 
 # Struktur
-| Klassifizierung                                                | [[Ring]]       | [[Integritätsbereich]] | [[Euklidischer Ring]]     |   [[Faktorieller Ring]]               | [[Hauptidealring]]           | [[Körper]]                 |
-| -------------------------------------------------------------- | -------------- | ---------------------- | ------------------------- | ---------------------------------- | ------------------------------- | -------------------------- |
-| Definition                                                     | Siehe [[Ring]] | Nur ein [[Nullteiler]] | Besitzt [[Höhenfunktion]] | Jedes Element hat Primzerlegung| Jedes [[Ideal]] ist [[Hauptideal]]  | Quotient ist abgeschlossen |
-| [[Primelement]] $\implies$ Irreduzibel |                | x                      | x                         | x                                  | x                               | x                          |
-| [[Irreduzibles Element]] $\implies$ Prim                       |                |                        |                           |                                   | x                               | x                           |
+Je weiter rechts desto spezieller
+
+| Klassifizierung                          | [[Ring]]       | [[Integritätsbereich]] | [[Faktorieller Ring]]           | [[Hauptidealring]]                 | [[Euklidischer Ring]]     | [[Körper]]                 |
+| ---------------------------------------- | -------------- | ---------------------- | ------------------------------- | ---------------------------------- | ------------------------- | -------------------------- |
+| Definition                               | Siehe [[Ring]] | Nur ein [[Nullteiler]] | Jedes Element hat Primzerlegung | Jedes [[Ideal]] ist [[Hauptideal]] | Besitzt [[Höhenfunktion]] | Quotient ist abgeschlossen |
+| [[Primelement]] $\implies$ Irreduzibel   |                | x                      | x                               | x                                  | x                         | x                          |
+| [[Irreduzibles Element]] $\implies$ Prim |                |                        |                                 | x                                  | x                         | x                          |
 
 
 #Zahlentheorie 

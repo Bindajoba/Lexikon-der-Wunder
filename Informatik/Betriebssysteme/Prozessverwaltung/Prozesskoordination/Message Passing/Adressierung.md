@@ -8,6 +8,8 @@ Dazu gibt es zwei Ansätze:
 Q: Welche Formen der Adressierung gibt es? ([[Adressierung]])
 A: - Direkte Adressierung
 - Indirekte Adressierung
+<!--ID: 1643668655159-->
+
 
 
 

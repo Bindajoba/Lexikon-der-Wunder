@@ -1,3 +1,5 @@
+TARGET DECK: Universität::MaDid III
+
 # Beschreibung
 
 # Kriterien zur Wahl von Einfürhungsbeispielen
@@ -7,6 +9,11 @@ Fragestellung, die klar auf das neue Konzept hinführt
 Die Fragestellung ist mit bisherigen Mitteln nicht ohne weiteres lösbar
 - **Möglichkeiten der Anbindung einer Argumentation** (Unterschied zu 1?)
 Die Konzete sollten im Beispiel transparent sein
+
+Q: Welche zwei wichtigen Kriterien gibt es für ein gutes Einführungsbeispiel?
+A: - Klare Transparenz des neuen Konzepts
+- Notwendigkeit des neuen Konzepts
+<!--ID: 1645260975005-->
 
 
 

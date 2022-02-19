@@ -27,6 +27,14 @@ wobei $[G:H]$ sich auf den Index, also die Anzahl von [[Nebenklasse|Nebenklassen
 ## Nichttriviales Zentrum
 Sei $G$ eine nichttriviale $p$-Gruppe. Dann ist das [[Zentrum]] $Z(G)$ von $G$ ebenfalls nichttrivial, besteht also aus mindestens $p$ Elementen.[^1]
 
+**Beweis:**
+Wir stellen die Klassengleichung auf. Sei $R$ ein Repräsentantensystem der Konjugationsklassen von $G$, die aus mehr als einem Element bestehen. Die [[Klassengleichung]] hat dann die Form
+$$|G| = |Z(G)|+ \sum_{g \in R}(G:C_G(g))$$
+$|G|$ ist durch $p$ teilbar. Die $(G:C_G(g))$ teilen $|G|$ und sind größer als $1$, sind also auch durch $p$ teilbar. In Folge muss $|Z(G)|$ auch größer $1$ und durch $p$ teilbar sein.
+Damit ist $Z(G)$ nicht-trivial.
+
+
+
 ## Klassifikation von $p^2$
 Sei $p$ eine Primzahl. Dann ist jede Gruppe der Ordnung $p^2$ [[Abelsche Gruppe|abelsch]]. 
 

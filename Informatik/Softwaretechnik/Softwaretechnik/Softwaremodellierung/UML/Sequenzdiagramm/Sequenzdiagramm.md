@@ -22,6 +22,11 @@ Sequenzdiagrame werden mit benannt nd mit einem sd betitelt.
 ![[Sequenzdiagramm Beispiel.png]] 
 Wie man erkennen kann, werden Anfragepfeile Schwarz und Antwortpfeile gestrichelt gezeichnet.
 
+Q: Wie werden Objekte in Sequenzdiagrammen übertragen?
+A: Durch die Form häuserBauen(Anzahl)
+<!--ID: 1645260971659-->
+
+
 ## Aktivitätszonen
 Aktivitätszonen werden durch schmale Rechtecke markiert. Sie verdeutlichen, die Zeit in der ein Objekt etwas tut.
 Hat ein Objekt mehrere Aktivitätszonen gleichzeitig, dann kann das entweder heißen, dass zwei Aktivitäten gleichzeitig verlaufen oder dass die zweite Aktivität auf die Fertigstellung der ersten wartet.

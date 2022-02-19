@@ -11,6 +11,7 @@ Der Zeitpunkt, an dem der Prozess zum ersten mal an den Prozessor zugewiesen wir
 - **Beendigungszeit**
 Der Zeitpunkt, an dem der Prozess terminiert
 - **Wartezeit** ($T_W$)
+Die Zeitspanne, die ein Prozess im System verbringt, ohne dass der Prozess ausgeführt werden
 Die Differenz von Ankunftszeit und Startzeit eines Prozesses
 - **Bedienzeit** ($T_B$)
 Die Differenz von Startzeit und Beendigungszeit

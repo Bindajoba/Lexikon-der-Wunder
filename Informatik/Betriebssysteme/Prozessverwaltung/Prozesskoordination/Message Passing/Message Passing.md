@@ -10,6 +10,8 @@ Für den Nachrichtenaustausch werden zwei Primitive genutzt:
 Q: Welche zwei Primitive werden für Message Passing verwendet? ([[Message Passing]])
 A: - send(destination, message)
 - receive(source, message)
+<!--ID: 1643668654827-->
+
 
 
 # Linnhoff-Visualisierung
@@ -22,7 +24,7 @@ Bei receive() gibt es meinerseits Unklarheit:
 *Diese Interpretation scheint mir die sinnvollste zu sein*
 -  Der Empfänger wartet auf einen Brief im Briefkasten (source), wenn einer ankommt, dann wird dieser gelesen.
 
-Was bedeutet message bei receive(...)? Ich denke, das beschreibt die Methode, in der die Nachricht gespeichert werden soll.
+Was bedeutet message bei receive(...)? Ich denke, das beschreibt die Methode, in der die Nachricht gespeichert werden soll???
 
 
 # Blockierung
@@ -32,6 +34,8 @@ Q: Welche 3 grundlegenden Arten gibt es Message-Passing umzusetzen?
 A: - Blocking Send, Blocking Receive
 - Nonblocking Send, Blocking Receive
 - Nonblocking Receive-Ansätze
+<!--ID: 1643668654945-->
+
 
 ## Blocking Send, Blocking Receive
 Sendender Prozess wird blockiert, bis die Nachricht beim Empfänger angekommen ist.
@@ -57,6 +61,8 @@ Der Brief kann für längere Zeit im Briefkasten bleiben. So kann der Empfänger
 Q: Welche sinnvollen Nonblocking Receive-Ansätze gibt es für das [[Message Passing]]
 A: - Ohne Puffer, Mit Blockierung
 - Mit Puffer, Ohne Blockierung
+<!--ID: 1643668655063-->
+
 
 # Adressierung
 Wie werden Adressen an bestimmte Orte/Speicher/Prozesse formuliert und wohin sollen sie gesendet werden?

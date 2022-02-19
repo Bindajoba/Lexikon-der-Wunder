@@ -4,7 +4,7 @@ Es wurde beobachtet, dass zwei Stadtteile vollkommen unterschiedliche Kriminalit
 Man stellte die Hypothese auf, dass es wahrscheinlicher ist, einen Schaden an einem Objekt anzurichten, wenn bereits ein Schaden vorhanden ist.
 
 Dazu stellte man ein luxuriöses Auto in eine Straße und wartete. Selbst nach langer Zeit ist dem Auto nichts passiert. 
-Schlägt man diesem Auto aber in Fenster ein, so entstehen neue Schäden viel schneller.[^1]
+Schlägt man diesem Auto aber ein Fenster ein, so entstehen neue Schäden viel schneller.[^1]
 
 ## Erklärungsansatz
 Eine Erklärung ist, dass ein makelloses Objekt einen Wert vermittelt. Ein beschädigtes Objekt hingegen vermittelt, dass der Besitzer das Objekt nicht wertschätzt.

@@ -29,6 +29,21 @@ zu 3.)
 Seien $m', n'$ sodass $m = m'd$ und $n = n'd$. Zu zeigen ist $ord(g^m) = n'$. Da $d$ ein Teiler von $n$ ist gilt $ord(g^d) = \frac{n}{d}=n'$. Ferner sind $m'$ und $n'$ teilerfremd. Damit lässt sich 1.) auf $g^d$ anwenden.
 $\implies(g^d)^{m'} = n' \implies n' = g^{dm'} = g^m$
 
+# Übungen
+## Klausur 2018 Aufgabe 2
+![[Klausur 2018 Aufgabe 2 .png]]
+### a)
+- $4$ ist ein Teiler von $20$ mit $20/4 = 5$ und damit hat die erzeugte Untergruppe von $g^4$ nach Vorlesung die Ordnung $5$.
+- $7$ und $20$ ins Teilerfremd, also hat die von $g^7$ erzeugte Untergruppe die Ordnung $20$
+- Nach Volesung gilt die Formel: $ord(g^{14}) = \frac{20}{ggT(14, 20)} = 10$.
+
+### b)
+Die Anzahl der Elemente von Ordnung $5$ in einer Zyklischen Gruppe errechnet sich mit der [[Eulersche Phi Funktion|Eulerschen Phi Funktion]]: $\varphi(5) = 4$
+
+
+
+
+
 
 
 #Algebra 

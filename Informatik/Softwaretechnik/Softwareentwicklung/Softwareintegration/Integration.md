@@ -1,17 +1,28 @@
-# Beschreibung
+TARGET DECK: Universität::Informatik::SWT
+
+ # Beschreibung
 Nach Abschluss der Codierung und der Qualitätssicherung einzelner Programmmodule liegt die Software im Sinne der Realisierung weitgehend fertiggestellt vor.  Das darauf folgende Zusammenbauen des Systems wird **Integration** genannt.
+
+Üblicherweise versteht man darunter eine Integration aller Komponenten gleichzeitig. Für eine kontinuierliche Integration siehe [[Continuous Integration]].
 
 # Vorgehen
 Das Integrieren wir üblicherweise in mehreren Schritten durchgeführt:
-1. Modultest
-2. Komponenten-, System- und Integrationstest
+1. Prüfung der Einzelsysteme/**Modultest**
+2. Integration der Einzelsysteme
+3. Prüfung des integrierten Systems (Verifikation)/**Integrationstest**
+4. Identifikation von Fehlern (Defekten)
+5. Diagnose, Korrektur von Fehlern
+6. Nachprüfung
+
+
 
 ## 1. Modultest
 Der Modultest [[Software-Test|testet]] alle Module separat auf:
 - Bugs und Fehler
 - Spezifikation 
 
-## 2. Integrationstest
+
+## 3. Integrationstest
 Während der Modultest einzelne Einheiten isoliert betrachtet werden im Integrationstest die Einheiten im Zusammenspiel getestet.
 
 ### Methoden der Integration
@@ -26,7 +37,16 @@ Als erstes wird das Modul getestet, das in der Abhängigkeitshierarchie ganz obe
 
 Das Vorgehen schrittweise neue Kompoentenen hinzuzufügen und zu testen wird **Schrittweise Teilintegration** genannt.
 
-### Fehler beim Integrationstest
+Q: Welche Strategien für die Integration gibt es?
+A: - Big-Bang
+- Bottom-Up
+- Top-Down
+<!--ID: 1644666513988-->
+
+
+
+
+## 4. Identifikation der Fehler
 Taucht beim Integrationstest ein Fehler auf, welcher kein Modulfehler ist (der hätte schon im vorherigen Schritt entdeckt werden sollen), so kann er folgende Ursachen haben:
 - **Kopplungsfehler**
 Ein falsches Modul wurde geladen, nicht angebunden oder inkorrekt aufgerufen
@@ -39,7 +59,7 @@ Nachrichten können zwar richtig gesendet und empfangen werden, jedoch zum falsc
 - **Synchronisationsfehler**
 Module verursachen einen Deadlock
 
-## 3. Abnahmetests
+## Am Ende: Abnahmetests
 Abnahmetests dienen der Überprüfung eines Softwaresystems bei der Auslieferung bzw. Übergabe an den Autgraggeber und die Nutzer.
 Hier wird vor allem getestet, ob alle Spezifikationen erfüllt sind.
 

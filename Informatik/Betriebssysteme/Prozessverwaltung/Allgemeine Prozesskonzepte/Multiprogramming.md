@@ -1,8 +1,21 @@
+TARGET DECK: Universität::Informatik::Betriebssysteme
+
 ## Beschreibung
 **Multiprogramming** ist eine Form [[Prozess|Prozesse]] auszuführen.
 Zwischen Prozesse wird durch Unterbrechungen hin und her gewechselt.
 
 Das Gegenstück ist [[Multiprogramming]]
+
+Q: Was versteht man unter Multiprogramming?
+A: Mehrere Prozesse Prozesse werden gleichzeitig auf einem Prozessor ausgeführt.
+<!--ID: 1643668652075-->
+
+
+Q: Was ist der Hauptvorteil von Multiprogramming?
+A: Die CPU-Auslastung ist höher.
+<!--ID: 1643668652214-->
+
+
 
 
 ## Funktionsweise

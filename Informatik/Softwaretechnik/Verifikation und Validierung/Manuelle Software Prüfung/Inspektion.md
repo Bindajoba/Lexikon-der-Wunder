@@ -1,5 +1,13 @@
+TARGET DECK: Universität::Informatik::SWT
+
 ## Beschreibung
 Eine **Inspektion** ist die formellste der drei Prüfungsvarianten einer [[Manuelle Software Prüfung]].
+
+
+Q: Was ist eine [[Inspektion]]? 
+A: Code wird in formeller Umgebung von einer Gruppe langwierig überprüft. 
+<!--ID: 1644996890336-->
+
 
 ## Vorgang
 Die Inspektion lässt sich meistens in 6 Phasen aufteilen.
@@ -23,6 +31,7 @@ Wichtig ist, dass in einer Inspektion Fehler und keine Lösungen besprochen werd
 ### Moderator
 Der Moderator soll die Inspektion organisieren udn die Dominanz einzelner Inspektoren verhindern.
 Desweiteren ist er dafür verantwortlich eine lockere positive Arbeitsatmossphäre zu erzeugen.
+
 
 ### Gutachter
 Der Gutachter führt das Team durch den Programmcode. Dabei kommentiert er wichtige Punkte und Entscheidungen des Autors.

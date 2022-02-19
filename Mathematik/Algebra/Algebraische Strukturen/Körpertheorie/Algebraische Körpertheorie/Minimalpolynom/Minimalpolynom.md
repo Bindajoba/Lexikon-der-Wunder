@@ -22,6 +22,13 @@ Sei $\mu_{K, \alpha}$ ein Minimalpolynom. Dann hat es keine Nullstellen in $K$.
 Hätte es eine solche Nullstelle $n$, könnte man $\mu_{K, \alpha}$ durch $(x-n)$ polynomdividieren.
 Das Ergebnis ist restlos und wie man am Algorithmus erkennen kann, müssen die  Koeffizienten des Ergbnisses wieder in $K$ liegen, womit $\mu_{K, \alpha}$ nicht reduzibel ist. 
 
+# Beispiele
+## Wurzel 2 + 3
+Finde das [[Minimalpolynom]] von $\sqrt 2+ \sqrt 3$.
+$(x-\sqrt 2 - \sqrt 3) \to ((x-\sqrt 2)^2 - 3) = x^2 - 2\sqrt 2 x + 2 -3 = (x^2-1)-2\sqrt 2x$
+$\to (x^2-1)^2-8x^2 = x^4-10x^2+1$
+
+Man kann prüfen: $\sqrt 2 + \sqrt 3$ bildet einen $4$-dimensionalen Vektorraum und $\Q(\sqrt 2 + \sqrt 3)$ hat damit den Erweiterungsgrad $4$. Das gefundene Polynom ist also wirklich das Minimalpolynom
 
 
 [^1]: Gerkmann - Definition 12.2

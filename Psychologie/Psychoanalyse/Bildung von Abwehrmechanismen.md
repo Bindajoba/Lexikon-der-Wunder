@@ -20,7 +20,7 @@ Verdrängte Ängste können aber durch Träume und Fehlleistungen wieder zum Vor
 Man Leugnet die Angst ("Ich habe gar keine Angst...")
 
 ### Regression
-Rückfall in Verhaltensweisen, die auf einer früheren Entwicklungsstuffe mit angenehmen Gefühlen und Bedürfnisbefriedigung assoziiert waren.
+Rückfall in Verhaltensweisen, die auf einer früheren Entwicklungsstufe mit angenehmen Gefühlen und Bedürfnisbefriedigung assoziiert waren.
 
 Z.B. Essen bei Stress.
 

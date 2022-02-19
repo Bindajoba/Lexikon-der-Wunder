@@ -21,7 +21,10 @@ Einer Architektur sind einige wichtige Prinzipien unterlegt, auf die man beim En
 
 ## KISS
 KISS steht für, "keep it simple and stupid". Es soll auf ein Problem eine möglichst einfach verständliche aber tragfähige Lösung gefunden werden. (Das heißt nicht zu einfach!)
+
 ## Kopplung und Kohäsion
+*Das ist wie bei einem Zug, da muss die Kopplung zwischen Wagons niedrig ist aber die Stärke/Kohäsion der Wagons selbst hoch.*
+
 ### Kopplung
 Ein [[Softwaresystem]] ist in mehrere [[Softwarekomponente]] zerlegbar. Diese Komponenten kommunizieren über Schittstellen miteinander. Je häufiger auf eine Schnittstelle zugegriffen wird, desto größer ist die Abhängigkeit/**Kopplung** zwischen den Komponenten.
 Je niedriger die Kopplung, desto eigenständiger ist die Komponente und desto höher ist die Wartbarkeit des Systems.
@@ -34,8 +37,18 @@ Es wird zwischen unterschiedlichen Arten der Kopllung unterschieden:
 - Datenkopplung (data coupling)
 - Pathologische Kopplung (pathological coupling)
 
+Q: Was ist Kopplung? ([[Softwarearchitektur]])
+A: Ein Maß dafür, wie stark Module vernetzt sind.
+<!--ID: 1645260973933-->
+
+
 ### Kohäsion
 Die Köhäsion beschreibt den Grad des inneren Zusammenhangs der Komponenten, Klassen eines Systems. In einem System mit starker Kohäsion erfüllt jede Programmeinheit genau eine wohldefinierte Aufgabe.
+
+Q: Was ist Kohäsion? ([[Softwarearchitektur]])
+A: Ein Maß dafür, wie stark die Bestandteile eines Moduls vernetzt sind.
+<!--ID: 1645260974065-->
+
 
 ## Kapselung und Information Hiding
 Eine gute Architektur versteckt das Innenleben einer Komponente, indem nur über eine klar definierte Schittstelle darauf zugegriffen werden kann. Das Vorgehen, den Inhalt einer Komponente auf diese Weise von äußeren EInflüssen zu trennen, nennt man Kapselung.

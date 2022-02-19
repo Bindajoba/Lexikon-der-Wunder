@@ -8,7 +8,7 @@ $\newcommand{\Z}{\mathbb Z}$
 
 
 # Beschreibung
-
+Über den Fixkörper kommen die meisten Zusammenhängen zwischen Untergruppen und Unterkörpern her.
 
 # Definition
 Sei $L$ ein  [[Körper]] und $G$ eine [[Untergruppe]] von $Aut(L)$. Dann nennt man $L^G = \{\alpha \in L : \sigma(\alpha) = \alpha, \forall \sigma \in G\}$ den **Fixkörper** von $G$.

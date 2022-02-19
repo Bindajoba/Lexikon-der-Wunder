@@ -42,6 +42,6 @@ Der Prozessdeskriptor enthält alle Daten, um einen Prozess vollständig zu besc
 - Ablaufpriorität des Prozesses
 
 ## Prozesswechsel
-Siehe [[Prozesswechsel]]
+Siehe [[Kontextswitch]]
 
 #Betriebssysteme 

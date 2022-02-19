@@ -1,4 +1,6 @@
-# Beschreibung
+TARGET DECK: Universität::Informatik::SWT
+
+ # Beschreibung
 Ein **Unit Test** beschreibt einen (meist automatisierten) [[Software-Test|Test]], mit dem kleine Mengen Quellcode so früh und so oft wie möglich getestet werden.
 Sie werden idealerweise während der Entwicklung entworfen.
 

@@ -17,16 +17,37 @@ Die Grundsätze des Agilen Programmierens sind in diesem [Manifest](https://agil
 - Einbeziehen der Nutzer
 - Beständiges Testen
 
+Q: Was sind 2 von 3 Vorteile des Agilen Vorgehensmodells?
+A: - Frühes und häufiges Coden
+- Einbeziehen der Nutzer/Domänenexperten
+- Beständiges Testen
+<!--ID: 1644666513645-->
+
+
+Q: Nenne zwei Maßnahmen, mit denen agle Methoden versucen, eine frühe Validierung zu erreichen
+A: - Schnelles Testen und Beheben von Bugs
+- Frühes Einbeziehen von Nutzern/Domänenexperten
+<!--ID: 1644666513750-->
+
+
 ## Nachteile
 - Großer Management-Aufwand
 - Schlecht auf größere Projekte skalierbar
+- Schlechter Überblick über den aktuellen Stand des Projekts
 
-# An
+
+Q: Was sind 2 von 3 Nachteile des Agilen Vorgehensmodells?
+A: - Großer Management-Aufwand
+- Schlechter Überblick
+- Schlecht skalierbar
+<!--ID: 1644666513864-->
+
+
 
 # Beispiele von Methoden und Praktiken
 ## Vorgehensmodelle
-- eXtreme Programming
-- Scrum
+- [[EXtreme Programming]]
+- [[Scrum]]
 
 ## Agile Methoden und Praktiken
 - [[Refactoring]]

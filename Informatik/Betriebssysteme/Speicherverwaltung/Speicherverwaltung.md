@@ -14,11 +14,11 @@ Eine Datenstruktur soll dafür dienen, dass ein [[Prozess]] genau die Sachen wie
 2. **Protection**
 Jder Prozess muss gegen ungewollte EInmischungen anderer Prozesse geschützt werden
 3. **Sharing**
-Es muss einen öffentlichen Datenbereich zugegriffen werden können
+Es muss auf einen öffentlichen Datenbereich zugegriffen werden können
 4. **Logical Organization**
 Der Hauptspeicher ist immer als linearer (1-dimensionaler) Adressraum organisiert, der aus einer Folge von Bits besteht.
 5. **Physical Organization**
-Umfasst die Einteilung ein Hauptspeicher (schneller Zugriff) und Hintergrundspeicher (langsamer und billiger)
+Umfasst die Einteilung in Hauptspeicher (schneller Zugriff) und Hintergrundspeicher (langsamer und billiger)
 
 
 
@@ -28,6 +28,8 @@ A: - Relocation
 - Sharing
 - Logical Organization
 - Physical Organization
+<!--ID: 1643668651650-->
+
 
 # Variationen der Partitionierung
 Beim Partitionieren gibt es grundsätzlich zwei Herangehensweisen:
@@ -36,6 +38,14 @@ Q: Welche grundsätzlichen drei Herangehensweisen der Partitionierung gibt es? (
 A: - Feste Partitionierung
 - Dynamische Partitionierung
 - Hybride Partitionierung
+<!--ID: 1643668651753-->
+
+Q: Welche Arten der Frakmentierungen gibt es?
+A: - Interne Fragmentierung
+- Externe Fragmentierung
+<!--ID: 1644309601043-->
+
+
 
 ## Feste Partitionierung
 *Der Speicher wird wie ein Hotel in feste Räume partitioniert.*
@@ -68,6 +78,8 @@ Q: Was sind die drei simplen Strategien zur dynamischen Partitionierung?
 A: - Best-Fit
 - First-Fit
 - Next-Fit
+<!--ID: 1643668651851-->
+
 
 ### Segmentierung
 Der Prozess wird als zusammenhängender Block in aufeinanderfolgenden Speicherzellen (des [[Hauptspeicher]]) abgelegt.

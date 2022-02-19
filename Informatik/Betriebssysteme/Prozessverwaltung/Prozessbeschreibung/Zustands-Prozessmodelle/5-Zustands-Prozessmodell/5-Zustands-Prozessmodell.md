@@ -1,4 +1,6 @@
-## Beschreibung
+TARGET DECK: Universität::Informatik::Betriebssysteme
+
+# Beschreibung
 Das **5-Zustands-Modell** ist eine Weiterentwicklung des [[2-Zustands-Prozessmodell]].
 
 Der Zustand 'not running' wird weiter differenziert in
@@ -14,6 +16,16 @@ Damit besteht das Modell aus den Zuständen:
 - exit: Der Prozess wurde durch das Betriebssystem aus der Menge der ausführbaren Prozesse entfernt
 
 ![[5-Zustands-Prozessmodell.png]]
+
+Q: Welche Zustände hat das 5-Zustandsprozessmodell
+A: - new
+- ready
+- running
+- blocked
+- exit
+<!--ID: 1643668655367-->
+
+
 
 ## Weitere Funktionen
 ### Priorisierung

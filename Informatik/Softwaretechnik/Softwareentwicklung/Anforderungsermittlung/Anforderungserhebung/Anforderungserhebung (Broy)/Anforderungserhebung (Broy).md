@@ -101,7 +101,7 @@ Die Anforderungen sind widerspruchsfrei
 - **Vollständigkeit**
 Alle für das System wichtigen Aufforderungen wurden erfasst
 - **Korrektheit**
-Alle Anforderungen treffen valide Anforderungen (nicht das gleiche wie Konsistenz?)
+Alle Anforderungen treffen valide Anforderungen
 - **Eindeutigkeit**
 Anforderungen sind klar und unmissverständlich formuliert
 - **Überprüfbarkeit**
@@ -120,8 +120,8 @@ Anforderungen, die diese Qualitätsaspekte nicht erfüllen, geben nach Broy eine
 
 Q: Nenne 5 von 8 Qualitätsaspekte für prüfbare Anforderungen ([[Anforderungserhebung (Broy)]])
 A: - **Konsistenz**
-- **Vollständigkeit
-- **Korrektheit
+- **Vollständigkeit**
+- **Korrektheit**
 - **Eindeutigkeit**
 - **Überprüfbarkeit**
 - **Änderbarkeit** 

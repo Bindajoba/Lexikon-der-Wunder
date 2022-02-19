@@ -2,7 +2,7 @@ $\newcommand{\Q}{\mathbb Q}$
 $\newcommand{\C}{\mathbb C}$
 $\newcommand{\F}{\mathbb F}$
 $\newcommand{\Z}{\mathbb Z}$
-![[AlgÜB10.pdf]]
+![[blatt10.pdf]]
 
 
 # Aufgabe 1

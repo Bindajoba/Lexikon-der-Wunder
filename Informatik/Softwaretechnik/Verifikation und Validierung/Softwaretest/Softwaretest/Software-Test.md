@@ -12,8 +12,6 @@ A: - Man kann Fehler finden
 - In Zukunft wiederholbar
 <!--ID: 1642952241987-->
 
-
-
 Q: Warum ist Testen allein für hohe Qualitätsansprüche nicht ausreichend?
 A: - Man kann nicht die Korrektheit sondern nur die Inkorrekt zeigen
 - Systeme mit hoher Kombinatorik können nicht erschöpfend getestet werden.
@@ -40,9 +38,22 @@ Zu den oben genannten Grundsätzen gibt es außerdem noch 5 Prinzipien des Teste
 4. Die Ergebnisse eines Tests sind gründlich zu analysieren
 5. Es sind keine ad-hoc "Wegwerf(test)fälle" zu verwenden (d.h. Test sollten nachhaltig in das System integriert werden)
 
+# Fachbegriffe
+- **Testabdeckung**
+
+
+
+Q: Was ist Testabdeckung?
+A: Der Anteil aller Code Teile, die durch eine Menge von Tests getestet werden.
+<!--ID: 1643668651055-->
+
 
 # Testprozess
 Siehe [[Testprozess]]
+
+## Entwurfsregel F.I.R.S.T.
+Siehe [[Entwurfsregel F.I.R.S.T]]
+
 
 # Testformen
 ## White-Box-Test
@@ -73,14 +84,28 @@ A: Testfälle ergeben sich von außen, d.h. aus den Anforderungsspezifikationen 
 ## Unit Test
 Der [[Unit Test]] ist wahrscheinlich ein White-Box-Test.
 
+## Regressionstest
+Q: Was ist ein Regressionstest?
+A: Wiederholte Testfälle bei Änderungen an Komponenten, um schnell Fehler zu bemerken.
+<!--ID: 1643668651157-->
+
+## Integrationstest
+Siehe [[Integration]].
+
 # Testmethoden
 Beim Testen weren unterschiedliche Tricks angewendet.
 
 ## Äquivalenzklassen
 Siehe [[Äquivalenzklasse (Softwaretest)]]
 
-# Entwurfsregel F.I.R.S.T.
-Siehe [[Entwurfsregel F.I.R.S.T]]
+# Zusammenhänge
+## Softwaremetriken
+Durch [[Software-Metrik]] lassen sich die benötigten Tests gut abschätzen.
+Je größer die [[LOC-Metrik]], desto mehr gibt es zu Testen.
+Je größer die [[McCabe-Metrik|Zyklomatische Koplexität]], desto mehr Verzweigungen gibt es.
+
+
+
 
 
 #Softwaretechnik 

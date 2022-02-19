@@ -57,6 +57,15 @@ $K$ ist aber in $N_G(K)$ [[Normalteiler|normal]] und ist nur zu sich selbst konj
 
 Da $H$ eine $p$-Gruppe ist, die auf $G$ operiert, ist $|S| \equiv_p$ Menge der stabilen Elemente von $S = 1$ 
 
+
+
+
+
+
+
+
+
+
 #Algebra 
 
 [^1]: Gerkmann - Satz 10.1

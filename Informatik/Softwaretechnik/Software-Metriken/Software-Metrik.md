@@ -1,9 +1,23 @@
-## Beschreibung
+TARGET DECK: Universität::Informatik::SWT
+
+# Beschreibung
 Eine Software-Metrix ist ein Hilfsmittel, mit dem sich bestimmte Aspekte einer Software quantitativ erfassen lassen.
 
 Hauptziel ist es Informationen über abstrakte Infomrationen wie Funktionalität, Zuverlässigkeit, Übertragbarkeit, Transparenz durch [[Operationalisierung]] aus dem Quelltext zu messen.
 
-## Gütekriterien
+Q: Nenne zwei Einsatzziele von Software-Maßen
+A: - Messen von Funktionalität, Zuverlässigkeit, Übertragbarkeit, Transparenz/Komplexität
+- Schätzung der Entwicklungszeit
+- Produktivität der Entwickler bewerten
+- Qualität des Produkts bewerten
+<!--ID: 1644666514108-->
+
+
+
+
+
+
+# Gütekriterien
 Eine gute Software-Metrik erfüllt folgende [[Gütekriterien]]:
 - [[Objektivität]]: Die Metrik ist vom Prüfer unabhängig
 - [[Reliabilität|Robustheit]]: Die Ergebnisse bleiben bei Wiederholung des Tests gleich 
@@ -26,6 +40,14 @@ Q: Wie beeinflussen versteckte "Easter-Egg-Features" die Wartbarkeit des Program
 A: Neue Entwickler haben Schwierigkeiten, den Code eines solchen versteckten Features zu verstehen, wenn dieser nicht nicht in den Anforderungen mit angegeben ist.
 <!--ID: 1642952242835-->
 
+Q: Nenne einen Vorteil von Software-Metriken
+A: Sie sind Automatisierbar
+<!--ID: 1644666514230-->
+
+
+Q: Nenne einen Nachteil von Software-Metriken
+A: Sie können keine Zuverlässige Aussagen treffen.
+<!--ID: 1644666514339-->
 
 
 ## Beispiele

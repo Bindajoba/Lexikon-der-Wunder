@@ -1,3 +1,5 @@
+TARGET DECK: Universität::MaDid III
+
 # Definition
 ## Zufall
 Zufall ist ein Phänomen, e gibt Situationen, deren Ausgang nicht sicher vorausgesagt werden kann. Der Grad der Unsicherheit kann subjektiv eingeschätzt werden.
@@ -15,6 +17,13 @@ Es wird Mathematik genutzt um den Grad der Unsicherheit zu quantifizieren.
 - Laplace-Wahrscheinlichkeit (Annahme gleicher Wahrscheinlichkeiten aller Ergebnisse)
 - Formal-Axiomatischer Aspekt (Arbeiten mit Wahrscheinlichkeit, Bäume, [[Axiome von Kolmogorov]], usw.)
 
+Q: Welche Zugänge zum Wahrscheinlichkeitsbegiff gibt es?
+A: - Subjektive Wahrscheinlichkeit
+- Frequentistische Wahrscheinlichkeit
+- Laplace-Wahrscheinlichkeit
+- Formal-Axiomatischer Aspekt
+<!--ID: 1645260974894-->
+
 
 # Fehlvorstellungen
 ## Outcome Approach
@@ -29,6 +38,15 @@ Siehe [[Begriffsfeld Stochastik]]
 
 
 # Aufgaben
+# Ungleiche Gleichverteilung
+![[Ungleiche Verteilung.png]]
+*Verschiedene Modellannahmen können zu unterschiedlichen Ergebnissen führen. Oben erhält man zwei verschiedene Ergebnisse, obwohl man zwei mal eine gleichmäße Zufallsverteilung verwendet hat.*
+*Siehe auch [[Bertrand-Paradoxon]]*
+
+Q: Können zwei Modelle, die beide eine gleichmäßige Zufallsverteilung nutzen unterschiedliche Ergebnisse liefern?
+A: Ja
+
+
 ## Grundvorstellungen zerstören
 Eine Frau bekommt (zweieiige Zwillinge). Was vermuten Sie?
 - Es sind zwei Jungen
@@ -54,5 +72,11 @@ Es gibt ein Spielzeug, wo man mit Schweinen würfelt. Die Wahrscheinlichkeiten k
 
 ## Gamification
 ![[Aufgabe Gamification.png]]
+
+# Übungen
+# Klausur 2020 Aufgabe 9
+![[Klausur 2020 Aufgabe 9.png]]
+1. Subjektive Wahrscheinlichkeit
+2. Formal-axiomatischer Aspekt
 
 #Mathe-Didaktik-III 
