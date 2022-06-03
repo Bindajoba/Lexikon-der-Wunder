@@ -1,6 +1,24 @@
+
+TARGET DECK: Universität::Informatik::SWT
+
 ## Beschreibung
 Die Halstead-Metriken sind eine Sammlung von [[Software-Metrik|Software-Metriken]]. 
 Sie versuchen Komplexität und andere Eigenschaften eines Codes zu bestimmen, indem [[Operator|Operatoren]] und [[Operand|Operanden]] in Funktionale Zusammenhänge gebracht werden.
+
+Q: Was sind die [[Halstead-Metriken]]?
+A: Sie sind eine Sammlung von Softwaremetriken, die versuchen Komplexität und andere Eigenschaften eines Codes zu bestimmen, indem Operatoren und Operanden in Funktionale Zusammenhänge gebracht werden.
+<!--ID: 1645610669714-->
+
+
+Q: Was ist ein Operator? ([[Halstead-Metriken]])
+A: z.B. Schlüsselwörter, +, -, etc.
+<!--ID: 1645610669823-->
+
+
+Q: Was sind Operanden? ([[Halstead-Metriken]])
+A: z.B. Bezeichner, Konstanten
+<!--ID: 1645610669937-->
+
 
 ## Definitionen
 $\eta_1 =$ Anzahl unterschiedlicher Operatoren

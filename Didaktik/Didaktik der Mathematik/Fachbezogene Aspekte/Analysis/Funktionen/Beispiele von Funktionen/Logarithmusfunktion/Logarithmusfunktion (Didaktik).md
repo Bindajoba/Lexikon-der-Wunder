@@ -1,3 +1,5 @@
+TARGET DECK: Universität::MaDid III
+
 # Beschreibung
 Der Artikel befasst sich mit den didaktischen Ansätzen des [[Logarithmus]]
 
@@ -17,6 +19,8 @@ Die Logarithmusfunktion ist die Umkehrfunktion der [[Exponentialfunktion (Didakt
 
 Q: Wie ist die Logarithmusregel des Basiswechsels ([[Logarithmusfunktion (Didaktik)]])
 A: $\log_a p = \frac{\log_b p}{\log_b a}$
+<!--ID: 1645282094562-->
+
 
 ## Weitere Eigenschaften
 - [[Monotonie]]: Streng monoton steigend

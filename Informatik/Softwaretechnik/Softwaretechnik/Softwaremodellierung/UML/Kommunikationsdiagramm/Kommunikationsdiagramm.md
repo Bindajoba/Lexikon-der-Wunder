@@ -9,6 +9,18 @@ Im Gegensatz zum [[Sequenzdiagramm]] wird aber mehr Wert auf Parameter und Rück
 Kommunikationsdiagramme haben die Syntax eines [[Objektdiagramm]]. Die Objekte werden aber nicht unterstrichen.
 Jede Verbindung zwischen Objekten steht hier für eine Kommunikation, die zwischen den Objekten stattfindet.
 
+Q: Was ist die Syntax einer Nachricht in einem [[Kommunikationsdiagramm]]
+A: 2.1: methode(Parameter)
+$\to$
+<!--ID: 1645543048864-->
+
+
+Q: Was ist die Syntax einer bedingten Nachricht in einem [[Kommunikationsdiagramm]] 
+A: 2.1: \[bedingung\] methode(Parameter)
+$\to$
+<!--ID: 1645543048981-->
+
+
 ![[Kommunikationsdiagramm Beispiel.png]]
 
 Wie beim [[Sequenzdiagramm]] wird auch das Objektdiagramm in einem Rahmen gezeichnet.

@@ -22,6 +22,11 @@ Man kann Verzweigungen statisch oder dynamisch implementieren.
 - **Dynamische Verzweigungen** werden durch einen unausgefüllten Kreis dargestellt. Hier wird nicht davon ausgegangen, dass Bedingung berets berechnet vorliegt. Sie wird berechnet, wenn die Transition eintritt. 
 *Der leere Kreis symbolisiert wohl, dass man kurz auf der Transition stehen bleibt.*
 
+Q: Welche zwei Arten von Verzweigungen in [[Zustandsdiagramm]] gibt es?
+A: - Statische Verzeigung (Schwarzer Punkt)
+- Dynamische Verzweigung (Weißer Punkt)
+<!--ID: 1645543047223-->
+
 
 ![[Zustandsdiagramm Verzeung.png]]![[Zustandsdiagramm Verzweigung II.png]]
 
@@ -34,6 +39,14 @@ Man kann Schlüsselwörter verwenden um zu spezifizieren, wann Aktivitäten in e
 - do / : Im Widerspruch zum vorher gesagten, braucht diese Aktivität Zeit in Anspruch, kann aber nicht unterbrochen werden.
 - entry / : Wird ausgeführt, wenn der Automat in den Zustand kommt
 - exit / : Wird ausgeführt, wenn der Automat den Zustand verlässt
+
+Q: Welche drei atomaren Aktivitäten gibt es in einem [[Zustandsdiagramm]]
+A: - do / Aktion
+- entry / Aktion
+- exit / Aktion
+<!--ID: 1645543047360-->
+
+
 
 ![[Zustandsdiagramm Aktivität.png]]   
 

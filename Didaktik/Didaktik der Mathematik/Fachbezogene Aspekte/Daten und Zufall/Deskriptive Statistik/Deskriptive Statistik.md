@@ -6,15 +6,23 @@ TARGET DECK: Universität::MaDid III
 ![[Deskriptive Statistik Grundbegriffe.png]]
 Q: Was ist der Grundbegriff Merkmalsträger ([[Deskriptive Statistik]])
 A: Die Untersuchten Objekte/Personen
+<!--ID: 1645282094669-->
+
 
 Q: Was ist der Grundbegriff Merkmal ([[Deskriptive Statistik]])
 A: Eine Eigenschaft des Merkmalträgers, das untersucht wird.
+<!--ID: 1645282094768-->
+
 
 Q: Was ist der Grundbegriff Merkmalsausprägung ([[Deskriptive Statistik]])
 A: Der Wert des Merkmals eines Merkmalträgers
+<!--ID: 1645282094888-->
+
 
 Q: Was ist der Grundbegriff Urliste ([[Deskriptive Statistik]])
 A: Die Auflistung der ermittelten Daten.
+<!--ID: 1645282095000-->
+
 
 
 ## Skalenniveaus

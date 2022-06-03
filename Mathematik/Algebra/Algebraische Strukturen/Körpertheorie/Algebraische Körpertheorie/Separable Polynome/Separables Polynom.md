@@ -8,7 +8,7 @@ $\newcommand{\Z}{\mathbb Z}$
 
 
 # Beschreibung
-Ein irreduzibles Polynom heißt separabel, wenn es nur einfache Nullstellen besitzt.
+Ein [[Irreduzibles Polynom]] heißt separabel, wenn es nur einfache Nullstellen besitzt.
 
 # Definition
 Sei $K$ ein [[Körper]]. Ein [[Irreduzibles Polynom|irreduzibles Polynom]] $f \in K[x]$ wird **separabel** genannt, wenn $ggT(f, f') = 1$ 

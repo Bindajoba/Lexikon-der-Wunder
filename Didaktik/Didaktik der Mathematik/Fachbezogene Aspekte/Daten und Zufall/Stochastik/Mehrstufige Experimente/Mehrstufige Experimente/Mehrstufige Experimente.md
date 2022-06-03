@@ -1,3 +1,5 @@
+TARGET DECK: Universität::MaDid III
+
 # Beschreibung
 Experimente, die als Kombination mehrerer (einfacher) Zufallsexperimente modelliert werden können.
 
@@ -11,6 +13,8 @@ Der Ergebnisraum ist eine Teilmenge des kartesischen Produkts der Ergebnisräume
 Q: Wie kann mna den Wahrscheinlichkeitsraum eines mehrstufigen Experiments darstellen? ([[Mehrstufige Experimente]])
 A: - Tabelle
 - Baumdiagramm
+<!--ID: 1645282095106-->
+
 
 # Pfadregeln
 ## 1. Pfadregel
@@ -19,12 +23,16 @@ Folgt in der Hochschule aus den bedingten Wahrscheinlichkeiten (in der Schule an
 
 Q: Was ist die 1.Pfadregel ([[Mehrstufige Experimente]])
 A: Die Wahrscheinlichkeit eines Pfades ist gleich dem Produkt der Wahrscheinlichkeiten entlang dieses Pfades.
+<!--ID: 1645282095211-->
+
 
 In der Schule kann man diesen wie folgt zeigen:
 Q: Mit welchen Methoden kann man die Erste Pfadregel belegen? ([[Mehrstufige Experimente]]).
 A: - Laplace Aspekt
 - Chancenaspekt
 - Frequentistisch/Natürliche Wahrscheinlichkeiten
+<!--ID: 1645282095314-->
+
 
 ### Laplace Aspekt
 Man zeichnet den Baum auf aber statt der Wahrscheinlicheit trägt man die Möglichkeitszahl auf, mit der ein Ergebnis auftreten kann. (z.B. drei rote kugeln in der Urne, wie viele Möglichkeiten gibt es, zwei zu ziehen? Für die erste rote 3, für die zweite 2, also insgesamt 6. Ebenso kann man die Möglichkeiten insgesamt multiplizieren)
@@ -51,6 +59,8 @@ Die Wahrscheinlichkeit eines Ereignisses ist gleich der Summe der Wahrscheinlich
 
 Q: Was ist die 2. Pfadregel ([[Mehrstufige Experimente]])
 A: Die Wahrscheinlichkeit eines Ereignisses ist gleich der Summe der Wahrscheinlichkeiten der für dieses Ereignis günstigen Pfade.
+<!--ID: 1645282095420-->
+
 
 # Beispiele
 ## Einführungsbeispiel

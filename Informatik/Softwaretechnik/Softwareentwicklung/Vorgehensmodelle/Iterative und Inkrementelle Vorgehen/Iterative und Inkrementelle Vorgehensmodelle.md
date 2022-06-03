@@ -10,9 +10,10 @@ Iterativ heißt, eine Reihe von Standardaktivitäten werden iterativ durchlaufen
 ## Inkrementelle Vorgehensmodelle
 Inkrementell heißt, es wird erst ein eingeschränkter Systemkern mit begrenztem Funktionsumfang realisiert.
 
+
 # Modelle
 ## Spiralmodell
-4 Schritte werden so lange wieederholt, bis das Projekt fertig ist.
+4 Schritte werden so lange wiederholt, bis das Projekt fertig ist.
 
 1. **Analyse**
 Beschreibung von Rahmenbedingungen, [[Use-Case|Anforderungen]] und Lösungen
@@ -25,12 +26,29 @@ Review der vorherigen Schritte und Planung der nächsten Iteration
 
 ![[Spralmodell.png]]
 
+
+Q: Spiralmodell: Um was für eine Vorgehensweise handelt es sich?
+A: Iteratives und Inkrementelles Vorgehensmodell
+<!--ID: 1645543050930-->
+
+
+Q: Welche Schritte wiederholt das Spiralmodell?
+A: - Analyse
+- Evaluierung
+- Realisierung
+- Planung
+<!--ID: 1645543051051-->
+
+
+
+
+
+
 # Anforderungen
 Durch diese Vorgensmodelle entstehen einige Anforderungen:
 - Architekturen sollten [[Modularisierung|modular]] sein
 - Die realisierenden Systemteile müssen kontinuierlich integrierbar sein
 - Die Systemteile sind mit [[Unit Test]] zu versehen.
 
-# Mod
 
 #Softwaretechnik 

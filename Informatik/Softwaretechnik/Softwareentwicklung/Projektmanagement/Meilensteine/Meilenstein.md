@@ -7,6 +7,10 @@ Des weiteren dienen sie
 - Zum Überarbeiten der [[Risikomanagement|Risikoliste]]
 - Zur Beurteilung des Gesamtprojekts
 
+Q: Was ist ein [[Meilenstein]]?
+A: Meilensteine sind Hilfmittel zur Messung des Projektfortschrittes.
+<!--ID: 1645543052248-->
+
 
 # Variationen
 Bei Meilensteinen wird zwischen zwei Arten unterschieden.

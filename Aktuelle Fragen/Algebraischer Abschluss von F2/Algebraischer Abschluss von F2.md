@@ -104,7 +104,7 @@ Die Frage des Abstract besagt: Gibt es Polynome, die nicht 0 oder 1 als Nullstel
 
 
 # Eigentlicher Teil
-[[Algebraischer Abschluss|Algebraische Abschlüsse]] sind vielleicht ein bisschen schwierg zu erhalten. Wir wissen aber, dass jede Lösung eines Polynoms im Algebraischen Abschluss liegt. Es wäre somit keine dumme Idee einfach mal den [[Zerfällungskörper]] $L$ über alle Polynome zu berechnen.
+[[Algebraischer Abschluss|Algebraische Abschlüsse]] sind vielleicht ein bisschen schwierig zu erhalten. Wir wissen aber, dass jede Lösung eines Polynoms im Algebraischen Abschluss liegt. Es wäre somit keine dumme Idee einfach mal den [[Zerfällungskörper]] $L$ über alle Polynome zu berechnen.
 
 Da wir dadurch einen Körper erhalten, dessen Elemente Lösungen von $\mathbb{F}_2[x]$-Polynomen sind, ist die [[Körpererweiterung]] $L|\mathbb{F}_2$ algebraisch.
 Ist dieser zusätzlich [[Algebraisch Abgeschlossener Körper|algebraisch abgeschlossen]], so haben den Algebraischen Abschluss gefunden!
@@ -130,7 +130,7 @@ $$x^2 + x + 1 = (x-\alpha_1)(x-\alpha_1) = x^2 -2\alpha_1x + \alpha_1^2 = x^2 + 
 das Polynom links und das Polynom rechts sind nicht gleich, wie man durch Koeffizientenvergleich erkennt, wir erhalten einen Widerspruch.
 
 ### Exkurs: Kann ein Minimalpolynom zweiten Grades in zwei gleiche Nullstellen zerfallen?
-Sei $\mu_{K, \alpha}(x) = x^2 + bx + c$ ein in $K$ irreduzibles Polynom mit der einzigen Nullstelle $\alpha \notin K$.
+Sei $\mu_{K, \alpha}(x) = x^2 + bx + c$ ein in $K$ [[Irreduzibles Polynom]] mit der einzigen Nullstelle $\alpha \notin K$.
 In $K(\alpha)$ zerfällt das Minimalpolynom zu $\mu_{K, \alpha}(x) = (x - \alpha)(x-\alpha)$
 Dann gilt:
 $$\mu_{K, \alpha}(x) = x^2 + bx + c = (x-\alpha)^2 = x^2 -2\alpha x + \alpha^2$$
@@ -204,7 +204,7 @@ $\alpha_1$ besitzt deshalb große Ähnlichkeit mit der komplexen dritten Wurzel 
 Wir missachten aber die Warnung und stellen die Punkte trotzdem im komplexen Gitter dar:
 ![[Algebraischer Erweiterung  a Kmplexes Gitter.png]]
 *Wir addieren 1 auf die Punkte (orange) oder multiplizieren mit $\alpha_1$ (grün). Ein grüner Pfeil wurde wegen techniker Einschränkungen weggelassen.*
-![[Algebraische Erweiterung Koplexes Gitter II.png]]
+![[Algebraische Erweiterung Komplexes Gitter II.png]]
 *Wir addieren $\alpha_1$ auf die Punkte (orange) oder multiplizieren mit $\alpha_1$ (grün)*
 
 Wir können folgende Operationen erkennen.
@@ -218,14 +218,15 @@ Addieren von $\alpha_1$ vertauscht $1$ und $\alpha_2$
 
 Ich bin mir sicher ein ähnliches Verhalten wird sich auch in den anderen Nullstellen größerer Minimalpolynome finden. 
 
-## Weitere simple Polynome
+## Polynome dritten Grades
+### Weitere simple Polynome
 Setzen wir die Polynome fort:
 $$\begin{align}
 x^3 &= (x+0)^3\\
 x^3 + 1 = (x+1)(x^2+x+1) &= (x+1)(x-\alpha_1)(x-\alpha_2)\\
 x^3 + x = x(x^2+1) &= (x+0)(x+1)^2\\
 \end{align}$$
-## Nächste Exotische Nullstelle
+### Mein Bezeichnungssystem für Nullstellen, das ich nie wieder brauchen werde
 Das nächste Polynom hat ebenfalls keine Nullstellen, die wir schon kennen. $\alpha_1, \alpha_2$ sind keine Nullstellen, das können wir nachprüfen, indem wir eine Polynomdivision durchführen (die Nullstellen $\alpha_1, \alpha_2$ haben ein Minmalpolynom von Grad 2): $x^3+x+1:x^2+x+1 = x, R:x^2+1$. 
 
 Ein Polynom von Grad 3 sollte in drei Linearfaktoren zerlegbar sein. Geben wir den neu entdeckten Nullstellen einen Namen. (z.B. $\beta_1, \beta_2$ und $\beta_3$)
@@ -240,11 +241,10 @@ Damit erhält $\alpha_1$ die neue Bezeichnung $\xi_{2, 1, 1}$ und $\alpha_2$ die
 
 Grüppchen können so nur durch die ersten zwei Zahlen und einem $\xi$-Majuskel $\Xi$ bezeichnet werden. z.B. $\Xi_{3,1} = \{\xi_{3,1,1}, \xi_{3,1,2}, \xi_{3,1,2}\}$
 
-## Eigenschaften der Nullstellen $\Xi_{3,1}$
+### Nullstellen von von $x^3+x+1$
 Matthias hat mir folgenden Trick gezeigt:
 Die Nullstellen lösen $x^3 + x+1$. Damit müssen sie $x^3 = x+1$ erfüllen.
 Sei $\beta$ eine Nullstelle, die die Gleichung löst.
-
 
 Dann ist $\F(\beta)$ ein $\F$-Vektorraum mit der Basis $\{1, \beta, \beta^2\}$.
 Somit hat es die Elemente: $\F(\beta) = \{a\beta^2+b\beta+c:a,b,c\in \F\} = \{0, 1, \beta, \beta+1, \beta^2, \beta^2+1, \beta^2+\beta, \beta^2+\beta+1\}$.
@@ -272,10 +272,11 @@ Die einzigen drei Polynome dritten Grades, die wir noch nicht untersucht haben s
 Das gesuchte Minimalpolynom muss irreduzibel sein, d.h. nicht 1 oder 0 als Nullstelle besitzen.
 Übrig bleibt: $x^3+x^2+1$.
 
-Setzt man $\{\beta+1, \beta^2+1, \beta^2+\beta+1\}$ in $x^3+x^2+1$ ein, kommt 0 heraus.
+Setzt man $\{\beta+1, \beta^2+1, \beta^2+\beta+1\}$ in $x^3+x^2+1$ ein, kommt 0 heraus. Die drei Werte müssen also dessen Nullstellen sein.
 
-## Visualisierung
-Was passiert, wenn wir mit $1$ anfangen und die ganze Zeit $\beta$ mutliplizieren?
+
+#### Visualisierung
+Was passiert, wenn wir mit $1$ anfangen und die ganze Zeit $\beta$ multiplizieren?
 ![[Visualisierung Beta.png]]
 Die Multiplikation hat die Form einer Zyklischen Gruppe. 
 Ich habe die Nullstellen die das gleiche Minmalpolynom haben eingefärbt.
@@ -284,18 +285,218 @@ Orange hat die Nullstellen $\gamma, \gamma^2, \gamma^4$. Also $\gamma^{2^n}$-Pot
 Die Addition ist aber etwas schwerer zu erkennen. Vielleicht können wir die Position der Kreise ändern.
 
 ![[Algebraischer Abschluss Beta Visualisierung.png]]
-Frage: Wie kann ich im Bild vorhersehen, wohin mich die Blauen Pfeile bringen.
+Frage: Wie kann ich im Bild vorhersehen, wohin mich die Blauen Pfeile bringen?
 
-$$\begin{align}&(x+\xi_{3, 1, 1})(x+\xi_{3, 1, 2})(x+\xi_{3, 1, 3}) =\\&= x^3 + (\xi_{3, 1, 1}+\xi_{3, 1, 2}+\xi_{3, 1, 3})x^2 + (\xi_{3, 1, 1}\xi_{3, 1, 2}+\xi_{3, 1, 1}\xi_{3, 1, 3}+\xi_{3, 1, 2}\xi_{3, 1, 3})x + \xi_{3, 1, 1}\xi_{3, 1, 2}\xi_{3, 1, 3}=\\
-&= x^3 +x+1\\
-&\implies 1 = \xi_{3, 1, 1}\xi_{3, 1, 2}+\xi_{3, 1, 1}\xi_{3, 1, 3}+\xi_{3, 1, 2}\xi_{3, 1, 3}\text{ und }1 = \xi_{3, 1, 1}\xi_{3, 1, 2}\xi_{3, 1, 3}
+Die Elemente in den Diagrammen oben sind übrigens genau die Elemente von $\F_8$. Wir werden aber noch sinnvollere Repräsentationen finden.
+
+## Nullstellen von $x^3+x^2+1$
+Das andere Polynom von Grad $3$ war ja $g = x^3+x^2+1$. Das Polynom ist irreduzibel. Adjungiert man das Polynom um eine Nullstelle, dann erhält man den Einzigen Erweiterungskörper von $\F_2$ mit Erweiterungsgrad $3$ $\F_{2^3}$, also genau den gleichen mit dem wir gerade gerechnet haben.
+
+Vorhin haben wir auch schon 3 Nullstellen dieses Polynoms gefunden. Vielleicht entdecken wir aber einen neuen Blickwinkel auf das ganze.
+Sei $\gamma$ eine Nullstelle des Polynoms $g$.
+
+Dann gilt $\gamma^3 = \gamma^2+1 = (\gamma+1)^2$
+
+Wir gehen mal alle Elemente durch anmultiplizieren von $\gamma$ durch:
+- $1$
+- $\gamma$
+- $\gamma^2$
+- $\gamma^3 = \gamma^2+1$
+- $\gamma^4 = \gamma^3+\gamma = \gamma^2+\gamma+1$
+- $\gamma^5 = \gamma^4+\gamma^2 = \gamma^3+\gamma+\gamma^2 = \gamma+1$
+- $\gamma^6 = \gamma^2+\gamma$
+- $\gamma^7 = 1$
+
+Diese setzen wir in das Polynom $g$ ein.
+- $f(\gamma^2) = \gamma^6+\gamma^4+1 = \gamma^2+\gamma+\gamma^2+\gamma+1+1 = 0$
+- $f(\gamma^3) = (\gamma^2+1)^3+(\gamma^2+1)^2+1 = (\gamma^2+1)(\gamma^4+1)+\gamma^4+1+1 =$
+$\gamma^6+\gamma^4+\gamma^2+1+\gamma^4+1+1 = \gamma^2+\gamma+\gamma^2+1 = \gamma+1$
+- $f(\gamma^4) = (\gamma^2+\gamma+1)^3+(\gamma^2+\gamma+1)^2+1 = (\gamma^4+\gamma^2+1)(\gamma^2+\gamma+1)+\gamma^4+\gamma^2+1+1 =$
+$= \gamma^6+\gamma^5+\gamma^4+\gamma^3+\gamma^2+\gamma+1= 0$
+
+Alle anderen Nullstellen Elemente können keine Nullstellen mehr sein, da das Polynom Grad 3 hat und damit nur 3 Nullstellen besitzen kann. 
+
+## Elemente von $\F_8$
+### Uneindeutigkeit der Nullstellen
+Nach einem [Video über Galoistheorie]([https://www.youtube.com/watch?v=BSHv9Elk1MU)), gibt es keine sinnvolle Möglichkeit, Nullstellen zu nummerieren/unterscheiden. Das haben wir bereits oben gesehen, als wir eine beliebige Nullstelle als $\beta$ bezeichnet haben, anstelle $\beta$ nach festen Kriterien auszusuchen. Wenn wir eine Visualisierung finden wollen, dann muss sie diese Tatsache berücksichtigen.
+Eine Visualisierung sollte eine gewisse Symmetrie zwischen den Nullstellen eines Polynoms repräsentieren. 
+
+Und ich denke, das haben wir vorhin im Beispiel $x^2+x+1$ berücksichtigt, indem wir die Visualisierung an der $x$-Achse symmetrisch gestaltet haben.
+
+Aber was bedeutet das konrekt? Wir stellen bei den Nullstellen von $f$ und $g$ ein paar interessante Sachen fest. Wenn man eine Nullstelle Quadriert erhält man wieder eine Nullstelle (und das auf zyklische Weise $\beta \to \beta^2 \to \beta^4 \to \beta$). Wenn man $1$ auf eine Nullstelle addiert erhält man eine Nullstelle des anderen Polynoms.
+
+Vorhin haben wir gesagt, die Nullstellen sind ununterscheidbar. Als wir eben $\beta$-Potenzen berechnet haben, haben wir diese Ununterscheidbarkeit nicht respektiert. Vielleicht kam deshalb ein so willkürliches Ergebnis heraus. Halten wir ab sofort im Hinterkopf, dass jede Eigenschaft einer Nullstelle auch für die anderen Nullstellen des gleichen Polynoms gilt.
+
+
+### Definition der Elemente von $\F_8$
+Wenden wir den Trick an, den wir benutzt haben, um die Eigenschaften von $\F_4$ zu bestimmen. Wir multiplizieren die Nullstellen und bestimmen durch Koeffizientenvergleich, welche Eigenschaften daraus resultieren:
+$$\begin{align}(x+ \beta_1)(x+\beta_2)(x+\beta_3) &= x^3+(\beta_1+\beta_2+\beta_3)x^2+(\beta_1\beta_2+\beta_2\beta_3+\beta_3\beta_1)x+\beta_1\beta_2\beta_3 \\&\overset{!}{=}x^3+x+1\\
+&\implies \beta_1+\beta_2+\beta_3 = 0\\
+&\implies \beta_1\beta_2+\beta_2\beta_3+\beta_3\beta_1 = 1\\
+&\implies \beta_1\beta_2\beta_3 = 1
 \end{align}$$
-oder in $\beta$ formuliert:
-$$1= \beta\beta^2 + \beta\beta^4 + \beta^2\beta^4 \text{ und } \beta\beta^2\beta^4 = 1$$
+Sei $\beta_1 = \beta, \beta_2 = \beta^2, \beta_3 = \beta^4 = \beta^2+\beta$.
+Dann ist $\beta_1\beta_2 = \beta^3 = \beta+1$, also ein Element der Nullstellen von $x^3+x^2+1$!
+WIr haben diese Nullstelle erhalten, indem wir $\beta_1$ und $\beta_2$ multipliziert haben, nennen wir sie also $\gamma_3$.
+Wir erhalten dadurch folgende Eigenschaft:
+$$\beta_3\gamma_3 = \beta_3\beta_1\beta_2 = 1$$
+Das heißt $\gamma_3$ ist das multiplikative Inverse von $\beta_3$!
+
+Wir definieren weiter:
+- $\gamma_1 := \beta_2\beta_3 = \beta^2\beta^4 = \beta^6 = \beta^2+1$
+- $\gamma_2 := \beta_3\beta_1 = \beta^4\beta = \beta^5 = \beta^2+\beta+1$
+
+Diese $\gamma_i$ erfüllen die Gleichen Eigenschaften wie $\gamma_3: \gamma_1\beta_1 = 1 =\gamma_2\beta_2$.
+Damit haben wir alle $6$ Elemente entdeckt, die durch die Erweiterung $\F_8|\F_2$ hinzukommen:
+- $\beta_1 = \beta$
+- $\beta_2 = \beta^2$
+- $\beta_3 = \beta^4$
+- $\gamma_1 = \beta^2+1$
+- $\gamma_2 = \beta^2+\beta+1$
+- $\gamma_3 = \beta+1$
+
+Die $\gamma_i$ sind die Nullstellen von $x^3+x^2+1$ und haben damit die Eigenschaften:
+$$\begin{align}(x+ \gamma_1)(x+\gamma_2)(x+\gamma_3) &= x^3+(\gamma_1+\gamma_2+\gamma_3)x^2+(\gamma_1\gamma_2+\gamma_2\gamma_3+\gamma_3\gamma_1)x+\gamma_1\gamma_2\gamma_3 \\&\overset{!}{=}x^3+x^2+1\\
+&\implies \gamma_1+\gamma_2+\gamma_3 = 1\\
+&\implies \gamma_1\gamma_2+\gamma_2\gamma_3+\gamma_3\gamma_1 = 0\\
+&\implies \gamma_1\gamma_2\gamma_3 = 1
+\end{align}$$
+
+### Produkte in $\F_8$
+Wir stellen fest:
+- $\gamma_1\gamma_2 = (\beta+1)(\beta^2+\beta^2+1) = \beta^2+\beta = \beta_3$
+- $\gamma_2\gamma_3 = \beta_1$
+- $\gamma_3\gamma_1 = \beta_2$
+
+Des weiteren gilt 
+- $\gamma_2 = \gamma_1^2$
+- $\gamma_3 = \gamma_2^2$
+- $\gamma_1 = \gamma_3^2$
+
+Hieraus erstellen wir folgendes Diagramm:
+![[Algebraischer Abschluss F2 Transitionen Mal.png]]
+*Gegenüberliegende Knoten sind invers und ergeben beim Multiplizieren $1$. Multipliziert man alle drei Knoten einer Farbe, erhält man auch $1$*
+
+Wir können jetzt sehr einfach in $\F_8$ multiplizieren. Zum Beispiel:
+- $\gamma_2\beta_1 = \beta_1\beta_3\beta_1 = \beta_1^2\beta_3 = \beta_2\beta_3 = \gamma_1$
+- $\gamma_2\gamma_1\beta_1 = \beta_3\beta_2 = \gamma_1$
+- $\gamma_1\gamma_2\gamma_3 = 1$
 
 
-## Anderes Polynom
-m mal können wir einen Koeffizientenvergleich machen und erhalten:
-$$1 = \xi_{3, 1, 1} + \xi_{3, 1, 2}+\xi_{3, 1, 3}\text{ und }1 = \xi_{3, 1, 1}\xi_{3, 1, 2}\xi_{3, 1, 3}$$
+### Addition in $\F_8$
+Die Addition gestaltet sich etwas schwieriger. Bei der Multiplikation habe ich nämlich die Elemente genau so gewählt, dass das Diagramm schön aussieht. Leider haben wir dieses Diagram nun schon gegeben, sodass die Addition nicht so hübsch wird.
 
-$$1=\beta+\beta^2$$
+Das heißt aber nicht, dass es kompliziert sein muss.
+Als wir die Elemente von $\F_8$ nummeriert haben, haben wir durch Koeffizientenvergleich einiges herausgefunden. Darunter auch $\beta_1+\beta_2+ \beta_3 = 0$ und $\gamma_1 + \gamma_2 + \gamma_3 = 1$.
+Damit können wir uns folgendes herleiten:
+$$\beta_1+\beta_2+ \beta_3 = 0 \implies \beta_2 + \beta_3 = \beta_1$$
+$$\gamma_1 + \gamma_2 + \gamma_3 = 1 \implies \gamma_2+\gamma_3 = \gamma_1+1$$
+Aber was ist $\gamma_1+1$? Nun, $\gamma_1+1 = (\beta^2+1)+1 = \beta^2 = \beta_2$
+
+Ich überspringe das Überprüfen aller Fälle, wir erhalten die Rechenregeln:
+- $\beta_1+\beta_2 = \beta_3$
+- $\beta_2+\beta_3 = \beta_1$
+- $\beta_3+\beta_1 = \beta_2$
+- $\gamma_1+\gamma_2 = \gamma_3+1 = \beta_1$
+- $\gamma_2+\gamma_3 = \gamma_1+1 = \beta_2$
+- $\gamma_3+\gamma_1 = \gamma_2+1 = \beta_3$
+
+In Diagrammen visualisiert:
+![[Algebraischer Abschluss F2 F8 Addition.png]]
+*Ja, man erkennt nicht so gut, was in der Mitte passiert aber man kann es sich denken, wenn man die korrespondierenden Gleichungen anschaut.*
+
+Wir können jetzt in $\F_8$ rechnen!
+- $\gamma_3 + \gamma_2\beta_1 = \gamma_3 + \beta_1^2\beta_3 = \gamma_3 + \beta_2\beta_3 = \gamma_3+\gamma_2 = \gamma_1+1 = \beta_2$
+- $\beta_3 + \gamma_1/\gamma_3 = \beta_3 + \gamma_1(1/\gamma_3) = \beta_3 + \gamma_1(\gamma_1\gamma_2) = \beta_3 + \gamma_3 = \beta_3 + \beta_1 + 1 = \beta_2+1 = \gamma_1$
+ 
+ Ist das nicht herrlich! Wie geht es jetzt weiter?
+
+### Kompakte Darstellung
+Hier sind die wichtigsten Punkte desr oberen zwei Diagramme in einem zusammengefasst:
+![[Algebraischer Abschluss F2 F8 Kompakte Darstellung.png]]
+Vielleicht mache ich mir heute einen Pulli draus. Der Graph sieht schon episch aus.
+
+ ### Zahlensystem für $\F_8$
+$\F_8$ ist wie $\Q$ ein Körper, also so etwas wie ein Bruder. Er hat aber eine vollkommen andere Struktur. Als solcher verdient er es nicht durch Zahlen aus $\Q$ beschrieben zu werden. Können wir ein Zahlensystem entwickeln, das die Struktur von $\F_8$ sinnvoll beschreibt, anstatt dass wir griechische Buchstaben mit Natürlichen Zahlen in den Indizes zur Beschreibung verwenden?
+
+Ich habe mich daran versucht. Ich willl nicht genauer darauf eingehen, weil ich nicht ganz glücklich mit dem Ergebnis war. Die Eigenschaft $\gamma_1 +1 = \beta_2$ war unglaublich schwer zu kodieren. Die grundlegende Idee ist, dass ich "Uhrzeiger in drei möglichen Positionen" benutze um zu respektieren, dass $\beta_1, \beta_2, \beta_3$ die gleichen Eigenschaften haben und durch Quadrierung zyklisch ineinander übergehen.
+![[Algebraischer Abschluss F2 Zahlensystem F8.png]]
+*Falls jemand eine bessere Idee hat, wäre ich froh, sie zu hören.*
+
+### Weiteres zu $\F_8$
+Vielleicht gibt es noch bessere Methoden $\F_8$ kompakt darzustellen. Ich denke, ich habe mit meiner Arbeit genug geleistet. Eigentlich will ich beschreiben wie der Algebraische Abschluss von $\F_2$ aussieht. Dazu muss ich alle algebraischen Erweiterungskörper von $\F_2$ klassifizieren. Ich bin aber erst beim zweiten! 
+Als nächstes kommen Polynome von Grad $4$ und $\F_{2^4} = \F_{16}$.
+
+## Die Irreduziblen Polynome 4-Grades
+Sind Polynome 4-Grades reduzibel, dann müssen sie ein [[Irreduzibles Polynom]] ersten oder zweiten Grades als Faktor haben. Das bedeutet, dass es die Nullstelle $0, 1,\alpha_1, \alpha_2$ hat. (Wobei $\alpha_1, \alpha_2$ die Elemente aus $\F_4$ sind).
+Die Polynome sind:
+- $x^4$ (Nst. 0)
+- $x^4+1$ (Nst. 1)
+- $x^4+x$ (Nst 0, 1)
+- $x^4+x+1$ (Keine Nst)
+- $x^4+x^2$ (Nst. 0, 1)
+- $x^4+x^2+1 = (x^2+x+1)^2$ (Nst. $\alpha_1$)
+- $x^4+x^2+x$ (Nst. 0)
+- $x^4+x^2+x+1$ (Nst. 1)
+- $x^4+x^3$ (Nst. 0, 1)
+- $x^4+x^3+1$ (Keine Nst)
+- $x^4+x^3+x$ (Nst. 0)
+- $x^4+x^3+x+1$ (Nst. 1)
+- $x^4+x^3+x^2$ (Nst. 0)
+- $x^4+x^3+x^2+1$ (Nst. 1)
+- $x^4+x^3+x^2+x$ (Nst. 0)
+- $x^4+x^3+x^2+x+1$ (Keine Nst)
+
+Irreduzibel sind die Polynome $x^4+x+1, x^4+x^3+1$ und $x^4+x^3+x^2+x+1$.
+Sei $\xi$ eine Nullstelle einer dieser Polynome. Dann gilt ist das entsprechende Polynome Minimalpolynom von $\xi$ und es gilt. $[\F_2(\xi) : \F_2] = 4 \implies \F_2(\xi) = \F_{16}$ 
+Nach Vorlesung ist $\F_4$ ein Zwischenpolynom von $\F_{16}|\F_2$ mit $[\F_4(\xi):\F_4] = [\F_{16}:\F_4] = 2$.
+Also hat das Minimalpolynom von $\xi$ in $\F_4$ Grad 2. Und tatsächlich! Jedes der oberen Polynome lässt sich weiter zerlegen. Dazu wäre es erstmal nützlich alle $\F_4$-Polynome zweiten Grades aufzulisten.
+- $x^2+\alpha_1$
+- $x^2+\alpha_2$
+- $x^2+x+\alpha_1$
+- $x^2+x+\alpha_2$
+- $x^2+\alpha_1x$
+- $x^2+\alpha_1x+1$
+- $x^2+\alpha_1x+\alpha_1$
+- $x^2+\alpha_1x+\alpha_2$
+- $x^2+\alpha_2x$
+- $x^2+\alpha_2x+1$
+- $x^2+\alpha_2x+\alpha_1$
+- $x^2+\alpha_2x+\alpha_2$
+
+Wir finden durch Ausprobieren heraus:
+- $x^4+x+1 = (x^2+x+\alpha_1)(x^2+x+\alpha_2) = (x^4+2x^3+(\alpha_1+\alpha_2+1)x^2+(\alpha_1+\alpha_2)x+1)$
+- $x^4+x^3+1 = (x^2+\alpha_1x+\alpha_1)(x^2+\alpha_2x+\alpha_2) = x^4+(\alpha_1+\alpha_2)x^3+(\alpha_1+\alpha_2+\alpha_1\alpha_2)x^2+(\alpha_1\alpha_2+\alpha_1\alpha2)x+\alpha_1\alpha_2$
+- $x^4+x^3+x^2+x+1 = (x^2 + \alpha_1x + 1)(x^2 + \alpha_2x+1) = x^4 + (\alpha_1+\alpha_2)x^3 + (\alpha_1\alpha_2 + 1 + 1)$
+
+Wir nummerieren die gefundenen Polynome durch:
+1. $x^2+x+\alpha_1$
+2. $x^2+x+\alpha_2$
+3. $x^2+\alpha_1x+1$
+4. $x^2+\alpha_2x+1$
+5. $x^2+ \alpha_1x+\alpha_1$
+6. $x^2 + \alpha_2x + \alpha_2$
+
+Seien $\xi_{1, 1}, \xi_{1, 2}$ die Nullstelle vom ersten Polynom. Dann gilt 
+$$\begin{align}(x+\xi_{1, 1})(x+\xi_{1, 2}) &= x^2+x+\alpha_1 \\
+&\implies \xi_{1, 1}+\xi_{1, 2} = 1 \\
+&\implies \xi_{1, 1}\xi_{1, 2} = \alpha_1\end{align}$$
+Sei $\xi$ eine Nullstelle vom ersten Polynom.
+$$ \begin{align}\xi^2 &= &&= \xi + \alpha_1\\
+\xi^3 &= \xi^2 + \alpha_1\xi = (\alpha_1+1)\xi+\alpha_1 &&= \alpha_2\xi+\alpha_1\\
+\xi^4 &=\alpha_2\xi^2+\alpha_1\xi &&= \xi+1\\
+\xi^5 &= \xi^2+\xi &&= \alpha_1 \\
+\xi^6 &= &&= \alpha_1\xi\\
+\xi^7 &= \alpha_1\xi^2&&= \alpha_1\xi+\alpha_2 \\
+\xi^8 &= \alpha_1\xi^2+\alpha_2\xi &&= \xi+\alpha_2\\
+\xi^9 &= \xi^2+\alpha_2\xi &&=\alpha_1\xi+ \alpha_1 \\
+\xi^{10} &= \alpha_1\xi^2+\alpha_1\xi &&=\alpha_2 \\
+\xi^{11} &= \alpha_2\xi &&=\alpha_2\xi\\
+\xi^{12} &= \alpha_2\xi^2 &&=\alpha_2\xi+1\\
+\xi^{13} &= \alpha_2\xi^2+\xi&&=\alpha_1\xi+1\\
+\xi^{14} &= \alpha_1\xi^2+\xi &&=\alpha_2\xi+\alpha_2\\
+\xi^{15} &= \alpha_2\xi^2+\alpha_2\xi &&= 1\end{align}$$
+Nach McEliece kann man aus einer Nullstelle die Konjugierten 
+
+![JojoMeme](https://www.pngkit.com/png/full/767-7673509_to-be-continued-arrow-transparent-jojos-bizarre-adventure.png)
+  

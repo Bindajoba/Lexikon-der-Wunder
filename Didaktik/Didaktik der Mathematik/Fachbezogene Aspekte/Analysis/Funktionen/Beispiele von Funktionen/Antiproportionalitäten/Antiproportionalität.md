@@ -1,3 +1,5 @@
+TARGET DECK: Universität::MaDid III
+
 # Beschreibung
 Eine Antiproportionalität charakterisiert sich dadurch, dass beim Verdoppelt der einen Größe, die andere Größe halbiert wird
 

@@ -3,11 +3,21 @@ TARGET DECK: Universität::Informatik::SWT
 # Beschreibung
 
 # Definition
-## Allgemeine Architektur
-Die Systemarchitektur gleidert ein [[Softwaresystem]] in Teilsysteme ([[Softwaresystem#Komponente]]), die nicht notwendigerweise nur aus Software bestehen, sondern auch Hardware oder mechanische Teile umfassen kann. 
+## Systemarchitektur
+Die Systemarchitektur gliedert ein [[Softwaresystem]] in Teilsysteme ([[Softwaresystem#Komponente]]), die nicht notwendigerweise nur aus Software bestehen, sondern auch Hardware oder mechanische Teile umfassen kann. 
+
+Q: Was ist eine Systemarchitektur?
+A: Eine Unterteilung ein Kompoenten (niecht zwingend Software)
+<!--ID: 1645543049603-->
+
 
 ## Softwarearchitektur
 Die Gliederung eines Softwaresystems in Softwarekomponenten und deren Zerlegung in [[Modul|Module]]
+
+Q: Was ist Softwarearchitektur?
+A: Unterteilung in Softwarekomponenten
+<!--ID: 1645543049725-->
+
 
 # Prinzipien
 Einer Architektur sind einige wichtige Prinzipien unterlegt, auf die man beim Entwurf achten sollte, diese sind:
@@ -16,14 +26,25 @@ Einer Architektur sind einige wichtige Prinzipien unterlegt, auf die man beim En
 - Kapselung und Information Hiding
 - Seperation of Concerns
 - Divide and Conquer
+- Design by Contract
 
+Q: Was sind die 3 von 6 Prinzipien einer guten Softwarearchitektur?
+A: - KISS
+- Kopplung und Kohäsion
+- Kapselung/Information Hiding
+- Seperation of Concerns
+- Divide and Conquer
+- Design by Contract
+<!--ID: 1645543049833-->
 
 
 ## KISS
 KISS steht für, "keep it simple and stupid". Es soll auf ein Problem eine möglichst einfach verständliche aber tragfähige Lösung gefunden werden. (Das heißt nicht zu einfach!)
 
 ## Kopplung und Kohäsion
+Siehe [[Kohäsion und Kopplung]]
 *Das ist wie bei einem Zug, da muss die Kopplung zwischen Wagons niedrig ist aber die Stärke/Kohäsion der Wagons selbst hoch.*
+
 
 ### Kopplung
 Ein [[Softwaresystem]] ist in mehrere [[Softwarekomponente]] zerlegbar. Diese Komponenten kommunizieren über Schittstellen miteinander. Je häufiger auf eine Schnittstelle zugegriffen wird, desto größer ist die Abhängigkeit/**Kopplung** zwischen den Komponenten.
@@ -80,6 +101,14 @@ Schnittstellen werden zu Beginn vertragsartig festgelegt und über den Systemleb
 So können Softwareentwickler, die ein bestimmtes Modul benötigen arbeiten, ohne das das Modul schon vollständig implmentiert ist und die Entwickler des Moduls können darauf vertrauen, dass ihr Modul wie spezifiziert verwendet wird.
 
 Generell verallgemeinert man eine Aufgabe eines Moduls, damit die Schnittstellen simpler werden.
+
+Q: Was ist Design by Contract? ([[Softwarearchitektur]])
+A: Schnittstellen werden zu Beginn vertraglich festgelegt und über den Systemlebenszyklus verfeinert.
+<!--ID: 1645543049955-->
+
+
+# Architekturmustern
+Siehe [[Architekturmuster]]
 
 
 #Softwaretechnik 

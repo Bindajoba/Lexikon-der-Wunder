@@ -1,3 +1,5 @@
+TARGET DECK: Universität::MaDid III
+
 # Beschreibung
 **Grenzwert (Didaktik)** behandelt [[Grenzwert]] einer [[Funktion]] und [[Konvergenz]] einer [[Folge]]. 
 Dieses Thema wird in Schulen schon frühr benötigt (unendliche Dezimalbrüche, reelle Zahlen, Umfang/Flächeninhalt von Kreisen) aber leider nicht explizit thematisiert. Es findet in manchen Beweisen implizit Anwendung.

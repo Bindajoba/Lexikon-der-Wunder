@@ -1,6 +1,6 @@
 ## Beschreibung
 Dieser Artikel befast sich mit der Didaktik von [[Sinus und Kosinus|Trigonometrischen Funktionen]].
-Diese Herangehensweise befasst sich mit dem Zusammenhang von Trigonometrischen Funktionen und einem [[Rechtwinkliges Dreieck|rechtwinkligen Dreieck]].
+Diese Herangehensweise befasst sich mit dem Zusammenhang von Trigonometrischen Funktionen und einem [[Didaktik/Didaktik der Mathematik/Fachbezogene Aspekte/Raum und Form/Figuren/Rechtwinkliges Dreieck|rechtwinkligen Dreieck]].
 
 ## Winkelfunktionen am rechtwinkligen Dreieck
 ### Motivation

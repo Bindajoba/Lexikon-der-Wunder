@@ -1,9 +1,8 @@
 ## Beschreibung
 Software-Verifikation stellt Techniken zur Verfügung, mit der die [[Korrektheit]] eines Programms mathematisch nachgewiesen werden kann.
 
-Es stellt grundsätzlich die Frage: "Entsprcht das Progamm den konkreten (funktionalen und nichtfunktionalen (?)) Spezifikationen?"
+Es stellt grundsätzlich die Frage: "Entspricht das Progamm den konkreten Spezifikationen?"
 
-Damit ist die Verifikation ein Teil der [[Software-Validierung]]
 
 ## Ziel
 Sei $I$ die Impementierung eines Programms und $S$ die Spezifikation.

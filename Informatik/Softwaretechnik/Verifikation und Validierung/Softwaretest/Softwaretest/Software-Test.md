@@ -92,6 +92,30 @@ A: Wiederholte Testfälle bei Änderungen an Komponenten, um schnell Fehler zu b
 ## Integrationstest
 Siehe [[Integration]].
 
+# Schwerpunkte
+Test können sich auf verschiedene Sachen fokussieren. Es werden zwischen dre Schwerpunkten unterschieden.
+
+Q: Welche drei Schwerpunkte kann man beim Testen setzen? ([[Software-Test]])
+A: - Datenfluss
+- Kontrollfluss
+- Funktionales Testen
+<!--ID: 1645454018046-->
+
+
+## Datenfluss
+Wie beim Black-Box-Test, wird überprüft, ob die Art wie Ein- und Ausgabe sich entsprechend der Spezifikation verhält. 
+Dazu werden repräsentative Werte und [[Äquivalenzklasse (Softwaretest)|Äquivalenzklassen]] verwendet
+*Datenfluss heißt, die Daten fließen korrekt rein und raus.*
+
+
+## Kontrollfluss
+Man Testet aus der Implementierung der Methode Klasse heraus.
+*Kontrollfluss heißt, die Daten werden in der zu Testenden Methode korrekt kontrolliert.*
+
+
+## Funktionales Testen
+Es werden die Testfälle fokussiert, die hauptsächlich von Usern verwendet werden.
+
 # Testmethoden
 Beim Testen weren unterschiedliche Tricks angewendet.
 

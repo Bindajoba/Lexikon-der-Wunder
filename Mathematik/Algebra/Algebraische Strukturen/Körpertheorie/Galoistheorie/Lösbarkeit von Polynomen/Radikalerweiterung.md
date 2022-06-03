@@ -4,6 +4,8 @@ TARGET DECK: Universität::Mathematik::Algebra
 # Beschreibung
 Eine **Radikalerweiterung** ist eine spezielle Form der [[Körpererweiterung]], bei der Grundkörper nur um Wurzeln adjungiert wird.
 
+*Nach Gerkmanns definition ist auch ein Turm von sukzessiven Adjunktionen um Wurzeln eine Radikalerweiterung*
+
 # Definition
 Eine Erweiterung $K(a_1, ..., a_n)|K$ wird (von mir) radikal genannt, wenn es für alle $i \in  \{1, ...n\}$ein $k_i \in \N$ gibt mit $a_i^{k_i} \in K$
 
@@ -13,7 +15,8 @@ Sei $L$ ein [[Normale Erweiterung|normaler]] [[Erweiterungskörper]] von $K$ vom
 Dann ist $L$ Teil einer Radikalerweiterung adjungiert mit $n-1$ $p$-ten Wurzeln $a_1, ..., a_{p-1}$.
 D.h. $L \subseteq K(a_1, ..., a_{p-1})$ mit $a_i^p \in K$ für alle $i \in {1, p-1}$
 
-
+# Siehe auch
+- [[Galoisgruppe von einfacher Radikalerweiterung]]
 
 
 $\newcommand{\Q}{\mathbb Q}$

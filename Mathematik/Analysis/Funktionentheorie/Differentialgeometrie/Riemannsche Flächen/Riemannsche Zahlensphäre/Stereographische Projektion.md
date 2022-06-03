@@ -23,7 +23,7 @@ $$Q: \begin{array}{rcl} \hat{\mathbb{C}} & \to & \mathbb{S} \\ (u_1, u_2, u_3) &
 
 ## Eigenschaften
 ### Isometrischer Isomorphismus
-Die **Stereographische Projektion** ist ein [[Isometrie|isometrischer]] [[Isomorphismus]]
+Die **Stereographische Projektion** ist ein [[Mathematik/Algebra/Algebraische Strukturen/Gruppen/Gruppen nach Arnold/Isometrie|isometrischer]] [[Isomorphismus]]
 
 Dass die Projektion eine Isometrie ist, ist ziemlich dämlich, da sie auf $\hat{\mathbb{C}}$ abbildet, dessen [[Metrik]] genau die [[Umkehrabbildung]] der **Stereographischen Projektion** ist.[^1]
 

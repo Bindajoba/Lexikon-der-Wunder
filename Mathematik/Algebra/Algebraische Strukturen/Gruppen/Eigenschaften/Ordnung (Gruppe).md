@@ -19,8 +19,23 @@ Ist $G$ eine zyklische Gruppe der Ordnung $n$, dann gibt es genau $\varphi(n)$ E
 
 $\varphi$ ist die [[Eulersche Phi Funktion]].
 
-### Eigenschaft 4
+### Reduzierte Definition
 Sei $G$ eine [[Gruppe]] und $n \in \mathbb{N}$. Ein Element $g \in G$ hat genau dann die Ordnung $n$, wenn $g^n = e_G$ und für jeden Primteiler $p$ von $n$ jeweils $g^{n/p} \neq e_G$ gilt.[^1]
+
+# Eigenschaften
+## Endliche Zyklische Gruppe
+Bei endlichen Zyklischen Gruppen, hat die Ordnung eine Menge interessanter Eigenschaften. Siehe dazu [[Endliche Zyklische Gruppe]]
+
+# Übungen
+## Klausur 2016 Aufgabe 2
+![[Klausur 2016 Aufgabe 2.png]]
+### b)
+Darauf folgt $g^n = e$. Es gilt $(g^{-1})^n = (g^n)^{-1} = e$ aber nicht für kleinere $n$.
+
+### c)
+Die Ordnung ist der ggT der Zykellängen der disjunkten Zykel also 6.
+$\sigma^{61} = \sigma^1 \implies$ Ordnung 6.
+
 
 #Algebra 
 

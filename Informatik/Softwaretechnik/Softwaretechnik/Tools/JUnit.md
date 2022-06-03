@@ -1,4 +1,5 @@
-TARGET DECK: Universität
+TARGET DECK: Universität::Informatik::SWT
+
 
 # Beschreibung
 **JUnit** ist ein [[Software-Tool]], mit dem das Erstellen von [[Software-Test]], konkreter [[Unit Test]] vereinfacht werden soll.

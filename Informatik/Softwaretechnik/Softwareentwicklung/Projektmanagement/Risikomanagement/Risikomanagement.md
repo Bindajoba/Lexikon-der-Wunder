@@ -27,13 +27,14 @@ Gibt es genug Zeit?
 
 
 Q: Welche Arten von Risiko gibt es?
-A: - Geschäftliche Risiken
+A: - Technische Risiken
+- Geschäftliche Risiken
 - Zeitplan Risiken
 - Ressourcen Risiken
 <!--ID: 1645260973510-->
 
 
-Q: Ws sind die größten Quellen technischer Risiken?
+Q: Was sind die größten Quellen technischer Risiken?
 A: - Projektkomplexität
 - Projektgröße
 - Outsourcing
@@ -47,6 +48,21 @@ Die Risiken werden in einer Liste notiert
 - Risikoabhängigkeitsliste
 Jedes Risiko wird darauf überprüft, ob es von anderen Risiken abhängt.
 ![[Risikoabhängigkeitsliste.png]]
+
+# Übungen
+## Übung SWT 11-3
+An einem Lehrstuhl einer Universität gibt es in der Regel drei Typen von Personen: den verantwortlichen Professor, einige Mitarbeiter und mehrere Studenten, quasi eine typische Lehrstuhlhierarchie. Der Lehrstuhl führt über mehrere Jahre ein größeres Forschungs- bzw. Softwareprojekt durch, an dem alle Personen beteiligt sind. 
+Zeigen sie anhand von zwei konkreten Beispielen auf, welche Risiken bestehen, die eine Fortführung des Projektes gefährden können. Sie können hierbei auch allgemeine Risiken als Basis
+verwenden und diese auf den Lehrstuhl konkretisieren. Welche vorbeugenden Maßnahmen
+könnte man dagegen anwenden? Welche Maßnahme ist bei welcher Person sinnvoll?
+
+- Das Projekt könnte sich als komplexer als erwartet herausstellen
+- Studenten wechseln ständig (Weniger Studenten einstellen, Studenten Aufgaben mit leichter Einarbeitung geben), Projekt in *Teilprojekte aufteilen*
+- Mitarbeiter können wechseln (Mitarbeiter speziell aussuchen)
+- Wechselt der Prfessor die Universität, kann das Projekt vollkommen abgebrochen oder verlegt werden.
+*Vertretung des Professors*
+- *Hardwareausfall (externe Dienstleister, Backups, Redundanz)* 
+
 
 #Softwaretechnik 
 

@@ -14,6 +14,14 @@ Bei der Modularisierung wird ein System in viele, möchlichst unabhängige Syste
 # Vorgehensweisen
 Seemann stellt drei Vorgehensweisen bei der Modularisierung vor:
 
+Q: Welche Vorgehensweisen gibt es zur Modularisierung von Programmen
+A: - Verfeinerung
+- Vergröverung
+- Frühe Zerlegung des Modells
+<!--ID: 1645543049493-->
+
+
+
 ## Verfeinerung von Modellelementen
 Wie ich das Verstanden habe, werden anfangs grobe Klassen aufgeteilt. Die Aufgeteilten Klassen bilden das neue Modul.
 

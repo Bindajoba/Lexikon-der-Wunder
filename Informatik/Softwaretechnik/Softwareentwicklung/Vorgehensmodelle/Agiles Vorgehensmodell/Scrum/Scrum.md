@@ -54,13 +54,26 @@ A: - Sprint Planning Meeting
 
 
 
-
-
-
 # Weiteres Vokabular
 - **Daily Scrum**
 Tägliches Projekttreffen, um über den (1) aktuellen Arbeitsstatus, (2) das heutige Ziel zu berichten und über (3) Probleme zu berichten
 
+# Bewertung
+## Nachteile
+- Der Fortschritt ist schwer messbar. 
+- Das Management ist schwierig und sehr vom Scrum Master abhängig. 
+- Mitarbeiter müssen auf plötzlich auftretende Anforderungen spontan eingestellt werden.
+- *Der Kunde muss bereit sein, sein Projekt fortlaufend zu begleiten und Aufwand hineinzustecken (Anforderungsentwicklung, Akzeptanztests)*
+- *Gewisse Erfahrung im Entwicklerteam nötig*
+- *Kein Festpreis möglich*
+
+Q: Was sind 3 Gefahren/Nachteile von Scrum?
+A: - Kunde muss Projekt fortlaufend begleiten
+- Erfahrung im Entwicklerteam nötig
+- Mitarbeiter müssen bei neuen Anf. spontan eingestellt werden
+- Kein Festpreis möglich
+- Fortschritt schwer messbar  
+<!--ID: 1645454019176-->
 
 
 #Softwaretechnik 

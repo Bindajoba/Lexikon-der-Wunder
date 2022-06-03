@@ -3,8 +3,11 @@ TARGET DECK: Universität::Informatik::SWT
 # Beschreibung
 Der Besucher ist ein [[Entwurfsmuster (Softwaretechnik)]]. Der Besucher ermöglicht die Definition einer neuen Operation, ohne die Klassen der von ihr bearbeiteten Elemente zu verändern.
 
+Q: Wozu verwendet man das [[Visitor]]-Entwurfmuster?
+A: Man kann damit einer Klasse eine neue Operation hinzufügen, ohne die Klasse zu verändern.
+<!--ID: 1645454018579-->
 
-
+Für mehr Informationen[^1]
 
 # Struktur
 Ich gabe mein bestes, um das zu erklären:
@@ -23,3 +26,4 @@ So hat man eine Operation auf einem Element defininiert, ohne diese in das Eleme
 #Softwaretechnik 
 
 
+[^1]: https://refactoring.guru/design-patterns/visitor

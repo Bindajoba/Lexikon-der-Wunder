@@ -1,7 +1,8 @@
 TARGET DECK: Universität::Mathematik::Algebra
 
 # Beschreibung
-Ein Körper ist ednlich, wenn er endlich viele Elemente besitzt.
+Ein Körper ist endlich, wenn er endlich viele Elemente besitzt.
+Alle Endlichen Körper haben die Ordnung einer $p$-Potenz und sind isomorph zu einerm [[p-Körper]]. 
 
 # Eigenschaften
 ## Größe einer Primzahlpotenz
@@ -12,16 +13,6 @@ Sei $p$ eine Primzahl, $n \in \mathbb{N}$ und $K$ ein Körper mit $p^n$ Elemente
 
 ## Isomorphie zu $\mathbb{F}_p$
 Jeder Körper mit $p$ Elementen ist [[Körperisomorphismus|isomorph]] zu $\mathbb{F}_p$
-
-## Algebraischer Abschluss und seine Teilkörper
-Sei $p$ eine prim und $\mathbb{F}_p^{alg}$ ein algebraischer Abschluss von $\mathbb{F}_p$ (ein algebraischer Abschluss ist bis auf Isomorphie eindeutig.)
-1. Für jedes $n \in \mathbb{N}$ gibt es genau einen Teilkörper $\mathbb{F_{p^n}} \subseteq \mathbb{F}_p^{alg}$ mit $p^n$ Elementen
-2. Für $m, n \in \mathbb{N}$ gilt $\mathbb{F}_{p^m} \subseteq \mathbb{F}_{p^n}$ genau dann, wenn $m$ ein Teiler von $n$ ist
-
-*Für $\mathbb{F}_2$:*
-Sei $\mathbb{F}_2^{alg}$ der algebraische Abschluss von $\mathbb{F_2}$.
-1. Für jedes $n \in \mathbb{N}$ gibt es genau einen Teilkörper $\mathbb{F}_{2^n}$ mit $2^n$ Elementen
-2. Für $m, n \in \mathbb{N}$ gilt $\mathbb{F}_{2^m} \subseteq \mathbb{F}_{2^n}$ genau dann, wenn $m$ ein Teiler von $n$ ist
 
 # Beispiele
 ## Primgröße

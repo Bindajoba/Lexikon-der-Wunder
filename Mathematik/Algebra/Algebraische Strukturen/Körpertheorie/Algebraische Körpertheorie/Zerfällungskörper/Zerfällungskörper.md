@@ -56,7 +56,6 @@ Damit muss $3$ ein Teiler von $[L:\Q]$ sein, was nicht geht und einen Widerspruc
 
 
 
-
 #Algebra 
 
 [^1]: Gerkmann - Satz 14.1

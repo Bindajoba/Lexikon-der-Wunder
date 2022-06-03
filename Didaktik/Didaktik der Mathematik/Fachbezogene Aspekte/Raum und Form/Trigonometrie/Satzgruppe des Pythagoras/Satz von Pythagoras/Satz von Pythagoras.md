@@ -1,7 +1,7 @@
 ## Beschreibung
 In jedem rechtwinkligen Dreieck ist der Flächeninhalt des Hypotenusenquadrats gleich der Summe der Flächeninhalte der beiden Kathetenquadrate.
 
-In Formelschreibweise: Ein Dreieck ist genau dann [[Rechtwinkliges Dreieck|rechtwinklig]], wenn  $c^2=a^2+b^2$ 
+In Formelschreibweise: Ein Dreieck ist genau dann [[Didaktik/Didaktik der Mathematik/Fachbezogene Aspekte/Raum und Form/Figuren/Rechtwinkliges Dreieck|rechtwinklig]], wenn  $c^2=a^2+b^2$ 
 
 ![[Satz von Pythagoras Bild.png]]
 

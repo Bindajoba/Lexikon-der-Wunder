@@ -4,6 +4,11 @@ TARGET DECK: Universität::Informatik::SWT
 Die McCabe Metrik hat eine interessante Art dem Problem der [[Software-Metrik]] zu begegnen.
 McCabe misst Komplexität, indem er er die Verzweigtheit des Codes untersucht.
 
+Q: Was misst die [[McCabe-Metrik]]
+A: McCabe misst Komplexität, indem er er die Verzweigtheit des Codes untersucht.
+<!--ID: 1645610669604-->
+
+
 
 # Definition
 ## Zyklomatische Komplexität

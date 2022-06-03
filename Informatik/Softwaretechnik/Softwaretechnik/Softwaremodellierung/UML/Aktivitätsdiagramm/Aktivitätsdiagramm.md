@@ -15,11 +15,29 @@ In einem Aktivitätsdiagramm werden die Aktionen in abgerundete Rechtecke geschr
 Startknoten werden wie in einem [[Zustandsdiagramm]] durch einen ausgefüllten Kreis dargestellt.
 Ein Endknoten mündet in ein Spiegelei.
 
+Q: Wie wird ein Startknoten in einem [[Aktivitätsdiagramm]] dargestellt?
+A: Ein ausgefüllter Kreis, aus dem ein Pfeil kommt
+<!--ID: 1645543049116-->
+
+
+Q: WIe wird ein Endknoten in einem [[Aktivitätsdiagramm]] dargestellt?
+A: Ein Spiegelei
+<!--ID: 1645543049231-->
+
+
+
 ## Bedingungen
 Bedingungen werden in Eckigen Klammern über die Kanten geschrieben.
 ![[Aktivitätsdiagramm Bedingung.png]]
 Will man Bedingungen schachteln, kann man "Entscheidungsknoten" in Form einer Raute hinzufügen:
 ![[Aktivitätsdiagramm Bedingung II.png]]
+
+Q: Wie wird ein Entscheidungsknoten in einem [[Aktivitätsdiagramm]] dargestellt
+A: Durch eine Raute 
+(Entscheidungen in eckigen Klammern)
+<!--ID: 1645543049357-->
+
+
 
 ## Nicht-disjunkte Bedingungen
 Sind die Bedingungen nicht disjunkt, das heißt, es können mehrere Bedingungen gleichzeitig auftreten, dann wird das mit einem Synchronisationsbalken verdeutlicht. 

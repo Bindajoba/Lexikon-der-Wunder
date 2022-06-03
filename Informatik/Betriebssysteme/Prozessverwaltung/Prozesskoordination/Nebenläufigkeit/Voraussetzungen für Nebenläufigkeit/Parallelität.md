@@ -10,6 +10,6 @@ Parallel Abläufe sind (echt) parallel, wenn mehrere Prozessoren ein oder mehrer
 ## Quasi-Parallelität
 Zwei gleichzeitig laufende [[Prozess|Prozesse]] sind quasi-parallel, wenn mehrere Prozesse von einem Prozessor stückweise bearbeitet werden.
 
-Q: Wann sind zwei prozesse Quasi-Parallel? ([[Parallelität]])
+Q: Wann sind zwei prozesse Quasi-Parallel? ([[Informatik/Betriebssysteme/Prozessverwaltung/Prozesskoordination/Nebenläufigkeit/Voraussetzungen für Nebenläufigkeit/Parallelität]])
 A: Wenn sie gleichzeitig auf dem gleichem Prozessor abgearbeitet werden.
 <!--ID: 1642897214570-->

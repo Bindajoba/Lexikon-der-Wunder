@@ -14,6 +14,14 @@ Das Integrieren wir üblicherweise in mehreren Schritten durchgeführt:
 5. Diagnose, Korrektur von Fehlern
 6. Nachprüfung
 
+Q: Was sind die Schritte der Integration?
+A: 1. Prüfung der Einzelsysteme
+2. Integration der Einzelsysteme
+3. Prüfung des integrierten Systems
+4. Identifikation von Fehlern
+5. Diagnose, Korrektor von Fehlern
+6. Nachprüfung
+<!--ID: 1645610670049-->
 
 
 ## 1. Modultest
@@ -24,6 +32,11 @@ Der Modultest [[Software-Test|testet]] alle Module separat auf:
 
 ## 3. Integrationstest
 Während der Modultest einzelne Einheiten isoliert betrachtet werden im Integrationstest die Einheiten im Zusammenspiel getestet.
+
+Q: Was prüft der Integrationstest? ([[Integration]])
+A: Wie die Einheiten zusammenarbeiten
+<!--ID: 1645610670149-->
+
 
 ### Methoden der Integration
 Das kann unterschiedlich passieren und hängt davon ab, welches Integrationsmethode man verwendet.

@@ -5,16 +5,33 @@ Strukturmetriken zeichnen sich dadurch aus, dass sie Klassenverbünde als Ganzes
 
 Sie sind somit das Gegenstücker der [[Komponentenmetrik]]
 
+Q: Was ist eine [[Strukturmetrik]]?
+A: Eine Softwaremetrik, die Interaktionen zwischen Klassen misst.
+<!--ID: 1645610669277-->
+
+
+
+
 ## Definition
 ### Fan-In
 Als Fan-In einer Klasse $C$, kurz $F_{in} (C)$ wird die Anzahl der Klassen bezeichnet, die direkt auf $C$ zugreifen.
 Klassen mit einem hohen Fan-In Anteil sind in der Regel am unteren Ende der Software-Architektur angesiedelt
+
+Q: Was ist der Fan-In einer Klasse $C$? ([[Strukturmetrik]])
+A: Die Anzahl der Klassen, die auf $C$ zugreifen.
+<!--ID: 1645610669396-->
+
 
 ### Fan-Out
 Als Fan-Out einer Klasse $C$, kurz $F_{in} (C)$ wird die Anzahl der Klassen bezeichnet, auf die $C$ zugreift.
 Klassen mit einem hohen Fan-In Anteil sind in der Regel am oberen Ende der Software-Architektur angesiedelt
 
 ![[Strukturmetrik.png]]
+*Hohes Fan-In und Fan-Out bedeuten eine hohe [[Kohäsion und Kopplung|Kopplung]]*
+
+Q: Was ist der Fan-In einer Klasse $C$? ([[Strukturmetrik]])
+A: Die Anzahl der Klassen, auf die $C$ zugreift.
+
 
 ### Strukturelle Komplexität einer Klasse
 $$v_{HK}(C) = (F_{in}(C)F_{out}(C))^2$$

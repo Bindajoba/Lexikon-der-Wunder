@@ -11,6 +11,15 @@ Im Weiteren Sinn beschreibt es eine flexibles Projektstruktur
 
 Die Grundsätze des Agilen Programmierens sind in diesem [Manifest](https://agilemanifesto.org/)notiert.
 
+Q: Was sind die 4 Werte der Agilen Entwicklung?
+A: - Individuen über Prozesse und Tools  
+- Funktionierende Software über Dokumentation  
+- Kundenzusammenarbeit über Vertragaushandlung  
+- Reaktion statt Plan
+<!--ID: 1645543051562-->
+
+
+
 # Bewertung
 ## Vorteile
 - Frühes und häufiges Coden

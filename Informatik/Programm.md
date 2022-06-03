@@ -26,5 +26,4 @@ Kernalprogramme sind ein direkter Teil des Betriebssystems und laufen mit höher
 Benutzerprogramme sind alle anderen Programme
 
 
-
 #Betriebssysteme #Softwaretechnik 

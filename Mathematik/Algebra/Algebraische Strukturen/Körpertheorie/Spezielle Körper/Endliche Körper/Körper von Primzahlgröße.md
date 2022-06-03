@@ -1,18 +1,22 @@
 TARGET DECK: Universität::Mathematik::Algebra
 
 # Beschreibung
-Der Name ist wohl relativ selbsterklrend. Es ist ein [[Endlicher Körper]] von Primzahlgröße
+Der Name ist wohl relativ selbsterklärend. Es ist ein [[Endlicher Körper]] von Primzahlgröße.
+Damit ist es ein Spezielfall des [[p-Körper]].
 
+# Übungen
+## McEliece Übung 5-6
+Für welche $a \in \F_5$ ist $x^2-a$ in $\F_5$ irreduzibel.
+$x^2-a$ ist rreduzibel, wenn es keine Nullstelle hat, d.h. $a$ keine Quadratwurzel beistzt.
+- $0^2 = 0$
+- $1^2 = 1$
+- $2^2 = 4$
+- $3^2 = 4$
+- $4^2 = 1$
 
-# Eigenschaften
-## Zerfällungskörper von p-Elementigen Körpern
-Sei $p$ eine Primzahl, $P$ ein [[Körper]] mit $p$ Elementen, $n \in \mathbb{N}$ und $K$ ein [[Zerfällungskörper]] von $f_n = x^{p^n}-x \in P[x]$ über $P$. Dann gilt $|K| = p^n$.[^1]
+$0, 1, 4$ besitzen eine Quadratwurzel
 
-
-## Eindeutigkeit
-
-
-#Algebra 
+#Algebra #McEliece 
 
 
 [^1]: Gerkmann - Proposition 15.7

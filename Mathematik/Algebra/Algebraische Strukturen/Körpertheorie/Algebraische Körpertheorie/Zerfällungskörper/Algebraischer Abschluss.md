@@ -26,8 +26,14 @@ Algebraische Abschlüsse eines Körpers $K$ sind bis auf [[Körperisomorphismus|
 
 
 # Beispiele
-## Zerfällungskörper von $\mathbb{F}_2$
+## Zerfällungskörper aller Polynome über einen Grundkörper $K$
+Durch den [[Zerfällungskörper]] $\tilde K$ aller Polynoms $S_K$ über einen Grundkörper $K$ erhält man den algebraischen Abschluss des Körpers.
 
+**Beweis:**
+1) $\tilde K$ ist offensichtlich algebraisch
+2) Sei $f \in \tilde K(x)$ nicht-konstant, irreduzibel, o.b.d.A normiert und irreduzibel. Zeige: Dann $f$ hat eine Nulltelle in $\tilde K$
+   $f$ hat eine Nullstelle $\alpha$ mit $f(\alpha) = 0$. Damit ist $\tilde K(\alpha) \mid \tilde K$ algebraisch $\implies \tilde K(\alpha) \mid K$ ist algebraisch. Damit hat $\alpha$ ein Minimalpolnom in $K$. Dieses Minimalpolynom muss in $S_K$ enthalten sein $\implies \alpha \in \tilde K$.
+   
 
 
 

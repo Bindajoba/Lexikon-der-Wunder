@@ -42,6 +42,12 @@ Sei $f$ ein [[Irreduzibles Polynom]] über $\Q$ von Primzahlgrad $p$, welches ge
 
 Die Idee ist folgende: Sei $\zeta$ eine der Nullstellen. EIndem man eine Nullstelle auf die nächste abbildet erhält man eine 
 
+# Übungen
+## Checkliste Gerkmann
+Sei $f \in \Q[x]$ ein Polynom, dessen Galoisgruppe zur $42$-Elementigen Diedergruppe $D_{21}$ isomorph ist. Ist $f$ durch Radikale auflösbar?
+
+$D_{21}$ hat den zyklischen Normalteiler $C_{21}$, die Faktorgruppe ist isomorph zu $C_2$. Beide sind auflösbar, also ist $D_{21}$ auflösbar und $f$ auflösbar.
+
 
 #Algebra 
 

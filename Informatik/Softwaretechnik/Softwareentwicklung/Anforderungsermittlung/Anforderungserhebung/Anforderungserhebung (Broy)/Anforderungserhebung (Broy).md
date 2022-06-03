@@ -1,4 +1,4 @@
-TARGET DECK: Universität::Informatik::SWT
+TARGET DECK: Universität::Informatik::Lösch
 
 # Beschreibung
 Broy und Kuhrmann stellen ein eher traditionelleses Vorgehen zur Anforderungsermittlung dar.
@@ -38,8 +38,8 @@ Welche Lösungsoptionen gibt es und worin unterscheiden sie sich?
 Welche Lösungsoptionen versprechen die effizienteste Zielerreichung?
 Welche Lösungsoptionen balancieren Ziele und Rahmenbedingungen am besten?
 Welche Lösungsoptionen hat das Verwerfen bestimmter Lösungsoptionen?
-4. **Anforderungen und Dienste**
-Welches facliche, logische Daten- und Prozessmodell soll dem System zugrundeliegen?
+4. **Definieren und Beschreiben von Anforderungen und Dienste**
+Welches fachliche, logische Daten- und Prozessmodell soll dem System zugrundeliegen?
 Wie sollen die fachlichen Schnittstellen beschaffen sein und welches Verhalten haben sie?
 Wie sollen die erforderlichen Leistungsparameter des Systems gewählt werden?
 5. **Risiken und Erfolgsfaktoren**
@@ -48,6 +48,8 @@ Welche Erfolgsfaktoren gibt es und wie verhalten sich diese zu den Risiken?
 Welceh Erfolgsfaktoren sind für die Systementwicklung maßgeblich und sind diese in den Anforderungen reflektiert?
 6. **Weitere Nebenbedingungen**
 z.B.: Infrastrukturen, technische und organisatorische Fragen 
+
+
 
 ### Lastenheft und Anwenderforderungen
 Aus den oberen Anforderungen wird ein [[Lastenheft]] erstellt, welches die Anforderungen zusammenfasst.
@@ -62,11 +64,21 @@ Dazu kann man [[User Story Map|User Story Maps]] verwenden.
 Um an Anforderungen des Systems zu kommen, sollte man sich folgender Quellen bedienen:
 - Stakeholder
 - Ideen von Fachleuten
+- Literatur und [[Randbedingung|Gesetze]]
+- Existierende Systeme und deren Dokumentation
+- [[Prototyping|Prototypen]]
+- Marksumfeld (um konkurrenzfähige, spezielle Produkte zu erstellen)
+
+Q: Was sind 2 mögliche Quellen für Anforderungen?
+A: - Stakeholder
+- Ideen von Fachleuten
 - Literatur und Gesetze
 - Existierende Systeme und deren Dokumentation
 - [[Prototyping|Prototypen]]
-- Existierende Systeme
 - Marksumfeld (um konkurrenzfähige, spezielle Produkte zu erstellen)
+<!--ID: 1645543054437-->
+
+
 
 ## Modellierung
 Die Modellierung dient wahrscheinlich dazu, die Anfordeurngen in Softwaremodelle umzuwandeln.

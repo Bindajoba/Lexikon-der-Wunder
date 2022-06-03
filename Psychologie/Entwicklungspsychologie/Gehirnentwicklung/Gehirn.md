@@ -57,7 +57,7 @@ Was entfernt wird hat starke umweltbedingte Aspekte
 **Myelinisierung** beschreibt das Bilden einer Myelinschicht um die Axone eines [[Neuron|Neurons]].
 Myelinisierung erfolgt bis ins Erwachsenenalter und tendenziell von innen (z.B. [[Limbisches System]]) nach außen (vgl. graue/weiße Substanz) und von hinten (z.B. [[Sensorischer Kortex]]) nach vorne ([[Präfrontaler Kortex]]).
 
-*Im Präfrontalen Kortex wird Logik und so bearbeitet. Ich bin mir sicher, das hat mit [[Entwicklungsstuenmodell (Piaget)|Piagets Stadientheorie]] zu tun*
+*Im Präfrontalen Kortex wird Logik und so bearbeitet. Ich bin mir sicher, das hat mit [[Entwicklungsstufenmodell (Piaget)|Piagets Stadientheorie]] zu tun*
 
 ### Neronale Plasitizität
 Das Gehirn verändert sich auch durch normale Erfahrungen. Siehe [[Neuronale Plastizität]]

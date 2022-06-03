@@ -1,6 +1,6 @@
 ## Definition
 
-z.B. "Ist das [[Dreieck (Didaktik)|Dreieck]] [[Rechtwinkliges Dreieck|rechtwinklig]], dann gilt $a^2+b^2=c^2$"
+z.B. "Ist das [[Dreieck (Didaktik)|Dreieck]] [[Didaktik/Didaktik der Mathematik/Fachbezogene Aspekte/Raum und Form/Figuren/Rechtwinkliges Dreieck|rechtwinklig]], dann gilt $a^2+b^2=c^2$"
 
 ### Kehrsatz
 Ist der Satz eine Implikation, dann wird beim Kehrsatz einfach der Pfeil umgedreht.

@@ -80,4 +80,4 @@ $$L(M) := \{w \in \Sigma^*:\exists u, v \in \Gamma^*, z \in E:z_0w \vdash uzv\}$
 ## Eigenschaften
 Die durch Turingmaschinen erkannten Sprachen sind genau die [[Unbeschränkte Sprache|Typ 0-Sprachen]]
 
-#FSK 
+#FSK #Natural-Computing 

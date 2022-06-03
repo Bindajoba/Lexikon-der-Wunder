@@ -14,6 +14,15 @@ Verschiedene Clients erhalten verschiedene Interfaces. Ein Client soll nicht auf
 - Dependency Principle
 Komponenten höherer Schichten sollen nicht von Implementierungen niedriger Schichten abhängen
 
+Q: Wofür steht S.O.L.I.D.?
+A: - Single-Responsibility
+- Open-Closed Principle
+- Liskov'sches Substitutionsprinzip
+- Interface-Segragation Principle
+- Dependency Principle
+<!--ID: 1645543050089-->
+
+
 
 
 

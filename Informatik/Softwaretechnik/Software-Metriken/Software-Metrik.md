@@ -14,9 +14,6 @@ A: - Messen von Funktionalität, Zuverlässigkeit, Übertragbarkeit, Transparenz
 
 
 
-
-
-
 # Gütekriterien
 Eine gute Software-Metrik erfüllt folgende [[Gütekriterien]]:
 - [[Objektivität]]: Die Metrik ist vom Prüfer unabhängig
@@ -25,6 +22,7 @@ Eine gute Software-Metrik erfüllt folgende [[Gütekriterien]]:
 - Ökonomie: Die Erhebung der Metrik muss ökonomisch sein
 - [[Validität|Korrelation]]: Die Metrik misst das, was sie vorgibt zu messen 
 - Verwertbarkeit: Die Ergebnisse einer Metrik müssen für zukünftige Entscheidungen von Nutzen sein.
+
 
 Q: Was bedeutet Robustheit einer Softwaremetrik?
 A: Die Ergebnisse bleiben bei Wiederholung des Test gleich?
@@ -54,10 +52,16 @@ A: Sie können keine Zuverlässige Aussagen treffen.
 ### LOC-Metrik
 Siehe [[LOC-Metrik]]
 
+### Halstead-Metriken
+Siehe [[Halstead-Metriken]]
+
 ### Mc-Cabe-Metrik
 Siehe [[McCabe-Metrik]]
 
-### Halstead-Metriken
-Siehe [[Halstead-Metriken]]
+### Komponentenmetrik
+Siehe [[Komponentenmetrik]]
+
+### Strukturmetrik
+Siehe [[Strukturmetrik]]
 
 #Softwaretechnik 

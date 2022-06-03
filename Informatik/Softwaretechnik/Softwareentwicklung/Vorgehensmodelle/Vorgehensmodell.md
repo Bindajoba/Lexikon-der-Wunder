@@ -42,6 +42,32 @@ A: - Erfüllte Anforderungen
 - Fortschritt im Vorgehensmodell
 <!--ID: 1645260972353-->
 
+## Übung SWT 12-2
+Das Management des deutschlandweit empfangbaren Fernsehsenders SWT-TV hat erkannt,
+dass die Zukunft des Fernsehens online stattfinden wird. Daher wurde beschlossen das Online-
+Angebot des Senders insbesondere um eine zeitgemäße Mediathek zu erweitern. In der Mediathek sollen gesendete Inhalte zeitnah für die Zuschauerschaft bereitgestellt werden. Außerdem soll es möglich sein, für ausgewählte Inhalte einen Live-Stream zur Verfügung zu stellen.
+Um den Zuschauern eine Anmeldung für das zukünftig geplante SWT-TV-Premium Angebot
+schmackhaft zu machen, ist außerdem ein Premium-Bereich mit besonderen Inhalten angedacht.
+Das Management tritt an Sie und Ihr Entwicklerteam heran und bittet Sie um eine Umsetzung der oben beschriebenen Anforderungen.
+b) Welche besonderen Gefahren und Nachteile müssen Sie ggf. bei dem von Ihnen gewählten
+Entwicklungsmodell in Kauf nehmen?
+
+### a)
+Mit welchem Entwicklungsmodell würden Sie geschickter Weise das oben beschriebene
+Projekt umsetzen? Begründen Sie ihre Entscheidung gegenüber dem Management, indem
+Sie Vor- und Nachteile von etablierten Prozessmodellen abwägen.
+
+[[Scrum]], die Anforderungen sind vage, die Branche ist kurzlebig und könnte sch schnell ändern, eine frühe Einbeziehung der Nutzer ist sehr hilfreich, 
+Es können frühe Versionen früher und weniger wichtige Features später herausgebracht werden.
+Häufige Rechungsstellung und frühzeitige Bezahlung ohne Risiko für Kunden (?)
+
+### b)
+- Der Fortschritt ist schwer messbar. 
+- Das Management ist schwierig und sehr vom Scrum Master abhängig. 
+- Mitarbeiter müssen auf plötzlich auftretende Anforderungen spontan eingestellt werden.
+- *Der Kunde muss bereit sein, sein Projekt fortlaufend zu begleiten und Aufwand hineinzustecken (Anforderungsentwicklung, Akzeptanztests)*
+- *Gewisse Erfahrung im Entwicklerteam nötig*
+- *Kein Festpreis möglich*
 
 
 

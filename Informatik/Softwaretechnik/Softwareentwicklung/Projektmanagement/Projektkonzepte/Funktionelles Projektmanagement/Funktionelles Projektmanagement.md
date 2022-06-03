@@ -35,6 +35,12 @@ Entscheidende Termine werden Meilensteine genannt.
 
 Der Projektleiter überwacht dann den Projektfortschritt und stellt sicher, dass die Termine eingehalten werden.
 
+Q: Was sind die Aufgaben der Terminplanung?
+A: Ermittlung von Deadlines und Pufferzeiten für Meilensteine 
+<!--ID: 1645543052021-->
+
+
+
 Im Rahmen der Terminplanung werden die folgenden einzelnen Aufgaben nacheinander durchgeführt.
 - Prüfung der Basisdaten
 Prüfen, was man in den Vorherigen Schritten schon alles erarbeitet hat (z.B. Arbeitspakete, Abläufe)
@@ -54,7 +60,7 @@ Den Vorgängen werden früheste bzw. späteste Anfangs-/Endtermine zugewiesen.
 Dargestellt uund strukturiert werden die oberen Aktivitäten mit einer
 - Listentechnik
 Alles wird in eine Tabelle geschrieben
-- [[Balkendiagrammtechnik]]
+- [[Projektmanagementdiagrammtechnik]]
 Arbeitspakete werden als Balken dargestellt, die Zeit wird auf der x-Achse aufgetragen
 - Netzplantechnik
 Kein Plan

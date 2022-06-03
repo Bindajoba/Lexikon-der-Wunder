@@ -24,6 +24,13 @@ Diese drei Größen sind:
 
 Die oberen drei Aspekte stehen in ständigem Konflikt miteinander und werden daher **magisches Dreieck** genannt
 ![[Magisches Dreieck.png]]
+Q: Was ist das magische Dreieck ([[IT-Projekt]])
+A: Die Konflikte zwischen
+- Ziel
+- Einsatzmittel
+- Zeit
+<!--ID: 1645543051670-->
+
 
 
 # Strukturierung
@@ -110,6 +117,18 @@ Eine Unternehmensstrategie gibt die strategische Ausrichtung und die generellen 
 9. Zuverlässige Aufwandsschätzung
 10. (Weitere Erfolgsfaktoren)
 
+Q: Nenne 4 der 9 Erfolgsfaktoren des Projektmanagements
+A: 1. Top Management-Engangement
+2. Nutzer-Einbeziehung
+3. Erfahrene Projektleitung
+4. Unternehmensstrategie
+5. Überschaubare Projektgröße
+6. Standadisierte Software-Infrastruktur
+7. Anforderungsmanagement
+8. Standardisierter Projektverlauf
+9. Zuverlässige Aufwandsschätzung
+<!--ID: 1645543051790-->
+
 
 # Gründe für das Scheitern
 - Es werden keine Meilensteine gesetzt
@@ -119,6 +138,14 @@ Eine Unternehmensstrategie gibt die strategische Ausrichtung und die generellen 
 - Mangel an Qualifiziertem Personal
 - Ausstieg eines kompetenten Mitarbeiters oder eines neuen Mitarbeiters mitten im Projekt
 
+Q: Nenne 3 Gründe für das häufige Scheitern von Projekten
+A: - Keine Meilensteine
+- Software ist immateriell, Fortschritt macht sich ert zum Schluss bemerkbar
+- Es gibt kein Verständnis von der Entwicklung
+- Große Projekte sind einzigartig
+- Mangel an Qualifiziertem Personal
+- Ausstieg eines kompetenten Mitarbeiters
+<!--ID: 1645543051902-->
 
 
 #Softwaretechnik 

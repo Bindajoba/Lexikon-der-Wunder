@@ -4,6 +4,18 @@ TARGET DECK: Universität::Informatik::SWT
 Der Systementwurf folgt der [[Anforderungsanalyse]]. Er befasst sich mit dem Entwurf des Systems.
 
 # Schritte
+Q: Welche vier Schritte durchläuft man beim Systementwurf (OOD)
+A: 1. Systemarchitektur festlegen
+2. Klassenentwurf
+3. Schnittstellen spezifizieren
+4. Detailentwurf
+<!--ID: 1645543054200-->
+
+
+
+
+
+
 ## Entwurf nach Seemann
 ### Systemarchitektur festlegen
 Am Ende der [[Anforderungsanalyse]] mussten bereits Aspekte konkreten Realisation in Betracht gezogen werden.

@@ -22,6 +22,13 @@ A: - Analyse-Klassendiagramm
 - Implentierungs-Klassendiagramm
 <!--ID: 1641730455600-->
 
+Q: Welche Eigenschaften sollte ein Analyse-Klassendiagramm enthalten?
+A: - Verantwortlichkeiten in Fließtext
+- Wichtigste Assoziationen
+- Vererbungen
+<!--ID: 1645543047485-->
+
+
 
 # Syntax
 ![[Klassendiagramm Beispiel.png]]

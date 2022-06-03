@@ -1,3 +1,5 @@
+TARGET DECK: Universität::Informatik::SWT
+
 # Beschreibung
 Manche Tests müssen erst eine Umgebung aufbauen, damit diese überhaupt getestet werden kann.
 
@@ -5,6 +7,11 @@ Dabei ist es möglich, dass die gleiche Umgebung durch mehrere Tests erstellt we
 
 Um das Problem zu umgehen, entwickeln wir Test-Fixtures, also eine gemeinsame Grundlage für die Tests einer Testklasse.
 Der Text-Fixture ist eine Methode, der erst die Umgbung der Tests erstellt.
+
+Q: Was ist ein Test-Fixture?
+A: Eine Menge von Objekten und Operationen, die eine Testumgebung bereitstellen.
+<!--ID: 1645610668218-->
+
 
 # Variationen
 ## Umgebung vor Test
@@ -36,6 +43,44 @@ public class Mitarbeiter2Test {
 	}
 }
 ```
+
+Q: Was ist die Syntax von AssertTrue()?
+A: assertTrue(bedingung : boolean)
+<!--ID: 1645610668347-->
+
+
+Q: Was ist die Syntax von assert()
+A: assert(wert1, wert2)
+<!--ID: 1645610668463-->
+
+
+Q: Wie erzeugt man ein Objekt mit JUnit?
+A: @Before
+setUp() {}
+<!--ID: 1645610668558-->
+
+
+Q: Wie beseitigt man ein Objekt mit JUnit?
+A: @After
+tearDown() {}
+<!--ID: 1645610668657-->
+
+
+Q: Wie schreibt man eine Testmethod mit JUnit?
+A: @test
+test1() {}
+<!--ID: 1645610668762-->
+
+
+Q: Wie stellt man einen Zustand vor allen Tests einer Testklasse her?
+A: @BeforeClass
+<!--ID: 1645610668858-->
+
+
+Q: Wie beseitigt man einen Zustand nach einem Test?
+A: @AfterClass
+<!--ID: 1645610668956-->
+
 
 ## Umgebung vor Testklasse
 Braucht das Aufbauen der Testumgebung lange, kann es vorteilhaft sein, die Umgebung nur ein einziges Mal vor ALLEN Tests zu erstellen.

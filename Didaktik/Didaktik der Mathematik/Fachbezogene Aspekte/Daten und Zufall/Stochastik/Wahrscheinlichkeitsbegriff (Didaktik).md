@@ -45,6 +45,8 @@ Siehe [[Begriffsfeld Stochastik]]
 
 Q: Können zwei Modelle, die beide eine gleichmäßige Zufallsverteilung nutzen unterschiedliche Ergebnisse liefern?
 A: Ja
+<!--ID: 1645282095523-->
+
 
 
 ## Grundvorstellungen zerstören

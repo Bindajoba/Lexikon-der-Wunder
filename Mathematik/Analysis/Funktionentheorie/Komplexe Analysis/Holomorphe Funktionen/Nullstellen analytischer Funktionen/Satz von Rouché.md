@@ -1,6 +1,6 @@
 ## Beschreibung
 
-Der **Satz von Rouché** gibt Voraussetzungen, wann eine Summe zweier [[Analytische Funktion|analytischer Funktionen]] auf einem Weg keine [[Nullstelle|Nullstellen]] haben.
+Der **Satz von Rouché** gibt Voraussetzungen, wann zwei [[Analytische Funktion|analytischer Funktionen]] $f$ und $f+g$ im Inneren eines Weges gleichviele Nullstellen [[Nullstelle|Nullstellen]] haben.
 
 ## Definition
 Sei

@@ -21,7 +21,7 @@ Kritische Bereiche erfordern [[Wechselseitiger Ausschluss|Wechselseitigen Aussch
 Durch den Ausschluss von Prozessen können [[Verklemmung|Verklemmungen]] entstehen.
 
 # Lösung
-Ein Kritischer Bereich kann nur entstehen, wenn beide Prozesse [[Unabhängige und Abhängige Abläufe|abhängig]] und [[Parallelität|parallel]] (also [[Nebenläufigkeit|nebenläufig]]) sind.
+Ein Kritischer Bereich kann nur entstehen, wenn beide Prozesse [[Unabhängige und Abhängige Abläufe|abhängig]] und [[Informatik/Betriebssysteme/Prozessverwaltung/Prozesskoordination/Nebenläufigkeit/Voraussetzungen für Nebenläufigkeit/Parallelität|parallel]] (also [[Nebenläufigkeit|nebenläufig]]) sind.
 
 - Parallelität kann man durch [[Scheduler|Preemptives Scheduling]] verhindern
 - Abhängigkeit verhindert man durch Einsatz eines [[Ringpuffer]]

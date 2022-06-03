@@ -19,15 +19,29 @@ Q: Was ist Validierung?
 A: Qualitätssicherung bzgl. Einsatzzweck und Kundenanforderung
 <!--ID: 1643668650946-->
 
+# Methoden
+Es gibt verschiedene Herangehensweise, um die Qualität von Code sicherzustellen, diese lassen sich in zwei Gruppen unterteilen
 
-# Unterteilung
-## Statische Techniken
-Das Programm wird beim Qualitätstest nicht ausgeführt.
+## Statische Methoden
+Statische Methoden beinhalten Möglichkeiten, Code zu überprüfen, ohne ihn auszuführen.
+Dazu gehören die meisten formalen Methoden der [[Software-Verifikation]]
+ sowie:
 - [[Manuelle Software Prüfung]]
+ - Typ-Prüfung
+ - Datenfluss-Analyse
+ - Software-Model-Checking
 
-## Dynamische Techniken
-Das Programm wird beim Qualitätstest ausgeführt.
-- [[Software-Test]]
+
+## Dynamische Methoden
+Das Programm wird zum Testen ausgeführt
+- [[Software-Test|Test-Ausführung]]
+Terminierungszustand, Ergebnisse, Performance werden ausgeführt
+- Automatische Test-Generierung und -Ausführung
+- Debugging
+Instrumentieres Programm wird ausgeführt, angehalten, Zustände inspiziert
+- Profiling
+Instrumentiertes Programm wird ausgeführt und Statistiken berechnet
+
 
 
 

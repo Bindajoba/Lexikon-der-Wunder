@@ -20,6 +20,8 @@ A: - Funktionsterm in paramtrischer Form
 - Linear steigende Steigung
 - Graph ist Parabel
 - Ortliniencharakterisierung
+<!--ID: 1645282094446-->
+
 
 
 # Eigenschaften

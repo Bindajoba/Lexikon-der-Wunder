@@ -26,4 +26,14 @@ Continuous Integration steht für die Denkschule, dass Änderungen am Code so h�
 
 *Es ist nicht immer möglich alle Module zu integrieren, wenn noch nicht alle fertiggestellt sind. Hier kann es sinnvoll sein einen [[Mock]] zu verwenden.*
 
+Q: Nenne 3 Praktiken, die für [[Continuous Integration]] genutzt werden?
+A: - Gemeinsamen [[Versionskontrollsystem|Repositories]]
+- Build-Automatisierung
+- Automatisiertes Testen
+- Mindestens einmal pro Tag Code einreichen und builden lassen
+- Ständige Verfügbarkeit und Sichtbarkeit von aktualisiertem Code
+<!--ID: 1645610670250-->
+
+
+
 #Softwaretechnik 

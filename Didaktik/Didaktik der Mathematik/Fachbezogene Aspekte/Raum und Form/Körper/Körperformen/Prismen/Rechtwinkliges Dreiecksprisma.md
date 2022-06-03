@@ -1,5 +1,5 @@
 ## Beschreibung
-Ein Gerades Dreiecksprisma ist ein [[Gerades Dreiecksprisma]] mit einem [[Rechtwinkliges Dreieck|Rechtwickligen Dreieck]] als Grundfläche.
+Ein Gerades Dreiecksprisma ist ein [[Gerades Dreiecksprisma]] mit einem [[Didaktik/Didaktik der Mathematik/Fachbezogene Aspekte/Raum und Form/Figuren/Rechtwinkliges Dreieck|Rechtwickligen Dreieck]] als Grundfläche.
 
 ## Volumen
 Für das Volumen gilt :

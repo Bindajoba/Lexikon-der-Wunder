@@ -35,7 +35,7 @@ Erwerb von Kenntnissen in Bereichen
 Hans ist größer als Peter, Peter ist größer als Max. Wer ist größer? Hans oder Max?
 
 **Erklärung**
-- Nach [[Entwicklungsstuenmodell (Piaget)|Piaget]], kann das kind sich nicht auf mehrere Eigenschaften/Aussagen gleichzeitig konzetrieren.
+- Nach [[Entwicklungsstufenmodell (Piaget)|Piaget]], kann das kind sich nicht auf mehrere Eigenschaften/Aussagen gleichzeitig konzetrieren.
 - Nach **IV-Theorien** kann sich das Kind die Aussagen nicht gleichzeitig merken
 
 **Test**

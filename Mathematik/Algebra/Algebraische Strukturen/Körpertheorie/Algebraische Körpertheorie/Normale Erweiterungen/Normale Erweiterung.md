@@ -25,6 +25,15 @@ Sei $K$ ein Körper und $L|K$ eine Erweiterung von Grad 2. Dann ist $L|K$ normal
 *Beweis:*
 o.E. sei $f$ normiert. Dann gilt $f = \mu_{\alpha, K} \implies [K(\alpha): K] = grad(f)$...
 
+# Übungen
+## Checkliste Gerkmann
+Geben Sie [[Körpererweiterung|Körpererweiterungen]] $M|K$ und $L|M$ mit $K \subset M$ und $M \subset L$ an, sodass
+1. $L|K$ und $L|M$ normal aber $M|K$ nicht normal
+2. Alle drei Erweiterungen normal sind.
+
+1. $\Q(\sqrt[3]2 , \zeta_3), \Q(\sqrt[3]2), \Q$
+2. $\Q(\sqrt 2, \sqrt 3), \Q(\sqrt 2), \Q$
+
 #Algebra 
 
 [^1]: Gerkmann - Definition 16.1

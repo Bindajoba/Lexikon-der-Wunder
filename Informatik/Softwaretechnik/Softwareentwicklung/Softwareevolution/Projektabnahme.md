@@ -6,6 +6,11 @@ Die Projektabnahme (Acceptance) dient der formalen Akzeptanz der Projektergebnis
 
 *Sie ist nicht zu verwechseln mit dem [[Projektabschluss]]*
 
+Q: Wie ist die Projektabname definiert?
+A: Die Projektabnahme (Acceptance) dient der formalen Akzeptanz der Projektergebnisse durch den Auftraggeber.
+<!--ID: 1645543053108-->
+
+
 # Verlauf
 Die Art der Abnahme wird beim Vertragsschluss festgelegt. Zentral sind jedoch folgende drei Kernaufgaben:
 1. **Prüfung auf Vollständigkeit**

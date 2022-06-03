@@ -56,7 +56,20 @@ Siehe [[Induzierter Homomorphismus]]
 ## Homomorphiesatz für Gruppen
 Siehe [[Homomorphiesatz für Gruppen]]
 
-
+# Übungen
+## Klausur 2016 Aufgabe 1
+![[Klausur 2016 Aufgabe 1.png]]
+### b)
+- Neutrales Element
+$\phi(e) = \psi(e) = e \implies e \in U$
+- Abgeschlossen
+Für $\phi(a) = \psi(a)$ und $\phi(b) = \psi(b)$
+Dann auch $\phi(a + b) = \phi(a)+\phi(b) = \psi(a)+\psi(b) * \psi(a+b)$ also $a+b \in U$
+- Inverses
+Für $a \in U$
+$\phi(-a) = -\phi(a) = -\psi(a) = \psi(-a)$
+- Untermenge
+Offensichtlich
 
 
 #Algebra #Carter 

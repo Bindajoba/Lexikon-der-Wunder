@@ -17,12 +17,27 @@ Daraus kann man folgende Punkte erschließen:
 
 *User Storys lassen sich durch ihre Kartenstruktur sehr gut auf [[Kanban]]-Boards aufbringen*
 
+Q: Welche Schema folgen User Stories?
+A: As WHO I want WHAT so that WHY
+<!--ID: 1645543051311-->
+
+
+
+
 # Bewertung
 ## Nachteile
 - Schlecht skalierbar
 - Fasst Informationen außerhalb von Anwendergruppen nicht auf.
 - Schwer hinsichtlich Vollstädigkeit und Widerspruchsfreiheit zu bewerten
 - Addressieren nur Funktionale Anforderungen keine Qualitätsanforderungen
+
+Q: Nenne 2 Nachteile von User Stories
+A: - Schlecht skalierbar
+- Fasst Informationen außerhalb von Anwendergruppen nicht auf
+- Schwer hinsichtlich Vollständigkeit und Widerspruchsfreiheit zu bewerten
+- Addressieren nur Funktionale Anforderungen keine Qualitätsanforderungen
+<!--ID: 1645543051430-->
+
 
 # Vorteile
 

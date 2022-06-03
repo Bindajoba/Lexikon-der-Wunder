@@ -26,12 +26,29 @@ Q: Wie werden Objekte in Sequenzdiagrammen übertragen?
 A: Durch die Form häuserBauen(Anzahl)
 <!--ID: 1645260971659-->
 
+Q: Wie wir eine Synchrone Nachricht in einem [[Sequenzdiagramm]] dargestellt?
+A: Durchgezogener Pfeil mit ausgefülllter dreieckiger Pfeilspitze
+<!--ID: 1645543047851-->
+
+
+Q: Wie wird die Antwort eine synchronen Nachricht in einem [[Sequenzdiagramm]] dargestellt?
+A: Gestrichelter Pfeil mit normaler Pfeilspitze
+<!--ID: 1645543047972-->
+
+
+
 
 ## Aktivitätszonen
 Aktivitätszonen werden durch schmale Rechtecke markiert. Sie verdeutlichen, die Zeit in der ein Objekt etwas tut.
 Hat ein Objekt mehrere Aktivitätszonen gleichzeitig, dann kann das entweder heißen, dass zwei Aktivitäten gleichzeitig verlaufen oder dass die zweite Aktivität auf die Fertigstellung der ersten wartet.
 
 ![[Sequenzdiagramm Aktivitätszonen.png]]
+
+Q: Was ist eine Aktivitätszone ([[Sequenzdiagramm]])
+A: Die visualisierung der Zeit, in der ein Objekt etwas tut.
+<!--ID: 1645543048118-->
+
+
 Während ein Objekt auf eine Antwort wartet, wird dieses selbst lahmgelegt.
 
 ![[Sequenzdiagramm Assynchr.png]]
@@ -43,11 +60,36 @@ Es scheint so, als ob bei asynchronen Nachrichten die Objekte nicht auf Antworte
 
 ![[Sequenzdiagramm Assynchrone Nachricht.png]]
 
+Q: Wie sieht eine asynchrone Nachricht in einem [[Sequenzdiagramm]] aus.
+A: Durchgezogener Pfeil mit normaler Pfeilspitze.
+<!--ID: 1645543048250-->
+
+
+
 ## Erzeugung und Zerstörung von Objekten
 Zeinet man gestrichelte Pfeile mit den Schlüsselwörtern new/create kann man ein Objekt erzeugen.
 Durch das Schlüsselwort destroy und einem Kreuz bei der Lebenslinie kann man Objekte zerstören. Ich verstehe nur nicht warum der Pfeil beim Erstellen gestrichelt ist.
 
 ![[Sequenzdiagramm Erzeugung.png]]
+
+Q: Wie wird in einem [[Sequenzdiagramm]] ein Objekt erzeugt?
+A: Ein gestrichelter Pfeil mit create zeigt auf ein Rechteck mit dem Namen des neuen Objektes.
+<!--ID: 1645543048369-->
+
+
+Q: Wie wird in einem [[Sequenzdiagramm]] ein Objekt zerstört?
+A: Ein durchgezogener Pfeil zu einem Kreuz.
+<!--ID: 1645543048487-->
+
+
+Q: Nenne 3 von 5 Regler/Fragmente, um [[Sequenzdiagramm]] zu kontrollieren.
+A: - opt
+- alt
+- loop/break
+- par
+- neg
+<!--ID: 1645543048606-->
+
 
 ## Bedingungen
 Manchmal ist eine Interaktion optional oder von Bedingungen abhängig.
@@ -55,6 +97,12 @@ z.B. man kauft sich eine Straße, wenn sie frei ist und Geld vorhanden ist.
 
 ![[Sequenzdiagramme.png]]
 Man nennt das Eingebettete Sequenzdiagramm opt wenn die Operation optional ist oder alt, wenn es mehrere Alternativen gibt.
+
+Q: Wie stellt man in einem [[Sequenzdiagramm]] optionale Nachrichten dar?
+A: Durch einen Kasten mit dem Namen opt.
+<!--ID: 1645543048730-->
+
+
 
 ## Wiederholung
 Will man Unterdiagramme wiederholen, so macht man das mit loop (1, n).

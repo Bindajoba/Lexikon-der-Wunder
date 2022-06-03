@@ -3,7 +3,7 @@ In jedem rechtwinkligen Dreieck ist das Quadrat über der Höhe auf der Hypotenu
 flächeninhaltsgleich zum Rechteck, dessen Seiten die beiden Hypotenusenabschnitte
 sind.
 
-In Formelschreibweise: Ein Dreieck ist genau dann [[Rechtwinkliges Dreieck|rechtwinklig]], wenn  $h^2 = p\cdot q$
+In Formelschreibweise: Ein Dreieck ist genau dann [[Didaktik/Didaktik der Mathematik/Fachbezogene Aspekte/Raum und Form/Figuren/Rechtwinkliges Dreieck|rechtwinklig]], wenn  $h^2 = p\cdot q$
 
 ![[Höhensatz.png]]
 
@@ -17,7 +17,7 @@ Dann erkennt man, dass man den linken Hypothenusenabschnitt auf das Quadrat vers
 Auf diese Weise entsteht ein Dreieck mit den Seitenlängen $a+b, p+h_c$ und $q+h_c$
 
 2. Methode
-Man kann ein Rechtec mit den Seitenlängen $p*q$ an die Unterseite des rechten [[Rechtwinkliges Dreieck#Hypothenusenabschnitt|Hypothenusenabschnitts]] zeichnen.
+Man kann ein Rechtec mit den Seitenlängen $p*q$ an die Unterseite des rechten [[Didaktik/Didaktik der Mathematik/Fachbezogene Aspekte/Raum und Form/Figuren/Rechtwinkliges Dreieck#Hypothenusenabschnitt|Hypothenusenabschnitts]] zeichnen.
 Dann erkennt man, dass man den linken Hypothenusenabschnitt rechts neben das Rechteck verschieben kann.
 ![[Höhensatz Beweis 2.png]]
 Auf diese Weise entsteht wieder ein Dreieck mit den Seitenlängen $a+b, p+h_c$ und $q+h_c$

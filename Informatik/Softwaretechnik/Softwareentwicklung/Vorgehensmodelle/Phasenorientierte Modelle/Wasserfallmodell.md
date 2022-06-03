@@ -29,10 +29,6 @@ A: - Pflichtenheft und Lastenheft
 - Handbuch
 <!--ID: 1645260973133-->
 
-
-
-
-
 # Bewertung
 ## Nachteile
 - Anforderungen kaum vollständig zu Beginn beschreibbar
@@ -56,6 +52,38 @@ A: - Leicht zu [[IT-Projekt|leiten/managen]]
 - Festpreisverträge möglich
 - Effizient, falls es funktioniert
 <!--ID: 1645260973376-->
+
+# Übungen
+- Erläutern Sie, wieso dasWasserfall-Modell kaum mit moderner Softwareentwicklung vereinbar
+ist!
+Man kann nicht von Anfang an alle Anforderungen wissen, Fehler werden zu spät getestet/erkannt und sind teuer auszubessern.
+- Warum wird das Wasserfall-Modell immer noch als Software Prozess-Modell eingesetzt?
+Das Management ist leicht, es ist leicht skalierbar und der Fortschritt ist leicht zu überblicken.
+- Nennen Sie Software Prozess-Modelle, die für moderne Softwareentwicklung bevorzugt werden sollten. Wodurch erreichen diese Techniken höhere Flexibilität?
+*Agile Methoden*, Scrum, (eXtreme Programming, DevOps)
+Häufiges Programmieren, beständiges Testen, frühes Einbeziehen von Nutzern und Domänenexperten, Häufige Releases, *ständiges Feedback*, *Prototypen*
+- Nennen Sie drei Gründe warum das Hinzufügen von neuen Projektmitarbeitern zu einem
+bereits verspätetem Projekt zu einer noch späteren Fertigstellung des Projekts führt!
+Der neue Mitarbeiter muss sich erst in das Projekt einarbeiten. Ist das Projekt bereits fast fertig, so ist besonders viel Arbeit nötig. Bis dahin, könnte er Konflikte verursachen oder die Zeit anderer Mitarbeiter nehmen.
+
+Q: Wodurch erreichen Agile Prozessmodelle höhere Flexibilität?
+A: - Beständiges Testen
+- Frühes Einbeziehen von Nutzern und Domänenexperten
+- Häufige Releases
+- Ständiges Feedback
+- Prototypen
+<!--ID: 1645454018933-->
+
+
+Q: Nenne 3 Gründe warum das Hinzufügen von neuen Projektmitarbeitern zu einem
+bereits verspätetem Projekt zu einer noch späteren Fertigstellung des Projekts führt
+A: - Neuplanung und Aufgabenzuteilung
+- Einarbeitungszeit (kein Benefit)
+- Mehr Kommunikation
+<!--ID: 1645454019052-->
+
+
+
 
 
 #Softwaretechnik 

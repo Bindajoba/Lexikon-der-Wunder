@@ -1,7 +1,7 @@
 TARGET DECK: Universität::Informatik::Betriebssysteme
 
 # Beschreibung
-Mehrere Abläufe, die (Quasi)-[[Parallelität|parallel]] ausgeführt werden heißen nebenläufig, wenn sie inhaltlich zusammenwirken, also voneinander [[Unabhängige und Abhängige Abläufe|abhängig]] sind und ich damit gegenseitig beeinflussen können, d.h.:
+Mehrere Abläufe, die (Quasi)-[[Informatik/Betriebssysteme/Prozessverwaltung/Prozesskoordination/Nebenläufigkeit/Voraussetzungen für Nebenläufigkeit/Parallelität|parallel]] ausgeführt werden heißen nebenläufig, wenn sie inhaltlich zusammenwirken, also voneinander [[Unabhängige und Abhängige Abläufe|abhängig]] sind und ich damit gegenseitig beeinflussen können, d.h.:
 
 Nebenläufigkeit = Parallelität + Abhängigkeit
 

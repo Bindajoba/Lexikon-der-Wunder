@@ -4,7 +4,7 @@ Die Ebenen der Konzeptuellen Entwicklungen wurden von [[Jerome Bruner]] studiert
 ## Ebenen
 ### Enaktive Ebene
 Lernen durch Handeln
-*Vergleiche: Nach Piaget lernen Kinder in der [[Entwicklungsstuenmodell (Piaget)|sensumotorischen Stufe]] ausschließlich durch Handeln und Erleben*
+*Vergleiche: Nach Piaget lernen Kinder in der [[Entwicklungsstufenmodell (Piaget)|sensumotorischen Stufe]] ausschließlich durch Handeln und Erleben*
 
 ### Ikonische Ebene
 Lernen mit Bilder und Grafiken

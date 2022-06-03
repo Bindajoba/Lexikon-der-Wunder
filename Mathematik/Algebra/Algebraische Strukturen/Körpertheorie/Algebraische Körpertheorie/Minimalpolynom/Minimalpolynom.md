@@ -7,7 +7,7 @@ Sei $L|K$ eine [[Körpererweiterung]] und sei $\alpha \in L$ algebraisch über $
 Es wird mit $\mu_{K, \alpha}$ bezeichnet.[^1]
 
 # Charakterisierende Eigenschaften
-## Irreduzibles Polynom
+## [[Irreduzibles Polynom]]
 Ich denke, die Minimalpolynome sind genau die [[Irreduzibles Polynom]]. Sicher bin ich mir aber nicht.
 
 # Eigenschaften
@@ -15,7 +15,7 @@ Ich denke, die Minimalpolynome sind genau die [[Irreduzibles Polynom]]. Sicher b
 Für ein Minimalpolynom $\mu_{K, \alpha}$ gilt:
 - Das Polynom $\mu_{K, \alpha}$ ist [[Irreduzibles Polynom|irreduzibel]]
 - Ist $g \in K[x]$ ein Polynom mit $g(\alpha) = 0$, dann folgt $f|g$
-- Ist $g \in K[x]$ ein weiteres normiertes, irreduzibles Polynom mit $\alpha$ als Nullstelle, dann folgt $f = g$
+- Ist $g \in K[x]$ ein weiteres normiertes, [[Irreduzibles Polynom]] mit $\alpha$ als Nullstelle, dann folgt $f = g$
 
 ## Keine Nullstellen im Bezugskörper
 Sei $\mu_{K, \alpha}$ ein Minimalpolynom. Dann hat es keine Nullstellen in $K$.

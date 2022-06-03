@@ -12,8 +12,22 @@ Das Erstellen eines Prototypen kann sehr wertvolle Erkenntnisse liefern.
 - Hilfreich zur Darstellung von Anforderungen der Benutzerschnittstelle.
 - Experimentieren mit verschiedenen Möglichkeiten
 
+Q: Nenne zwei Vorteile von Prototypen.
+A: - Risikos werden früher identifiziert und geklärt
+- Grundlage für weitere Entwicklung
+- Darstellung von Anforderungen der Benutzerschnittstelle
+- Experimentieren mit Möglichkeiten
+<!--ID: 1645543050705-->
+
+
 # Unterteilung
 ![[Prototyping Unterteilung.png]]
+
+Q: Welche 2 Arten von Prototypen gibt es?
+A: - Vertikaler Prototyp
+- Horizontaler Prototyp
+<!--ID: 1645543050817-->
+
 
 ## Horizontaler Prototyp
 Eine Schicht wird als Prototyp realisiert. Das ist vor allem bei der GUI nützlich, da man mit einem solchen Prototypen bereits zeigen kann, wie das zukünftige Produkt an der Benutzerschnittstelle aussieht und sich für den Benutzer anfühlt.

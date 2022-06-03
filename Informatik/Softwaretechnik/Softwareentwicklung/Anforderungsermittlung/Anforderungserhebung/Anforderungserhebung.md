@@ -2,7 +2,7 @@ TARGET DECK: Universität::Informatik::SWT
 
 # Beschreibung
 In der Anforderungserhebung sollen Anforderungen an die Software gefunden werden, mit der die Erstellung eines gute Produkts garantiert werden kann. 
-Dabei werden Wünsche der Nutzer, Stakeholder, Gesetze und etc. mit berücksichtigt. 
+Dabei werden Wünsche der Nutzer, Stakeholder, [[Randbedingung|Gesetze]] und etc. mit berücksichtigt. 
 
 Q: Was ist das Ziel der Anforderungserhebung?
 A: Anforderungen an eine Software zu finden, mit denen man die Erstellung eines guten Produkts garantieren kann.  
