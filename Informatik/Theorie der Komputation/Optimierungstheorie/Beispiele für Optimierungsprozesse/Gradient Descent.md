@@ -1,5 +1,10 @@
+TARGET DECK: Universität::Informatik::NaCo
+
 # Beschreibung
-Ein [[Optimierungsprozess]]
+Ein [[Optimierungsprozess]]. Der nächstbessere Wert wird gefunden, indem dem Gradienten gefolgt wird.
+
+Q: Wie findet der Optimierungsprozess Gradient Descent den Optimalen Wert?
+A: In dem dem Gradienten, d.h. der am stärksten abfallenden Richtung gefolgt wird.
 
 # Definition
 Sei $\mathcal{T}$ kontinuierlich und $\tau'$ die [[Abbildung|Ableitung]] von $\tau$.

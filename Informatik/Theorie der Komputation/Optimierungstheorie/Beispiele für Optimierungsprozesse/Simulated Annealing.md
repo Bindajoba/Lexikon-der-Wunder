@@ -1,8 +1,8 @@
 # Beschreibung
-Simulated Annealing ist ein [[Optimierungsprozess]].
-Es handelt sich um eine Weiterentwicklung des [[Hill Climbing]].
-Es wird ein Mechanismus eingebaut, bei dem manchmal Zustände mit einer größeren Zielfunktion gewählt werden.
-Dieses Verhalten wird durch eine Funktion $A$ bestimmt. Dessen Verhalten kann sich über eine Funktion $T$ über Zeit ändern.
+Simulated Annealing (dt. Simulierte Abkühlung) ist ein [[Optimierungsprozess]].
+Wie der Name suggeriert wird hier die Physik des Abkühlens simuliert. Wenn Metalle abkühlen, können sich die Moleküle bei hoher Temperatur noch viel bewegen. Wenn die Temperatur sinkt, dann auch die Wahrscheinlichkeit, dass Werte gewählt werden, die schlechter sind als der jetzige. Durch diesen Prozess werden Partikel mit großer Wahrscheinlichkeit in einen optimalen Zustand gebracht.
+
+Es handelt sich im einfachen Sinne um eine Weiterentwicklung des [[Hill Climbing]].
 
 # Definition
 Sei $T: \N \to \R$ eine Temperaturabbildung, d.h. eine eine Funktion, die eine für jeden Zeitschrit eine Temperatur ausgibt.

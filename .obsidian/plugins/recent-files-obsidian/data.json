@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Behaviorismus",
-      "path": "Psychologie/Verhaltenspsychologie/Behaviorismus/Behaviorismus.md"
+      "basename": "Gleichmäßige Kurve",
+      "path": "Mathematik/Geometrie/Kurven & Wege/Gleichmäßige Kurve.md"
     },
     {
-      "basename": "Segment",
-      "path": "Mathematik/Geometrie/Metrik/Punktemengen/Segment.md"
+      "basename": "Analytische Kurve",
+      "path": "Mathematik/Analysis/Funktionentheorie/Komplexe Analysis/Holomorphe Funktionen/Symmetrien/Analytische Kurve.md"
     },
     {
-      "basename": "Polygon",
-      "path": "Mathematik/Geometrie/Metrik/Punktemengen/Polygon.md"
+      "basename": "Artificial Chemistry",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Beispiele für Optimierungsprozesse/Artificial Chemistry.md"
     },
     {
-      "basename": "Fixpunktsatz des Lambdakalküls",
-      "path": "Informatik/Theorie der Komputation/Fixpunktsatz des Lambdakalküls.md"
+      "basename": "Gradient Descent",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Beispiele für Optimierungsprozesse/Gradient Descent.md"
     },
     {
-      "basename": "Church-Numerals",
-      "path": "Informatik/Theorie der Komputation/Church-Numerals.md"
+      "basename": "Programm",
+      "path": "Informatik/Programm.md"
     },
     {
-      "basename": "Lambda-Substitution",
-      "path": "Informatik/Theorie der Komputation/Lambda-Substitution.md"
+      "basename": "Länge einer Kurve",
+      "path": "Mathematik/Geometrie/Kurven & Wege/Grundlagen/Länge einer Kurve.md"
+    },
+    {
+      "basename": "Sinus und Kosinus",
+      "path": "Mathematik/Analysis/Allgemeine Aspekte der Analysis/Funktionen/Beispielfunktionen/Sinus und Kosinus.md"
+    },
+    {
+      "basename": "Isometrie des euklidischen Raumes",
+      "path": "Mathematik/Geometrie/Euklidische Geometrie/Isometrie des euklidischen Raumes.md"
+    },
+    {
+      "basename": "Einheitskreiskurve",
+      "path": "Mathematik/Geometrie/Kurven & Wege/Beispiele/Simple Kurven/Einheitskreiskurve.md"
+    },
+    {
+      "basename": "Rotation (Geometrie)",
+      "path": "Mathematik/Geometrie/Metrik/Isometrien/Rotation (Geometrie).md"
     },
     {
       "basename": "Lambda-Evaluation",
       "path": "Informatik/Theorie der Komputation/Lambda-Evaluation.md"
     },
     {
+      "basename": "Lambda-Substitution",
+      "path": "Informatik/Theorie der Komputation/Lambda-Substitution.md"
+    },
+    {
       "basename": "Lambda-Term",
       "path": "Informatik/Theorie der Komputation/Lambda-Term.md"
     },
     {
-      "basename": "Konvexe Hülle",
-      "path": "Mathematik/Geometrie/Metrik/Konvexität/Konvexe Hülle.md"
-    },
-    {
-      "basename": "Symmetrie",
-      "path": "Mathematik/Geometrie/Metrik/Symmetrie/Symmetrie.md"
-    },
-    {
-      "basename": "Stetig differenzierbare Kurve",
-      "path": "Mathematik/Geometrie/Wege/Stetig differenzierbare Kurve.md"
-    },
-    {
-      "basename": "Rektifizierbarkeit",
-      "path": "Mathematik/Geometrie/Wege/Rektifizierbarkeit.md"
-    },
-    {
-      "basename": "Koch'sche Schneeflocke",
-      "path": "Mathematik/Geometrie/Wege/Fraktale/Koch'sche Schneeflocke.md"
-    },
-    {
-      "basename": "Latex-Befehle",
-      "path": "Template/Latex-Befehle.md"
-    },
-    {
-      "basename": "Geometrie",
-      "path": "Template/Geometrie.md"
-    },
-    {
-      "basename": "Reparametrisierung",
-      "path": "Mathematik/Geometrie/Wege/Reparametrisierung.md"
-    },
-    {
-      "basename": "Konvexe Menge",
-      "path": "Mathematik/Geometrie/Metrik/Konvexität/Konvexe Menge.md"
-    },
-    {
-      "basename": "Skalarprodukt",
-      "path": "Mathematik/Geometrie/Skalarproduktbezogenes/Skalarprodukt.md"
-    },
-    {
-      "basename": "Baryzenter",
-      "path": "Mathematik/Geometrie/Metrik/Symmetrie/Baryzenter.md"
-    },
-    {
-      "basename": "Spiegelung an Hyperebene",
-      "path": "Mathematik/Geometrie/Skalarproduktbezogenes/Spiegelung an Hyperebene.md"
-    },
-    {
-      "basename": "Standardskalarprodukt",
-      "path": "Mathematik/Geometrie/Skalarproduktbezogenes/Standardskalarprodukt.md"
-    },
-    {
-      "basename": "Optimierung",
-      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Optimierung.md"
-    },
-    {
-      "basename": "Optimierungslauf",
-      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Optimierungslauf.md"
-    },
-    {
-      "basename": "Obersumme",
-      "path": "Mathematik/Analysis/Differentialrechung/Maßtheorie/Obersumme.md"
-    },
-    {
-      "basename": "Raum der Kompakten Träger",
-      "path": "Mathematik/Analysis/Differentialrechung/Maßtheorie/Raum der Kompakten Träger.md"
-    },
-    {
-      "basename": "Verband",
-      "path": "Mathematik/Analysis/Differentialrechung/Maßtheorie/Verband.md"
-    },
-    {
-      "basename": "Halbnorm",
-      "path": "Mathematik/Analysis/Differentialrechung/Maßtheorie/Halbnorm.md"
-    },
-    {
-      "basename": "Positives Funktional",
-      "path": "Mathematik/Analysis/Differentialrechung/Maßtheorie/Positives Funktional.md"
-    },
-    {
-      "basename": "Vektorraum mit Halbnorm",
-      "path": "Mathematik/Analysis/Differentialrechung/Maßtheorie/Vektorraum mit Halbnorm.md"
-    },
-    {
-      "basename": "Abschluss eines Vektorraums",
-      "path": "Mathematik/Analysis/Differentialrechung/Maßtheorie/Abschluss eines Vektorraums.md"
-    },
-    {
-      "basename": "Reduktionskriterium",
-      "path": "Mathematik/Algebra/Algebraische Strukturen/Ringtheorie/Polynomuntersuchungen/Irreduzibilitätskriterien/Reduktionskriterium.md"
-    },
-    {
-      "basename": "Galoisgruppen von Polynomen vierten Grades",
-      "path": "Mathematik/Algebra/Algebraische Strukturen/Körpertheorie/Galoistheorie/Galoisgruppen spezieller Erweiterungen/Galoisgruppen von Polynomen vierten Grades/Galoisgruppen von Polynomen vierten Grades.md"
-    },
-    {
-      "basename": "Transitive Galoisgruppe",
-      "path": "Mathematik/Algebra/Algebraische Strukturen/Körpertheorie/Galoistheorie/Begriffe von Hadlock/Transitive Galoisgruppe.md"
-    },
-    {
-      "basename": "Länge einer Kurve",
-      "path": "Mathematik/Geometrie/Wege/Länge einer Kurve.md"
-    },
-    {
-      "basename": "Natural Computing",
-      "path": "Template/Natural Computing.md"
-    },
-    {
-      "basename": "Verkettung (Kurve)",
-      "path": "Mathematik/Geometrie/Wege/Verkettung (Kurve).md"
-    },
-    {
-      "basename": "Kurve",
-      "path": "Mathematik/Geometrie/Wege/Kurve.md"
-    },
-    {
-      "basename": "Nullhomotope Komplexe Stückweise Differenzierbare Schleife",
-      "path": "Mathematik/Geometrie/Wege/Nullhomotope Komplexe Stückweise Differenzierbare Schleife.md"
-    },
-    {
-      "basename": "Einfach durchlaufene Kurve",
-      "path": "Mathematik/Geometrie/Wege/Einfach durchlaufene Kurve.md"
-    },
-    {
-      "basename": "Einfache Kurve",
-      "path": "Mathematik/Geometrie/Wege/Einfache Kurve.md"
+      "basename": "Church-Numerals",
+      "path": "Informatik/Theorie der Komputation/Church-Numerals.md"
     },
     {
       "basename": "Winkel",
       "path": "Mathematik/Geometrie/Winkel/Winkel.md"
     },
     {
-      "basename": "Algebraischer Abschluss F2 F8 Kompakte Darstellung",
-      "path": "Aktuelle Fragen/Algebraischer Abschluss von F2/Algebraischer Abschluss F2 F8 Kompakte Darstellung.png"
+      "basename": "Rechtwinkliges Dreieck",
+      "path": "Didaktik/Didaktik der Mathematik/Fachbezogene Aspekte/Raum und Form/Figuren/Rechtwinkliges Dreieck.md"
     },
     {
-      "basename": "Algebraischer Abschluss F2 Transitionen Mal",
-      "path": "Aktuelle Fragen/Algebraischer Abschluss von F2/Algebraischer Abschluss F2 Transitionen Mal.png"
+      "basename": "Koch'sche Schneeflocke",
+      "path": "Mathematik/Geometrie/Kurven & Wege/Beispiele/Fraktale Kurven/Koch'sche Schneeflocke.md"
     },
     {
-      "basename": "Algebraischer Abschluss F2 Zahlensystem F8",
-      "path": "Aktuelle Fragen/Algebraischer Abschluss von F2/Algebraischer Abschluss F2 Zahlensystem F8.png"
+      "basename": "Treppenkurvenfolge",
+      "path": "Mathematik/Geometrie/Kurven & Wege/Beispiele/Fraktale Kurven/Treppenkurvenfolge.md"
     },
     {
-      "basename": "Analytische Funktion",
-      "path": "Mathematik/Analysis/Funktionentheorie/Komplexe Analysis/Holomorphe Funktionen/Analytische Funktion.md"
+      "basename": "Cantor-Menge",
+      "path": "Mathematik/Geometrie/Kurven & Wege/Beispiele/Fraktale Kurven/Cantor-Menge.md"
     },
     {
-      "basename": "Sensorischer Kortex",
-      "path": "Sensorischer Kortex.md"
+      "basename": "Raumfüllende Kurve",
+      "path": "Mathematik/Geometrie/Kurven & Wege/Beispiele/Raumfüllende Kurven/Raumfüllende Kurve.md"
     },
     {
-      "basename": "Entwicklungsstufenmodell (Piaget)",
-      "path": "Entwicklungsstufenmodell (Piaget).md"
+      "basename": "PI (Geoemtrie)",
+      "path": "Mathematik/Geometrie/Winkel/PI (Geoemtrie).md"
+    },
+    {
+      "basename": "Kreis (Geometrie)",
+      "path": "Mathematik/Geometrie/Figuren/Kreis (Geometrie).md"
+    },
+    {
+      "basename": "Kreis",
+      "path": "Mathematik/Geometrie/Figuren/Kreis.md"
+    },
+    {
+      "basename": "Einheitskreis",
+      "path": "Mathematik/Geometrie/Figuren/Einheitskreis.md"
+    },
+    {
+      "basename": "Kreis (Didaktik)",
+      "path": "Didaktik/Didaktik der Mathematik/Fachbezogene Aspekte/Raum und Form/Figuren/Kreis/Kreis (Didaktik).md"
+    },
+    {
+      "basename": "Rechtwinkliges Dreieck",
+      "path": "Mathematik/Geometrie/Figuren/Rechtwinkliges Dreieck.md"
+    },
+    {
+      "basename": "Zellulärer Automat",
+      "path": "Informatik/Theorie der Komputation/Automatentheorie/Zelluläre Automaten/Zellulärer Automat/Zellulärer Automat.md"
+    },
+    {
+      "basename": "Turingmaschine",
+      "path": "Informatik/Theorie der Komputation/Berechenbarkeitstheorie/Turingberechenbarkeit/Turingmaschinen/Turingmaschine.md"
+    },
+    {
+      "basename": "Simulated Annealing with local gradient descent",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Beispiele für Optimierungsprozesse/Simulated Annealing with local gradient descent.md"
+    },
+    {
+      "basename": "Simulated Annealing",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Beispiele für Optimierungsprozesse/Simulated Annealing.md"
+    },
+    {
+      "basename": "Populationsbasierte Optimierung",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Populationsbasierte Optimierung/Populationsbasierte Optimierung.md"
+    },
+    {
+      "basename": "Particle Swarm Optimierung",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Populationsbasierte Optimierung/Particle Swarm Optimierung.md"
+    },
+    {
+      "basename": "Optimierungsprozess",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Optimierungsprozess.md"
+    },
+    {
+      "basename": "Optimierungslauf",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Optimierungslauf.md"
+    },
+    {
+      "basename": "Optimierung",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Optimierung.md"
+    },
+    {
+      "basename": "Natural Computing",
+      "path": "Template/Natural Computing.md"
+    },
+    {
+      "basename": "Nachbarschaft (Graphentheorie)",
+      "path": "Informatik/Theorie der Komputation/Automatentheorie/Zelluläre Automaten/Nachbarschaft (Graphentheorie).md"
+    },
+    {
+      "basename": "Muster (Zellulärer Automat)",
+      "path": "Informatik/Theorie der Komputation/Automatentheorie/Zelluläre Automaten/Muster (Zellulärer Automat).md"
     },
     {
       "basename": "Lauflängenkodierung",
       "path": "Informatik/Theorie der Komputation/Algorithmen/Komprimierung/Lauflängenkodierung.md"
     },
     {
-      "basename": "Zustand (Zellulärer Automat)",
-      "path": "Informatik/Theorie der Komputation/Automatentheorie/Zelluläre Automaten/Zustand (Zellulärer Automat).md"
+      "basename": "Knotengrad (Graphentheorie)",
+      "path": "Informatik/Theorie der Komputation/Automatentheorie/Zelluläre Automaten/Knotengrad (Graphentheorie).md"
     },
     {
-      "basename": "Muster (Zellulärer Automat)",
-      "path": "Informatik/Theorie der Komputation/Automatentheorie/Zelluläre Automaten/Muster (Zellulärer Automat).md"
+      "basename": "Hill Climbing",
+      "path": "Informatik/Theorie der Komputation/Optimierungstheorie/Beispiele für Optimierungsprozesse/Hill Climbing.md"
+    },
+    {
+      "basename": "Graphengrad",
+      "path": "Informatik/Theorie der Komputation/Automatentheorie/Zelluläre Automaten/Graphengrad.md"
+    },
+    {
+      "basename": "Garten von Eden",
+      "path": "Informatik/Theorie der Komputation/Automatentheorie/Zelluläre Automaten/Garten von Eden.md"
+    },
+    {
+      "basename": "Fixpunktsatz des Lambdakalküls",
+      "path": "Informatik/Theorie der Komputation/Fixpunktsatz des Lambdakalküls.md"
+    },
+    {
+      "basename": "Turingberechenbarkeit",
+      "path": "Informatik/Theorie der Komputation/Berechenbarkeitstheorie/Turingberechenbarkeit/Turingberechenbarkeit.md"
+    },
+    {
+      "basename": "1D Zellulärer Automat",
+      "path": "Informatik/Theorie der Komputation/Automatentheorie/Zelluläre Automaten/1D Zellulärer Automat/1D Zellulärer Automat.md"
+    },
+    {
+      "basename": "Asymptotische Stabilität",
+      "path": "Mathematik/Analysis/Differentialrechung/Differentialgleichungen/Gewöhnliche DGL/Asymptotische Stabilität.md"
+    },
+    {
+      "basename": "Metrik",
+      "path": "Mathematik/Geometrie/Metrik/Metrik.md"
+    },
+    {
+      "basename": "Stetig differenzierbare Kurve",
+      "path": "Mathematik/Geometrie/Kurven & Wege/Grundlagen/Stetig differenzierbare Kurve.md"
+    },
+    {
+      "basename": "Kurve",
+      "path": "Mathematik/Geometrie/Kurven & Wege/Grundlagen/Kurve.md"
     }
   ],
   "omittedPaths": [

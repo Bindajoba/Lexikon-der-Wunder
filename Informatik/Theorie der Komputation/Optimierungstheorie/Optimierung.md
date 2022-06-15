@@ -18,8 +18,11 @@ Eine [[Totale Funktion]] $\tau : \mathcal{X} \to \mathcal{T}$ wird Zielfunktion 
   Die Landschaft hat eine solche Form, dass sie zur falschen Lösung verleitet. z.B. ein Brunnen auf einem Hügel. Etwas formaler: Die Landschaft ist global anders als man von einer Lokalen Betrachtung erwarten würde
 - **Premature Konvergence**
   Die Landschaft hat einige Lokale Optima, bei denen der [[Optimierungslauf]] stecken bleiben kann.
-  
 
+Q: Nenne drei Charakterisitka schwieriger Ziellandschaften
+A: - Smoothness
+- Deception
+- Premature Konvergence
 
 # Beispiele
 ## Shortest Path

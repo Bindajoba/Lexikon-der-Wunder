@@ -1,8 +1,10 @@
-TARGET DECK: Universität::Informatik::SWT
+TARGET DECK: Universität::Informatik::NaCo
 
 # Beschreibung
 Ein Garten von Eden ist ein [[Zustand (Zellulärer Automat)]], der nur ein Initialzustand sein kann, d.h. nicht durch einen anderen Zustand erzeugt werden kann.
 
+Q: Was ist ein Garden of Eden?
+A: Ein Zustand einer Zellulären Maschine, der nur ein Anfangszustand sein kann.
 
 # Eigenschaften
 ## Verursachendes Muster

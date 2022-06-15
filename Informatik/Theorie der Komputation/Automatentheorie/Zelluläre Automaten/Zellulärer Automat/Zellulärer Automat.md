@@ -24,6 +24,11 @@ Ein Tupel $(G, f, x_S)$ wird **Zellulärer Automat** genannt mit Initialzustand 
 
 ![[Klassifizierung Automaten.png]]
 
+Q: Was sind die 4 Klassifizierungen von durch Zellulären Automaten erzeugten Mustern?
+A: - Uniformity
+- Repetition
+- Random
+- Complexity
 
 # Beispiel
 ## Conways Spiel des Lebens

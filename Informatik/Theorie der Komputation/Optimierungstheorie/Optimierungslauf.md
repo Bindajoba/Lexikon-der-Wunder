@@ -1,4 +1,8 @@
 # Beschreibung
+Ein Optimierungslauf ist eine Sequenz von Zuständen, die sich einem besseren Ergebnis annähern sollten.
+
+Q: Optimierungslauf 
+A: eine Sequenz von Zuständen, die sich einem besseren Ergebnis annähern sollten.
 
 
 # Definition

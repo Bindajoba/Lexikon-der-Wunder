@@ -89,7 +89,7 @@ Es ist üblich, bei einem Funktionalem Zusammenhang zweier Größen eine Proport
 
 ## Innermathematische Zusammenhänge
 ### Zusmmenhang zwischen Radius und Umfang
-Der Zusammenhang zwischen Radius und Umfang eines [[Kreis|Kreises]] erkennt man am besten, indem man die Schüler einen Graphen zeichnen lässt.
+Der Zusammenhang zwischen Radius und Umfang eines [[Kreis (Didaktik)|Kreises]] erkennt man am besten, indem man die Schüler einen Graphen zeichnen lässt.
 
 ### Prozentrechung
 Alle Strategien, die bei Proportionalitäten genutzt werden können, können auch bei der Prozentrechung verwendet werden. (z.B. Dreisatz)

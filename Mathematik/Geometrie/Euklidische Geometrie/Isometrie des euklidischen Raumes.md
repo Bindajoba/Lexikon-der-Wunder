@@ -51,6 +51,12 @@ Das ist ein spezielles [[Semidirektes Produkt]]
 
 Da jede Isometrie eine Verkettung von Spiegelungen ist, ist diese Gruppe aus Elementen der Ordnung $2$ erzeugt.
 
+## Fixpunkte und Unterklassifizierung
+Angenommen $\phi$ ist eine Isometrie des euklidischen Raumes und $\phi(p) = p$ ist ein Fixpunkt. Dann gilt genau eines:
+1. Jeder Punkt ist Fixpunkt $\implies \phi = id$
+2. $G$ sind die Fixpunkte $\implies \phi = \nu_g$
+3. $p$ einziger Fixpunkt $\implies \phi(x) = p + R_\theta(x-p)$
+
 # Sonstiges
 ## Ausrichtung eines Normalvektor
 Falls $v \in R^n$ ein [[Einheitsvektor]] ist, dann gibt es [[Orthogonale Matrix|orthogonales]] $A$ (d.h. $A^TA = Id$), sodass $Av = e_1$

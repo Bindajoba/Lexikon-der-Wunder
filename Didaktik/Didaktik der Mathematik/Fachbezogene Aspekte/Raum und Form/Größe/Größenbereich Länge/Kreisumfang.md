@@ -1,5 +1,5 @@
 ## Beschreibung
-Der Kreisumfang ist der [[Umfang]] eines [[Kreis|Kreises]]
+Der Kreisumfang ist der [[Umfang]] eines [[Kreis (Didaktik)|Kreises]]
 
 ## Wesentliche Schritte
 - **Konkretes Bestimmen von Kreisumfängen**

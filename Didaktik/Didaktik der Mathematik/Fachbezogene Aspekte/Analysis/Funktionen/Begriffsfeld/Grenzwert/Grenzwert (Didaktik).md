@@ -5,7 +5,7 @@ TARGET DECK: Universität::MaDid III
 Dieses Thema wird in Schulen schon frühr benötigt (unendliche Dezimalbrüche, reelle Zahlen, Umfang/Flächeninhalt von Kreisen) aber leider nicht explizit thematisiert. Es findet in manchen Beweisen implizit Anwendung.
 
 # Verwendung
-- Berechnung der Fläche einer [[Kreis|Kreises]] 
+- Berechnung der Fläche einer [[Kreis (Didaktik)|Kreises]] 
 - [[Asymptote|Asymptoten]]
 - Argumentation von $0,\overline{9} = 1$ 
 

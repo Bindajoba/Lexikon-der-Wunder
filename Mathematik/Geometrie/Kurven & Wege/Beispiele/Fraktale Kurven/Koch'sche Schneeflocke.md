@@ -23,7 +23,7 @@ Baue Kurve $f_1: [0, 1] \to \R$, sodass
 Der Grenzwert der Konstruktion oben hat folgende Eigenschaften:
 
 ## Stetigkeit
-Die Koch'sche Schneeflocke ist stetig.
+Die Koch'sche Schneeflocke ist stetig, dass kann man mit dem $\delta$-$\varepsilon$-Kriterium prüfen.
 
 ## Nicht rektifizierbar
 Die Länge der Flocke ist nicht rektifizierbar.

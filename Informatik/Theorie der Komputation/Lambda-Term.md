@@ -14,5 +14,10 @@ Jedes Element $L \in \Lambda$ wird ein $\lambda$-term gennant. Die freien Variab
 - Wenn $L = (\lambda x. M)$ für ein $x \in V, M \in \Lambda$, dann $\mathfrak{F}(L) = \mathfrak{F}(M) \backslash \{x\}$,
 - Wenn $L = (M \, N)$ für ein $M, N \in \Lambda$, dann $\mathfrak{F}(L) = \mathfrak{F}(M) \sup \mathfrak{F}(N)$
 
+Q: Welche drei Typen von Lambda-Term Strukturelementen gibt es?
+- Variable
+- Abstraktion
+- Applikation
+
 
 #Natural-Computing 

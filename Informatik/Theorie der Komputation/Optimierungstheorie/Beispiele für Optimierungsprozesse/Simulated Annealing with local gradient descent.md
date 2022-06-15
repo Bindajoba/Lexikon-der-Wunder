@@ -1,6 +1,7 @@
 # Beschreibung
 Kombiniert man die Methoden des [[Simulated Annealing]] und des [[Gradient Descent]], dann erhält man eine Verbesserung der beiden.
 
+
 # Definition
 Sei $\mathcal{D} = (\mathcal{X}, \mathcal{T}, \tau, e_\mathcal{D}, \wink{x_t}_{0 \leq u \leq t})$ ein [[Optimierungsprozess]], welches [[Simulated Annealing]] verwendet.
 Sei $\mathcal{F} = (\mathcal{X}, \mathcal{T}, \tau, e_\mathcal{F}, \wink{x_{t+v}}_{0 \leq v \leq t})$ ein [[Optimierungsprozess]], welches [[Gradient Descent]] verwendet.

@@ -1,6 +1,6 @@
 ## Beschreibung
 Die Inversion ist eine Methode eine Spiegelungsachse auf Kreisränder zu verallgemeinern.
-Man spiegelt dabei das Äußere des [[Kreis|Kreises]] in das Innere und umgekehrt.
+Man spiegelt dabei das Äußere des [[Kreis (Didaktik)|Kreises]] in das Innere und umgekehrt.
 
 ## Definition
 ### Komplexe Ebene
@@ -30,7 +30,7 @@ Inversionen haben eine Menge Eigenschaften. Das war fast ein ganzes Kapitel von 
 Sei $H$ die [[Hyperbel]] mit $x^2 + y^2 = 1$
 Dann ergibt die Inversion der Hyperbel die [[Lemniskate]].
 
-*Das Ergebnis erhält man durch einen kleinen Umweg. Das komplexe Quadrat von $H$ ist eine Gerade $x=1$, die Inversion davon ist ein [[Kreis]] durch 0 und 1 mit Durchmesser 1. Nimmt man davon die [[Holomorphe Wurzel|Wurzelfunktion]] erhält man die Lemniskate.* 
+*Das Ergebnis erhält man durch einen kleinen Umweg. Das komplexe Quadrat von $H$ ist eine Gerade $x=1$, die Inversion davon ist ein [[Kreis (Didaktik)]] durch 0 und 1 mit Durchmesser 1. Nimmt man davon die [[Holomorphe Wurzel|Wurzelfunktion]] erhält man die Lemniskate.* 
 
 ### Involutorisch
 Die **Inversion** ist involutorisch (d.h. sie vertauscht zwei Punkte)

@@ -1,5 +1,8 @@
 # Beschreibung
+Das wiederholte Aufrufen einerOptimierungsfunktion.
 
+Q: Optimierungsprozess
+A: Das wiederholte Aufrufen einerOptimierungsfunktion
 
 # Definition
 Ziel ist eine Optimierung auf dem Zustandsraum $\mathcal{X}$ und auf dem Zielraum $\mathcal{T}$ und der Zielfunktion $\tau$.

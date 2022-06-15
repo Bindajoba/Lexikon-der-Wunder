@@ -2,7 +2,7 @@
 Die Krümmung beschreibt, wie gekrümmt ein [[Weg]] an einem bestimmten Punkt ist.
 
 ## Definition
-Die legt man an eine Kurve einen [[Kreis]] so an, dass er die Kurve tangiert und zusätzlich die gleiche Krümmung hat, so ist die Krümmung an diesem Punkt der Kehrwert des Kreisradius.
+Die legt man an eine Kurve einen [[Kreis (Didaktik)]] so an, dass er die Kurve tangiert und zusätzlich die gleiche Krümmung hat, so ist die Krümmung an diesem Punkt der Kehrwert des Kreisradius.
 
 Es fällt auf: Je kleiner der angelegte Wert, desto stärker die Krümmung.
 

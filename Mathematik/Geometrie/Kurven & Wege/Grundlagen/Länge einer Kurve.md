@@ -18,6 +18,17 @@ wobei die $t_i$ eine Zerlegung von $[a,b]$ sind.
 # Eigenschaften
 
 
+# Problematiken
+## Nicht rektifizierbare Kurven
+Manche Kurven sind nicht rektifizierbar, ihr Länge ist also $\infty$.
+Dazu gehören die 
+- [[Koch'sche Schneeflocke]]
+
+## Kurven mit unterschiedlichem Längengrenzwert
+Der Grnezwert einer Kurvenlänge muss nicht gleich der Länge eines Kurvengrenzwerts sein.
+Zum Beispiel
+- [[Treppenkurvenfolge]]
+
 
 $\newcommand{\ges}[1]{\left\{ #1 \right\}}$
 $\newcommand{\wink}[1]{\left\langle #1 \right\rangle}$
@@ -29,7 +40,6 @@ $\newcommand{\F}{\mathbb F}$
 $\newcommand{\Z}{\mathbb Z}$
 $\newcommand{\N}{\mathbb N}$
 $\newcommand{\a}{\alpha}$
-
 
 
 #Geometrie

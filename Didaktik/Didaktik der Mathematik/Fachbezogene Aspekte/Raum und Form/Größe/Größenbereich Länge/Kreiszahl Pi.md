@@ -17,7 +17,7 @@ Mithilfe des [[Kreisumfang]] ergeben sich Methoden $\pi$ zu berechnen
 Siehe [[Archimedes-Verfahren]]
 
 ## Herangehensweisen zur Bestimmung über Flächeninhalt
-Durch den [[Kreis#Flächeninhalt|Flächeninhalt]] eines Kreises kann man ebenso $\pi$ berechnen.
+Durch den [[Kreis (Didaktik)#Flächeninhalt|Flächeninhalt]] eines Kreises kann man ebenso $\pi$ berechnen.
 
 ### In- und Umsechseck
 ![[Sechseck.png]]
